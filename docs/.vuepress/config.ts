@@ -19,6 +19,7 @@ const blogs=[
 ]
 
 export default defineConfig4CustomTheme({
+	
 	locales: {
 		'/': {
 			lang: 'zh-CN',
@@ -44,7 +45,7 @@ export default defineConfig4CustomTheme({
 		],
 		sidebar: blogs.map(blog=>{
 			return {
-				text: blog.title,
+				title: blog.title,
 				children: blog.children.map(child=>{
 					return {
 						title: child.title,
