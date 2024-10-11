@@ -1,5 +1,6 @@
 import { defineConfig4CustomTheme, UserPlugins } from 'vuepress/config';
-const BASE='/blog-web/';
+
+const BASE='/blog-web/'; // 与Github 仓库名以及package.json name 同名
 
 const blogs=[
 	{
@@ -53,7 +54,7 @@ export default defineConfig4CustomTheme({
 			}
 		}),
 		searchMaxSuggestions: 10,
-		
+		repo: 'wl-007/'+BASE,
 	},
 	dest: 'dist',
 	plugins: <UserPlugins>[
