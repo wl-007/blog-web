@@ -15,7 +15,65 @@ const blogs=[
 				path: '/css/css进阶.md',
 			},
 		]
-	}
+	},
+	{
+		title: 'JS',
+		children: [
+			{
+				title: 'JS基础',
+				path: '/JS/JS基础.md',
+			},
+		]
+	},
+	{
+		title: 'Vue',
+		children: [
+			{
+				title: 'vue2',
+				path: '/Vue/vue2.md',
+			},
+			{
+				title: 'vue3',
+				path: '/Vue/vue3.md',
+			},
+		]
+	},
+	{
+		title: '其他',
+		children: [
+			{
+				title: 'React',
+				children: [
+					{
+						title: 'React',
+						path: '/React/react.md',
+					},
+				]
+			},
+			{
+				title: 'TS',
+				children: [
+					{
+						title: 'ts',
+						path: '/TS/ts.md',
+					},
+				]
+			},
+			{
+				title: 'UniApp',
+				children: [
+					{
+						title: 'UniApp',
+						path: '/UniApp/UniApp.md',
+					},
+					{
+						title: '工具Code',
+						path: '/UniApp/工具Code.md',
+					},
+				]
+			},
+		]
+	},
 ]
 
 export default defineConfig4CustomTheme({
@@ -35,6 +93,18 @@ export default defineConfig4CustomTheme({
 				return {
 					text: blog.title,
 					items: blog.children.map(child=>{
+						if(child.children){
+
+							return {
+								text: child.title,
+								items: child.children.map(grandson=>{
+									return {
+										text: grandson.title,
+										link: grandson.path
+									}
+								})
+							}
+						}
 						return {
 							text: child.title,
 							link: child.path
@@ -47,6 +117,17 @@ export default defineConfig4CustomTheme({
 			return {
 				title: blog.title,
 				children: blog.children.map(child=>{
+					if(child.children){
+						return {
+							title: child.title,
+							children: child.children.map(grandson=>{
+								return {
+									title: grandson.title,
+									path: grandson.path
+								}
+							})
+						}
+					}
 					return {
 						title: child.title,
 						path: child.path
