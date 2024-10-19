@@ -14,7 +14,7 @@ yarn create vite chitu-project --template vue-ts
 
 ## 二、VSCode 插件下载
 
-![image-20221215225727963](assets/20230705141130.png)
+![image-20221215225727963](./assets/20230705141130.png)
 
 # vue3基础
 
