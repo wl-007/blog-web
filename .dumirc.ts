@@ -3,8 +3,6 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   themeConfig: {
     name: '',
-    base: '/blog-web/',
-    publicPath: '/blog-web/',
     logo: '',
     nav: {
       // mode可选值有：override、append、prepend
@@ -14,8 +12,12 @@ export default defineConfig({
       mode: 'append',
       value: [{ title: 'Github', link: 'https://github.com/wl-007/blog-web' }],
     },
+  
   },
+  base: '/blog-web/',
+  publicPath: '/blog-web/',
   resolve: {
     codeBlockMode: 'passive',
+   
   },
 });
