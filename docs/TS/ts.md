@@ -1,3 +1,13 @@
+---
+title:  ts
+order: 1
+group:
+  title: ts
+  order: 1
+nav:
+  title: 其他
+  order: 1
+---
 # TS 环境搭建
 
  TypeScript，是 JavaScript 的超集，可以简单理解为 TS 是 JS 的升级版。

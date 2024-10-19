@@ -1,3 +1,13 @@
+---
+title:  React
+order: 1
+group:
+  title: React
+  order: 1
+nav:
+  title: 基础
+  order: 3
+---
 # 一、react项目创建
 
 ## vite搭建
@@ -504,7 +514,7 @@ export default class TodoList extends Component {
 
 # 类组件生命周期
 
-![image-20230617144132931](assets/image-20230617144132931.png)
+![image-20230617144132931](./assets/image-20230617144132931.png)
 
 ## 一 常用生命周期
 

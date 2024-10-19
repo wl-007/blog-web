@@ -1,3 +1,13 @@
+---
+title:  Vue3
+order: 2
+group:
+  title: vue
+  order: 2
+nav:
+  title: vue
+  order: 2
+---
 # vue3项目搭建
 
 ## 一、使用Vite搭建
@@ -523,8 +533,6 @@ onMounted(() => {
     globalStore.getMenusAsync();
 })
 ```
-
-
 
 ## end
 

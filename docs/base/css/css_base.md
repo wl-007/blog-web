@@ -1,3 +1,13 @@
+---
+title:  css基础
+order: 1
+group:
+  title: css
+  order: 1
+nav:
+  title: 基础
+  order: 1
+---
 ## 样式的来源
 
 注意：所有的html标签默认是没有样式
@@ -159,7 +169,7 @@
 }
 ```
 
-![img](assets/image.png)
+![img](./assets/image.png)
 
 注意：
 

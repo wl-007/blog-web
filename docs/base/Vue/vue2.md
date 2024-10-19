@@ -1,4 +1,13 @@
-
+---
+title:  Vue2
+order: 1
+group:
+  title: vue
+  order: 1
+nav:
+  title: vue
+  order: 1
+---
 
 # Vue2框架的使用
 
@@ -27,7 +36,7 @@ vue create project1
 
   1. Please pick a preset: (Use arrow keys), 选择一个预加载的模板，我们选择自定义
 
-```
+```bash
   Vue CLI v5.0.8
   ? Please pick a preset:
     Default ([Vue 3] babel, eslint)  --vue3的项目
@@ -37,7 +46,7 @@ vue create project1
 
     2. 选择要安装的插件
 
-```
+```bash
   Check the features needed for your project: (Press <space> to select, <a> to toggle all, <i> to invert selection, and<enter> to proceed)
   (*) Babel            --编译vue文件用的插件>
   ( ) TypeScript            --使用ts开发vue 
@@ -52,7 +61,7 @@ vue create project1
 
     3. 选择vue的版本
 
-```
+```bash
   ? Choose a version of Vue.js that you want to start the project with  
   3.x
   > 2.x
@@ -606,7 +615,7 @@ this.$delete(this.objUser, "sex");
 
 ### 图栗
 
-![vue生成周期](assets/diff.png)
+![vue生成周期](./assets/diff.png)
 
 
 
@@ -644,7 +653,7 @@ destroyed()：销毁后，此时真实DOM可用
 
 
 
-![vue生成周期](assets/vue生成周期.png)
+![vue生成周期](./assets/vue生成周期.png)
 
 
 
@@ -961,7 +970,6 @@ this.$router.push({
 
 ```vue
 <el-menu router class="el-menu-vertical-demo" background-color="#545c64" text-color="#fff" ctive-text-color="#ffd04b">
-
 <!-- index属性值是路由地址便可跳转对应页面  -->
 <el-menu-item index="/layout/order">
     订单

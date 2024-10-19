@@ -7,10 +7,11 @@
     "dev": "npm run docs:dev",
     "deploy": "npm run docs:build && npm run docs:deploy",
     "docs:deploy": "gh-pages -d dist",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "dumi dev",
+    "docs:build": "dumi build"
   },
   "devDependencies": {
+    "dumi": "^2.4.13",
     "gh-pages": "^3.0.0",
     "vuepress": "^1.9.9",
     "vuepress-plugin-one-click-copy": "^1.0.2",

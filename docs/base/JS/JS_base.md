@@ -1,3 +1,13 @@
+---
+title:  js基础
+order: 1
+group:
+  title: js
+  order: 1
+nav:
+  title: 基础
+  order: 2
+---
 输出：
 
 - 控制台输出

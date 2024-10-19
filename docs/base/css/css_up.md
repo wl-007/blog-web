@@ -1,3 +1,13 @@
+---
+title:  css进阶
+order: 1
+group:
+  title: css
+  order: 2
+nav:
+  title: 基础
+  order: 0
+---
 # 浮动
 
 ## 块级元素同行显示
@@ -304,7 +314,7 @@ z-index: 数字；
 
 - width和height属性表示conten的长宽
 
-![img](assets/images.jpg)
+![img](./assets/images.jpg)
 
 上面就是一个标准盒模型：
 
@@ -427,7 +437,7 @@ css中设置的width和height分别代表内容区域（content）的大小
 -  width和height属性包含 content、padding、border
 -  一般用于解决固定布局之后调整padding、border后的界面变形
 
-![img](assets/image-1691940022769.png)
+![img](./assets/image-1691940022769.png)
 
 
 
@@ -461,7 +471,7 @@ css中设置的width和height分别代表内容区域（content）的大小
 
 #### 弹性盒模型结构
 
-![img](assets/image-1691940022824.png)
+![img](./assets/image-1691940022824.png)
 
 - 弹性容器：弹性布局的整体布局，任何元素都可以设置属性成为弹性布局。
 - 弹性项目：弹性容器里的布局模块，主要针对块级元素进行布局。
@@ -811,7 +821,7 @@ transform:rotate(180deg) translateX(100px);
 
 ## 动画的概念
 
-![img](assets/20210224224910.gif)
+![img](./assets/20210224224910.gif)
 
 - 动画：快速切换连续的图片而达到的流畅的画面效果。
 - 帧数：一秒钟切换图片的数据，数量越多，画面越流畅。60hz（每秒钟切换60张图片）
