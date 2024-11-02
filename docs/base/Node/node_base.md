@@ -1,12 +1,14 @@
 ---
 title:  node
-order: 1
 group:
   title: node
   order: 1
 nav:
   title: 基础
-  order: 4
+  order: 1
+  second:
+    title: Node
+    order: 5
 ---
 # 全局对象 global
 

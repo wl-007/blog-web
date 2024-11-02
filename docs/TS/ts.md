@@ -6,7 +6,7 @@ group:
   order: 1
 nav:
   title: 其他
-  order: 1
+  order: 3
 ---
 # TS 环境搭建
 

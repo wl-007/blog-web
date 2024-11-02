@@ -7,6 +7,9 @@ group:
 nav:
   title: 基础
   order: 1
+  second:
+    title: Css
+    order: 1
 ---
 ## 样式的来源
 

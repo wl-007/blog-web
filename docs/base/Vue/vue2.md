@@ -1,12 +1,14 @@
 ---
 title:  Vue2
-order: 1
 group:
   title: vue
   order: 1
 nav:
   title: vue
   order: 1
+  second:
+    title: Vue
+    order: 3
 ---
 
 # Vue2框架的使用

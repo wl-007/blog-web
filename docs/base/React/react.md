@@ -1,12 +1,14 @@
 ---
 title:  React
-order: 1
 group:
   title: React
   order: 1
 nav:
   title: 基础
-  order: 3
+  order: 1
+  second:
+    title: React
+    order: 4
 ---
 # 一、react项目创建
 
