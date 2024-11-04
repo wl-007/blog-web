@@ -598,9 +598,299 @@ function isHTMLElement(e:EventTarget | null):e is HTMLElement {
 }
 ```
 
+### extends条件类型
+
+```js
+type IDType = number | string
+
+// 判断number是否是extendsIDType
+// const res = 2 > 3? true: false
+type ResType = boolean extends IDType? true: false
+
+// 举个栗子: 函数的重载
+// function sum(num1: number, num2: number): number
+// function sum(num1: string, num2: string): string
+
+// 错误的做法: 类型扩大化
+// function sum(num1: string|number, num2: string|number): string
+
+function sum<T extends number | string>(num1: T, num2: T): T extends number? number:string
+function sum(num1, num2) {
+  return num1 + num2
+}
+
+const res = sum(20, 30)
+const res2 = sum("abc", "cba")
+// const res3 = sum(123, "cba")
+
+export {}
+```
+
+### infer类型推断
+
+```js
+type CalcFnType = (num1: number, num2: string) => number
+
+function foo() {
+  return "abc"
+}
+
+// 总结类型体操题目: MyReturnType
+type MyReturnType<T extends (...args: any[]) => any> = T extends (...args: any[]) => infer R? R: never
+
+type MyParameters<T extends (...args: any[]) => any> = T extends (...args: infer A) => any? A: never
 
 
+// 获取一个函数的返回值类型: 内置工具
+type CalcReturnType = MyReturnType<CalcFnType>
+type FooReturnType = MyReturnType<typeof foo>
+// type FooReturnType2 = MyReturnType<boolean>
+
+type CalcParameterType = MyParameters<CalcFnType>
+
+export {}
+```
+
+### 类型分发
+
+```js
+type toArray<T> = T extends any? T[]: never
+
+// number[]|string[]
+
+type NumArray = toArray<number>
+// number[]|string[] 而不是 (number|string)[]
+type NumAndStrArray = toArray<number|string>
+
+```
+
+### 可选
+
+```ts
+interface IKun {
+  name: string
+  age: number
+  slogan?: string
+}
+
+// 类型体操
+type MyPartial<T> = {
+  [P in keyof T]?: T[P] 
+}
 
 
-# end
+// IKun都变成可选的
+type IKunOptional = MyPartial<IKun>
+
+export {}
+
+```
+
+### 必选
+
+```ts
+interface IKun {
+  name: string
+  age: number
+  slogan?: string
+}
+
+// 类型体操
+type MyRequired<T> = {
+  [P in keyof T]-?: T[P] 
+}
+
+
+// IKun都变成可选的
+type IKun2 = Required<IKun>
+
+
+export {}
+
+```
+
+### 只读
+
+```ts
+interface IKun {
+  name: string
+  age: number
+  slogan?: string
+}
+
+// 类型体操
+type MyReadonly<T> = {
+  readonly [P in keyof T]: T[P] 
+}
+
+
+// IKun都变成可选的
+type IKun2 = MyReadonly<IKun>
+
+export {}
+
+```
+
+### Record
+
+```ts
+interface IKun {
+  name: string
+  age: number
+  slogan?: string
+}
+
+// 类型体操
+// name | age | slogan
+type keys = keyof IKun
+type Res = keyof any // => number|string|symbol
+
+// 确实keys一定是可以作为key的联合类型
+type MyRecord<Keys extends keyof any, T> = {
+  [P in Keys]: T
+}
+
+
+// IKun都变成可选的
+type t1 = "上海" | "北京" | "洛杉矶"
+type IKuns = Record<t1, IKun>
+
+const ikuns: IKuns = {
+  "上海": {
+    name: "xxx",
+    age: 10
+  },
+  "北京": {
+    name: "yyy",
+    age: 5
+  },
+  "洛杉矶": {
+    name: "zzz",
+    age: 3
+  }
+}
+
+export {}
+
+```
+
+### Pick选择(对象)
+
+```ts
+interface IKun {
+  name: string
+  age: number
+  slogan?: string
+}
+
+// 确实keys一定是可以作为key的联合类型
+type MyPick<T, K extends keyof T> = {
+  [P in K]: T[P]
+}
+
+// IKun都变成可选的
+type IKuns = Pick<IKun, "slogan"|"name">
+
+
+export {}
+
+```
+
+### Omit去除(对象)
+
+```ts
+interface IKun {
+  name: string
+  age: number
+  slogan?: string
+}
+
+// 确实keys一定是可以作为key的联合类型
+type MyOmit<T, K extends keyof T> = {
+  [P in keyof T as P extends K ? never: P]: T[P]
+}
+
+// IKun都变成可选的
+type IKuns = Omit<IKun, "slogan"|"name">
+
+
+export {}
+
+```
+
+### Exclude去除
+
+```ts
+type IKun = "sing" | "dance" | "rap"
+
+// 确实keys一定是可以作为key的联合类型
+type MyExclude<T, E> = T extends E? never: T
+
+// IKun都变成可选的
+type IKuns = Exclude<IKun, "rap">
+
+export {}
+```
+
+### Extract提取
+
+```ts
+type IKun = "sing" | "dance" | "rap"
+
+// 确实keys一定是可以作为key的联合类型
+type MyExtract<T, E> = T extends E? T: never
+
+// IKun都变成可选的
+type IKuns = Extract<IKun, "rap"|"dance">
+
+
+export {}
+
+```
+
+### InstanceType获取类型
+
+```ts
+class Person {}
+class Dog {}
+
+
+// 类型体操
+type MyInstanceType<T extends new (...args: any[]) => any> = T extends new (...args: any[]) => infer R? R: never
+
+
+const p1: Person = new Person()
+
+// typeof Person: 构造函数具体的类型
+// InstanceType构造函数创建出来的实例对象的类型
+type MyPerson = InstanceType<typeof Person>
+const p2: MyPerson = new Person()
+
+
+// 构造函数的例子
+// 通过的创建实例的工具函数时会用到这个InstanceType
+function factory<T extends new (...args: any[]) => any>(ctor: T): InstanceType<T> {
+  return new ctor()
+}
+
+const p3 = factory(Person)
+const d = factory(Dog)
+
+```
+
+### 不为空
+
+```ts
+type IKun = "sing" | "dance" | "rap" | null | undefined
+
+// 确实keys一定是可以作为key的联合类型
+type MyNonNullable<T> = T extends null|undefined ? never: T
+
+// IKun都变成可选的
+type IKuns = NonNullable<IKun>
+
+export {}
+```
+
+
 
