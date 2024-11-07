@@ -1,0 +1,44 @@
+# 定义工作流名称
+name: Build And Deploy v3-admin-vite
+
+# 触发条件：当代码被推送到 main 分支时触发
+on:
+  push:
+    branches:
+      - main
+
+# 定义工作流中的工作（job）
+jobs:
+  build-and-deploy:
+    # 指定运行环境为最新的 Ubuntu 系统
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤1：检出代码
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false  # 不持久化 GitHub 凭证
+
+      # 步骤2：设置 Node.js 版本为 20.17.0
+      - name: Setup Node.js 20.17.0
+        uses: actions/setup-node@master
+        with:
+          node-version: 20.17.0
+
+      # 步骤3：设置 pnpm 版本为 9.11.0
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 9.11.0
+
+      # 步骤4：构建项目
+      - name: Build
+        run: pnpm install && pnpm build:prod  # 安装依赖并构建生产环境代码
+
+      # 步骤5：部署项目
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.PAGE }}  # 使用 GitHub 密钥中的访问令牌
+          BRANCH: gh-pages  # 部署到 gh-pages 分支
+          FOLDER: dist  # 从 dist 目录部署
