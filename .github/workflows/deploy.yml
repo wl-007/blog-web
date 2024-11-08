@@ -33,7 +33,7 @@ jobs:
 
       # 步骤4：构建项目
       - name: Build
-        run: pnpm install && pnpm build:prod  # 安装依赖并构建生产环境代码
+        run: pnpm install && pnpm docs:build  # 安装依赖并构建生产环境代码
 
       # 步骤5：部署项目
       - name: Deploy
