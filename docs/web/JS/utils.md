@@ -3,7 +3,6 @@ title:  js工具
 order: 1
 group:
   title: js
-  order: 2
 ---
 
 ## 获取缩放信息

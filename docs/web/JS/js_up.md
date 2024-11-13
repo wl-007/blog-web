@@ -1,12 +1,8 @@
 ---
 title:  js补充
-order: 1
+order: 3
 group:
-  title: 进阶
-  order: 1
-nav:
-  title: 提升
-  order: 2
+  title: js
 ---
 
 # 函数式编程

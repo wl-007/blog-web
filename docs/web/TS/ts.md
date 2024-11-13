@@ -3,10 +3,6 @@ title:  ts
 order: 1
 group:
   title: ts
-  order: 1
-nav:
-  title: 其他
-  order: 3
 ---
 # TS 环境搭建
 

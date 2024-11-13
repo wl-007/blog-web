@@ -2,10 +2,7 @@
 title:  Vue3
 group:
   title: vue
-  order: 2
-nav:
-  title: vue
-  order: 1
+  order: 0
 ---
 # vue3项目搭建
 

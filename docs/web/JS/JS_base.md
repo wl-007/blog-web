@@ -3,13 +3,6 @@ title:  js基础
 order: 2
 group:
   title: js
-  order: 1
-nav:
-  title: 基础
-  order: 1
-  second:
-    title: Js
-    order: 2
 ---
 输出：
 

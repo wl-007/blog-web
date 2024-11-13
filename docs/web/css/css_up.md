@@ -1,12 +1,8 @@
 ---
 title:  css进阶
-order: 1
+order: 2
 group:
   title: css
-  order: 2
-nav:
-  title: 基础
-  order: 1
 ---
 # 浮动
 

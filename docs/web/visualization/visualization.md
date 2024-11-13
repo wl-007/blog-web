@@ -1,10 +1,8 @@
 ---
 title:  可视化
-order: 2
+order: 1
 group:
-  title:  进阶
-nav:
-  title: 提升
+  title: visualization
 ---
 
 
