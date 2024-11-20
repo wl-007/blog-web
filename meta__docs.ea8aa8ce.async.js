@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunkblog_web=self.webpackChunkblog_web||[]).push([[904],{73102:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(51628),r={}},77016:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(38440),r={}},15246:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(82299),r={}},32702:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(42365),r={}},84784:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(51985),r={}},82845:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(64709),r={}},20728:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(69908),r={}},25292:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(29534),r={}},6305:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(48497),r={}},68355:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(52656),r={}},18417:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(36077),r={}},45807:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(83736),r={}},44166:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(78089),r={}},95656:function(t,n,e){e.r(n),e.d(n,{demos:function(){return r}});var o=e(25186),a=e(74007),r={}},23565:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(51628);const a=[]},52323:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(38440);const a=[{value:"\u8F93\u51FA\uFF1A",paraId:0},{value:"\u63A7\u5236\u53F0\u8F93\u51FA",paraId:1},{value:"\u9875\u9762\u8F93\u51FA",paraId:2},{value:"\u5728\u5F53\u524D\u9875\u9762\u8FDB\u884C\u5185\u5BB9\u663E\u793A",paraId:3},{value:"\u5F39\u7A97\u8F93\u51FA",paraId:4},{value:"\u5728\u5F53\u524D\u9875\u9762\u4F5C\u4E3A\u5F39\u7A97\u8F93\u51FA\u5185\u5BB9",paraId:5},{value:`console.log("\u8F93\u51FA\u7684\u5185\u5BB9")
+"use strict";(self.webpackChunkblog_web=self.webpackChunkblog_web||[]).push([[904],{73102:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(51628),r={}},77016:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(38440),r={}},15246:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(82299),r={}},32702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(42365),r={}},84784:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(51985),r={}},16487:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(71893),r={}},82845:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(64709),r={}},20728:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(69908),r={}},25292:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(29534),r={}},2712:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(8595),r={}},6305:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(48497),r={}},68355:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(52656),r={}},18417:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(36077),r={}},45807:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(83736),r={}},44166:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(78089),r={}},95656:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(74007),r={}},23565:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(51628);const a=[]},52323:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(38440);const a=[{value:"\u8F93\u51FA\uFF1A",paraId:0},{value:"\u63A7\u5236\u53F0\u8F93\u51FA",paraId:1},{value:"\u9875\u9762\u8F93\u51FA",paraId:2},{value:"\u5728\u5F53\u524D\u9875\u9762\u8FDB\u884C\u5185\u5BB9\u663E\u793A",paraId:3},{value:"\u5F39\u7A97\u8F93\u51FA",paraId:4},{value:"\u5728\u5F53\u524D\u9875\u9762\u4F5C\u4E3A\u5F39\u7A97\u8F93\u51FA\u5185\u5BB9",paraId:5},{value:`console.log("\u8F93\u51FA\u7684\u5185\u5BB9")
 document.write('\u8F93\u51FA\u5185\u5BB9')
 alert("\u8F93\u51FA\u5185\u5BB9")
 `,paraId:6},{value:"\u5F39\u7A97\u8F93\u51FA\u786E\u8BA4\u4E4B\u540E\u624D\u4F1A\u663E\u793A\u9875\u9762\u8F93\u51FA",paraId:7},{value:`prompt("\u63D0\u793A\u6027\u4FE1\u606F")
@@ -1081,7 +1081,7 @@ alert(bookCopy.releaseDate.getFullYear());
 \u8C61bookCopy\u3002\u8FD9\u91CC\u7684\u8FD8\u539F\u51FD\u6570\u4F1A\u67E5\u627E"releaseDate"\u952E\uFF0C\u5982\u679C\u627E\u5230\u5C31\u4F1A\u6839
 \u636E\u5B83\u7684\u65E5\u671F\u5B57\u7B26\u4E32\u521B\u5EFA\u65B0\u7684Date\u5BF9\u8C61\u3002\u5F97\u5230\u7684bookCopy.releaseDate\u5C5E
 \u6027\u53C8\u53D8\u56DE\u4E86Date\u5BF9\u8C61\uFF0C\u56E0\u6B64\u53EF\u4EE5\u8C03\u7528\u5176getFullYear()\u65B9\u6CD5\u3002
-`,paraId:151,tocIndex:91}]},58360:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(82299);const a=[{value:"\u51FD\u6570\u5F0F\u7F16\u7A0B\u7684\u601D\u7EF4\u65B9\u5F0F\uFF1A\u628A\u73B0\u5B9E\u4E16\u754C\u7684\u4E8B\u7269\u548C\u4E8B\u7269\u4E4B\u95F4\u7684\u8054\u7CFB\u62BD\u8C61\u5230\u7A0B\u5E8F\u4E16\u754C\uFF08\u5BF9\u8FD0\u7B97\u8FC7\u7A0B\u8FDB\u884C\u62BD \u8C61\uFF09",paraId:0,tocIndex:0},{value:`// \u975E\u51FD\u6570\u5F0F
+`,paraId:151,tocIndex:91}]},58360:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(82299);const a=[{value:"\u51FD\u6570\u5F0F\u7F16\u7A0B\u7684\u601D\u7EF4\u65B9\u5F0F\uFF1A\u628A\u73B0\u5B9E\u4E16\u754C\u7684\u4E8B\u7269\u548C\u4E8B\u7269\u4E4B\u95F4\u7684\u8054\u7CFB\u62BD\u8C61\u5230\u7A0B\u5E8F\u4E16\u754C\uFF08\u5BF9\u8FD0\u7B97\u8FC7\u7A0B\u8FDB\u884C\u62BD \u8C61\uFF09",paraId:0,tocIndex:0},{value:`// \u975E\u51FD\u6570\u5F0F
 let num1 = 2
 let num2 = 3
 let sum = num1 + num2
@@ -1302,7 +1302,7 @@ function resolvePromise (promsie2, x, resolve, reject) {
 }
 
 module.exports = MyPromise;
-`,paraId:15,tocIndex:9},{value:"Performance",paraId:16,tocIndex:11},{value:"\u6D4F\u89C8\u5668\u4EFB\u52A1\u7BA1\u7406\u5668",paraId:16,tocIndex:11},{value:"\u5806\u5FEB\u7167\u67E5\u627E\u5206\u79BBDOM(\u641C\u7D22deta)",paraId:16,tocIndex:11},{value:"\u907F\u514D\u4F7F\u7528\u5168\u5C40\u53D8\u91CF",paraId:17,tocIndex:12},{value:"\u907F\u514D\u5FAA\u73AF\u5F15\u7528",paraId:17,tocIndex:12},{value:"\u91C7\u7528\u5B57\u9762\u91CF\u66FF\u6362new",paraId:17,tocIndex:12},{value:"\u91C7\u7528\u4E8B\u4EF6\u59D4\u6258",paraId:17,tocIndex:12},{value:"\u4E0D\u8981\u4E3A\u4E86\u95ED\u5305\u800C\u95ED\u5305",paraId:17,tocIndex:12},{value:"\u907F\u514D\u51FD\u6570\u5D4C\u5957\u8FC7\u6DF1",paraId:17,tocIndex:12}]},24535:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(42365);const a=[{value:` // \u83B7\u53D6\u7F29\u653E\u500D\u6570\uFF081*\u7CFB\u7EDF\u7F29\u653E\u500D\u6570*\u6D4F\u89C8\u5668\u7F29\u653E\u500D\u6570\uFF09
+`,paraId:15,tocIndex:9},{value:"Performance",paraId:16,tocIndex:11},{value:"\u6D4F\u89C8\u5668\u4EFB\u52A1\u7BA1\u7406\u5668",paraId:16,tocIndex:11},{value:"\u5806\u5FEB\u7167\u67E5\u627E\u5206\u79BBDOM(\u641C\u7D22deta)",paraId:16,tocIndex:11},{value:"\u907F\u514D\u4F7F\u7528\u5168\u5C40\u53D8\u91CF",paraId:17,tocIndex:12},{value:"\u907F\u514D\u5FAA\u73AF\u5F15\u7528",paraId:17,tocIndex:12},{value:"\u91C7\u7528\u5B57\u9762\u91CF\u66FF\u6362new",paraId:17,tocIndex:12},{value:"\u91C7\u7528\u4E8B\u4EF6\u59D4\u6258",paraId:17,tocIndex:12},{value:"\u4E0D\u8981\u4E3A\u4E86\u95ED\u5305\u800C\u95ED\u5305",paraId:17,tocIndex:12},{value:"\u907F\u514D\u51FD\u6570\u5D4C\u5957\u8FC7\u6DF1",paraId:17,tocIndex:12}]},24535:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(42365);const a=[{value:` // \u83B7\u53D6\u7F29\u653E\u500D\u6570\uFF081*\u7CFB\u7EDF\u7F29\u653E\u500D\u6570*\u6D4F\u89C8\u5668\u7F29\u653E\u500D\u6570\uFF09
 function getZoom() {
   let zoom = 1;
   const screen = window.screen,
@@ -1350,7 +1350,7 @@ function getAllZoom() {
 }
 
 getAllZoom();
-`,paraId:0,tocIndex:0}]},87958:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(51985);const a=[{value:"\u65B9\u5F0F\u4E00\uFF1A\u5B89\u88C5express-generator",paraId:0,tocIndex:1},{value:"\u5B89\u88C5\u811A\u624B\u67B6 npm install -g express-generator",paraId:1,tocIndex:1},{value:"\u521B\u5EFA\u9879\u76EE express express-demo",paraId:2,tocIndex:1},{value:"\u5B89\u88C5\u4F9D\u8D56 npm install",paraId:3,tocIndex:1},{value:"\u542F\u52A8\u9879\u76EE node bin/www",paraId:4,tocIndex:1},{value:"\u65B9\u5F0F\u4E8C\uFF1A\u4ECE\u96F6\u642D\u5EFA\u81EA\u5DF1\u7684express\u5E94\u7528\u7ED3\u6784\uFF1B Express\u5B89\u88C5",paraId:5,tocIndex:1},{value:"npm init -y",paraId:6,tocIndex:1},{value:`const express = require('express')
+`,paraId:0,tocIndex:0}]},87958:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(51985);const a=[{value:"http://localhost:3000/Express\u5B89\u88C5",paraId:0},{value:"\u65B9\u5F0F\u4E00\uFF1A\u5B89\u88C5express-generator",paraId:1,tocIndex:0},{value:"\u5B89\u88C5\u811A\u624B\u67B6 npm install -g express-generator",paraId:2,tocIndex:0},{value:"\u521B\u5EFA\u9879\u76EE express express-demo",paraId:3,tocIndex:0},{value:"\u5B89\u88C5\u4F9D\u8D56 npm install",paraId:4,tocIndex:0},{value:"\u542F\u52A8\u9879\u76EE node bin/www",paraId:5,tocIndex:0},{value:"\u65B9\u5F0F\u4E8C\uFF1A\u4ECE\u96F6\u642D\u5EFA\u81EA\u5DF1\u7684express\u5E94\u7528\u7ED3\u6784\uFF1B Express\u5B89\u88C5",paraId:6,tocIndex:0},{value:"npm init -y",paraId:7,tocIndex:0},{value:`const express = require('express')
 
 // 1.\u521B\u5EFAexpress\u7684\u670D\u52A1\u5668
 const app = express()
@@ -1369,7 +1369,7 @@ app.get('/home', (req, res) => {
 app.listen(9000, () => {
   console.log('express\u670D\u52A1\u5668\u542F\u52A8\u6210\u529F~')
 })
-`,paraId:7,tocIndex:2},{value:`// \u666E\u901A\u4E2D\u95F4\u4EF6 app.use
+`,paraId:8,tocIndex:1},{value:`// \u666E\u901A\u4E2D\u95F4\u4EF6 app.use
 app.use((req, res, next) => {
   console.log('normal middleware')
 })
@@ -1385,9 +1385,9 @@ app.get('/home', (req, res, next) => {
   console.log('match /home get method middleware')
   res.end('home data')
 })
-`,paraId:8,tocIndex:3},{value:`app.use(express.json()) // \u89E3\u6790\u5BA2\u6237\u7AEF\u4F20\u9012\u8FC7\u6765\u7684json
+`,paraId:9,tocIndex:2},{value:`app.use(express.json()) // \u89E3\u6790\u5BA2\u6237\u7AEF\u4F20\u9012\u8FC7\u6765\u7684json
 app.use(express.urlencoded({ extended: true })) // \u89E3\u6790\u5BA2\u6237\u7AEF\u4F20\u9012\u8FC7\u6765\u7684urlencoded
-`,paraId:9,tocIndex:5},{value:`const multer = require('multer')
+`,paraId:10,tocIndex:4},{value:`const multer = require('multer')
 
 // \u5E94\u7528\u6587\u4EF6\u4E0A\u4F20\u7B2C\u4E09\u65B9\u7684\u4E2D\u95F4\u4EF6
 const upload = multer({
@@ -1414,7 +1414,7 @@ app.post('/photos', upload.array('photos'), (req, res, next) => {
   console.log(req.files)
   res.end('\u4E0A\u4F20\u591A\u5F20\u7167\u7247\u6210\u529F~')
 })
-`,paraId:10,tocIndex:6},{value:`const express = require('express')
+`,paraId:11,tocIndex:5},{value:`const express = require('express')
 
 // \u521B\u5EFAapp\u5BF9\u8C61
 const app = express()
@@ -1428,7 +1428,7 @@ userRouter.get('/', (req, res, next) => {
 
 // \u8BA9\u8DEF\u7531\u751F\u6548
 app.use('/users', userRouter)
-`,paraId:11,tocIndex:7},{value:`const express = require('express')
+`,paraId:12,tocIndex:6},{value:`const express = require('express')
 
 // \u521B\u5EFAapp\u5BF9\u8C61
 const app = express()
@@ -1436,7 +1436,204 @@ const app = express()
 // \u5185\u7F6E\u7684\u4E2D\u95F4\u4EF6: \u76F4\u63A5\u5C06\u4E00\u4E2A\u6587\u4EF6\u5939\u4F5C\u4E3A\u9759\u6001\u8D44\u6E90
 app.use(express.static('./uploads'))
 app.use(express.static('./build'))
-`,paraId:12,tocIndex:8}]},91966:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(64709);const a=[{value:"Node.js\u662F\u4E00\u4E2A\u57FA\u4E8EV8 JavaScript\u5F15\u64CE\u7684JavaScript\u8FD0\u884C\u65F6\u73AF\u5883;",paraId:0,tocIndex:0},{value:"\u6211\u4EEC\u7F16\u5199\u7684JavaScript\u4EE3\u7801\u4F1A\u7ECF\u8FC7V8\u5F15\u64CE\uFF0C\u518D\u901A\u8FC7Node.js\u7684Bindings\uFF0C\u5C06\u4EFB\u52A1\u653E\u5230Libuv\u7684\u4E8B\u4EF6\u5FAA\u73AF\u4E2D\uFF1B",paraId:1,tocIndex:0},{value:"libuv\uFF08Unicorn Velociraptor\u2014\u72EC\u89D2\u4F36\u76D7\u9F99\uFF09\u662F\u4F7F\u7528C\u8BED\u8A00\u7F16\u5199\u7684\u5E93\uFF1B",paraId:2,tocIndex:0},{value:"libuv\u63D0\u4F9B\u4E86\u4E8B\u4EF6\u5FAA\u73AF\u3001\u6587\u4EF6\u7CFB\u7EDF\u8BFB\u5199\u3001\u7F51\u7EDCIO\u3001\u7EBF\u7A0B\u6C60\u7B49\u7B49\u5185\u5BB9\uFF1B",paraId:3,tocIndex:0},{value:`const fs = require('fs')
+`,paraId:13,tocIndex:7}]},80036:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(71893);const a=[{value:`const Koa = require('koa')
+
+// \u521B\u5EFAapp\u5BF9\u8C61
+const app = new Koa()
+
+// \u6CE8\u518C\u4E2D\u95F4\u4EF6(middleware)
+// koa\u7684\u4E2D\u95F4\u4EF6\u6709\u4E24\u4E2A\u53C2\u6570: ctx/next
+app.use((ctx, next) => {
+  console.log('\u5339\u914D\u5230koa\u7684\u4E2D\u95F4\u4EF6')
+  ctx.body = '\u54C8\u54C8\u54C8\u54C8\u54C8'
+})
+
+// \u542F\u52A8\u670D\u52A1\u5668
+app.listen(8900, () => {
+  console.log('koa\u670D\u52A1\u5668\u542F\u52A8\u6210\u529F~')
+})
+`,paraId:0,tocIndex:1},{value:`const bodyParser = require('koa-bodyparser')
+const multer = require('@koa/multer')
+app.use(bodyParser())
+// 1.get/params
+userRouter.get('/:id', (ctx, next) => {
+  const id = ctx.params.id
+  ctx.body = 'user list data~:' + id
+})
+
+// 2.get/query
+userRouter.get('/', (ctx, next) => {
+  const query = ctx.query
+  console.log(query)
+  ctx.body = '\u7528\u6237\u7684query\u4FE1\u606F' + JSON.stringify(query)
+})
+// 3.post/json(\u4F7F\u7528\u6700\u591A)
+userRouter.post('/json', (ctx, next) => {
+  // \u6CE8\u610F\u4E8B\u9879: \u4E0D\u80FD\u4ECEctx.body\u4E2D\u83B7\u53D6\u6570\u636E
+  console.log(ctx.request.body, ctx.req.body)
+
+  // ctx.body\u7528\u4E8E\u5411\u5BA2\u6237\u7AEF\u8FD4\u56DE\u6570\u636E
+  ctx.body = '\u7528\u6237\u7684json\u4FE1\u606F'
+})
+
+// 4.post/urlencoded
+userRouter.post('/urlencoded', (ctx, next) => {
+  console.log(ctx.request.body)
+  ctx.body = '\u7528\u6237\u7684urlencoded\u4FE1\u606F'
+})
+// 5.post/form-data
+userRouter.post('/formdata', formParser.any(), (ctx, next) => {
+  console.log(ctx.request.body)
+  ctx.body = '\u7528\u6237\u7684formdata\u4FE1\u606F'
+})
+`,paraId:1,tocIndex:2},{value:`const KoaRouter = require('@koa/router')
+
+// 1.\u521B\u5EFA\u8DEF\u7531\u5BF9\u8C61
+const userRouter = new KoaRouter({ prefix: '/users' })
+// 2.\u5728\u8DEF\u7531\u4E2D\u6CE8\u518C\u4E2D\u95F4\u4EF6: path/method
+userRouter.get('/', (ctx, next) => {
+  ctx.body = 'users list data~'
+})
+`,paraId:2,tocIndex:3},{value:`const multer = require('@koa/multer')
+const upload = multer({
+  storage: multer.diskStorage({
+    destination(req, file, cb) {
+      cb(null, './uploads')
+    },
+    filename(req, file, cb) {
+      cb(null, Date.now() + "_" + file.originalname)
+    }
+  })
+})
+// \u6CE8\u518C\u8DEF\u7531\u5BF9\u8C61
+const uploadRouter = new KoaRouter({ prefix: '/upload' })
+
+uploadRouter.post('/avatar', upload.single('avatar'), (ctx, next) => {
+  console.log(ctx.request.file)
+  ctx.body = '\u6587\u4EF6\u4E0A\u4F20\u6210\u529F~'
+})
+
+uploadRouter.post('/photos', upload.array('photos'), (ctx, next) => {
+  console.log(ctx.request.files)
+  ctx.body = '\u6587\u4EF6\u4E0A\u4F20\u6210\u529F~'
+})
+`,paraId:3,tocIndex:4},{value:`const static = require('koa-static')
+
+app.use(static('./uploads'))
+app.use(static('./build'))
+
+`,paraId:4,tocIndex:5},{value:`// 1.body\u7684\u7C7B\u578B\u662Fstring
+  // ctx.body = 'user list data~'
+
+  // 2.body\u7684\u7C7B\u578B\u662FBuffer
+  // ctx.body = Buffer.from('\u4F60\u597D\u554A, \u674E\u94F6\u6CB3~')
+
+  // 3.body\u7684\u7C7B\u578B\u662FStream
+  // const readStream = fs.createReadStream('./uploads/1668331072032_kobe02.png')
+  // ctx.type = 'image/jpeg'
+  // ctx.body = readStream
+
+  // 4.body\u7684\u7C7B\u578B\u662F\u6570\u636E(array/object) => \u4F7F\u7528\u6700\u591A
+  ctx.status = 201
+  ctx.body = {
+    code: 0,
+    data: [
+      { id: 111, name: 'iphone', price: 100 },
+      { id: 112, name: 'xiaomi', price: 990 },
+    ]
+  }
+
+  // 5.body\u7684\u503C\u662Fnull, \u81EA\u52A8\u8BBE\u7F6Ehttp status code\u4E3A204
+  // ctx.body = null
+`,paraId:5,tocIndex:6},{value:`userRouter.get('/', (ctx, next) => {
+  const isAuth = false
+  if (isAuth) {
+    ctx.body = 'user list data~'
+  } else {
+    // ctx.body = {
+    //   code: -1003,
+    //   message: '\u672A\u6388\u6743\u7684token, \u8BF7\u68C0\u6D4B\u4F60\u7684token'
+    // }
+    // EventEmitter
+    ctx.app.emit('error', -1003, ctx)
+  }
+})
+// \u72EC\u7ACB\u7684\u6587\u4EF6: error-handle.js
+app.on('error', (code, ctx) => {
+  const errCode = code
+  let message = ''
+  switch (errCode) {
+    case -1001:
+      message = '\u8D26\u53F7\u6216\u8005\u5BC6\u7801\u9519\u8BEF~'
+      break
+    case -1002:
+      message = '\u8BF7\u6C42\u53C2\u6570\u4E0D\u6B63\u786E~'
+      break
+    case -1003:
+      message = '\u672A\u6388\u6743, \u8BF7\u68C0\u67E5\u4F60\u7684token\u4FE1\u606F'
+      break
+  }
+
+  const body = {
+    code: errCode,
+    message
+  }
+
+  ctx.body = body
+})
+`,paraId:6,tocIndex:7},{value:`const mysql = require('mysql2')
+
+// 1.\u521B\u5EFA\u4E00\u4E2A\u8FDE\u63A5(\u8FDE\u63A5\u4E0A\u6570\u636E\u5E93)
+const connection = mysql.createConnection({
+  host: 'localhost',
+  port: 3306,
+  database: 'music_db',
+  user: 'root',
+  password: 'root'
+})
+
+
+// 2.\u6267\u884C\u64CD\u4F5C\u8BED\u53E5, \u64CD\u4F5C\u6570\u636E\u5E93
+const statement = 'SELECT * FROM \`students\`;'
+// structure query language: DDL/DML/DQL/DCL
+connection.query(statement, (err, values, fields) => {
+  if (err) {
+    console.log('\u67E5\u8BE2\u5931\u8D25:', err)
+    return
+  }
+
+  // \u67E5\u770B\u7ED3\u679C
+  console.log(values)
+  // console.log(fields)
+})
+`,paraId:7,tocIndex:9},{value:`const statement = 'SELECT * FROM \`products\` WHERE price > ? AND score > ?;'
+connection.execute(statement, [1000, 8], (err, values) => {
+  if (err) {
+    console.log('\u67E5\u8BE2\u5931\u8D25:', err)
+    return
+  }
+  console.log('values',values)
+})
+`,paraId:8,tocIndex:10},{value:`// 1.\u521B\u5EFA\u4E00\u4E2A\u8FDE\u63A5
+const connectionPool = mysql.createPool({
+  host: 'localhost',
+  port: 3306,
+  database: 'music_db',
+  user: 'root',
+  password: 'root',
+  connectionLimit: 5
+})
+`,paraId:9,tocIndex:11},{value:`const statement = 'SELECT * FROM \`products\` WHERE price > ? AND score > ?;'
+connectionPool.promise().execute(statement, [1000, 9]).then((res) => {
+  const [values, fields] = res
+  console.log('-------------------values------------------')
+  console.log(values)
+  console.log('-------------------fields------------------')
+  console.log(fields)
+}).catch(err => {
+  console.log(err)
+})
+`,paraId:10,tocIndex:12}]},91966:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(64709);const a=[{value:"Node.js\u662F\u4E00\u4E2A\u57FA\u4E8EV8 JavaScript\u5F15\u64CE\u7684JavaScript\u8FD0\u884C\u65F6\u73AF\u5883;",paraId:0,tocIndex:0},{value:"\u6211\u4EEC\u7F16\u5199\u7684JavaScript\u4EE3\u7801\u4F1A\u7ECF\u8FC7V8\u5F15\u64CE\uFF0C\u518D\u901A\u8FC7Node.js\u7684Bindings\uFF0C\u5C06\u4EFB\u52A1\u653E\u5230Libuv\u7684\u4E8B\u4EF6\u5FAA\u73AF\u4E2D\uFF1B",paraId:1,tocIndex:0},{value:"libuv\uFF08Unicorn Velociraptor\u2014\u72EC\u89D2\u4F36\u76D7\u9F99\uFF09\u662F\u4F7F\u7528C\u8BED\u8A00\u7F16\u5199\u7684\u5E93\uFF1B",paraId:2,tocIndex:0},{value:"libuv\u63D0\u4F9B\u4E86\u4E8B\u4EF6\u5FAA\u73AF\u3001\u6587\u4EF6\u7CFB\u7EDF\u8BFB\u5199\u3001\u7F51\u7EDCIO\u3001\u7EBF\u7A0B\u6C60\u7B49\u7B49\u5185\u5BB9\uFF1B",paraId:3,tocIndex:0},{value:`const fs = require('fs')
 const res1 = fs.readFileSync('./aaa.txt', {
   encoding: 'utf8'
 })
@@ -1756,7 +1953,7 @@ const server = http.createServer((req, res) => {
   res.writeHead(200, {
     'Content-Type': 'application/json;charset=utf8;'
   })
-`,paraId:25,tocIndex:26}]},6520:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(69908);const a=[{value:`globalThis  : \u6D4F\u89C8\u5668nodejs\u7EDF\u4E00\u5168\u5C40\u5BF9\u8C61  \u6D4F\u89C8\u5668\u7684window\uFF0Cnode\u7684global
+`,paraId:25,tocIndex:26}]},6520:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(69908);const a=[{value:`globalThis  : \u6D4F\u89C8\u5668nodejs\u7EDF\u4E00\u5168\u5C40\u5BF9\u8C61  \u6D4F\u89C8\u5668\u7684window\uFF0Cnode\u7684global
 __dirname :\u5F53\u524D\u6A21\u5757\u7684\u76EE\u5F55\u540D
 \u2014\u2014filename: \u5F53\u524D\u6A21\u5757\u7684\u6587\u4EF6\u540D  // \u6253\u5370: /Users/mjr   \u8DEF\u5F84\u52A0\u6587\u4EF6\u540D
 setImmediate(callback[, ...args]) // \u5728\u672C\u8F6E Node.js \u4E8B\u4EF6\u5FAA\u73AF\u7ED3\u675F\u65F6\u8C03\u7528\u7684\u51FD\u6570
@@ -2380,7 +2577,7 @@ try {
 } catch (error) {
   console.error(error.message);
 }
-`,paraId:81,tocIndex:49}]},9219:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(29534);const a=[{value:`pnpm create vite music-web --template react-ts
+`,paraId:81,tocIndex:49}]},9219:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(29534);const a=[{value:`pnpm create vite music-web --template react-ts
 `,paraId:0,tocIndex:2},{value:"\u5176\u4E2D\uFF0C",paraId:1,tocIndex:2},{value:"react-demo",paraId:1,tocIndex:2},{value:" \u662F\u5F53\u524D\u9879\u76EE\u6839\u76EE\u5F55\u7684\u6587\u4EF6\u540D\uFF0C\u53EF\u81EA\u884C\u5B9A\u4E49\u3002",paraId:1,tocIndex:2},{value:`cd react-demoyarn
 `,paraId:2,tocIndex:3},{value:`yarn dev# \u6216npm run dev
 `,paraId:3,tocIndex:4},{value:"React \u5B98\u65B9\u57FA\u4E8E webpack \u53D1\u5E03\u4E86\u4E00\u4E2A\u811A\u624B\u67B6\u5DE5\u5177 Create React App\uFF08\u7B80\u79F0 CRA\uFF09\uFF0C\u7528\u6765\u642D\u5EFA React \u9879\u76EE\u3002",paraId:4,tocIndex:5},{value:`npx create-react-app react-project
@@ -3313,7 +3510,428 @@ export default useSystem;
 `,paraId:197,tocIndex:144},{value:`const Home = () => {
     return <ReactEcharts option={option} style={{ width: '600px' }}></ReactEcharts>;
 };
-`,paraId:198,tocIndex:145}]},4851:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(48497);const a=[{value:"TypeScript\uFF0C\u662F JavaScript \u7684\u8D85\u96C6\uFF0C\u53EF\u4EE5\u7B80\u5355\u7406\u89E3\u4E3A TS \u662F JS \u7684\u5347\u7EA7\u7248\u3002",paraId:0,tocIndex:0},{value:`npm i -g typescript
+`,paraId:198,tocIndex:145}]},61771:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(8595);const a=[{value:"Nuxt",paraId:0,tocIndex:0},{value:"pnpm dlx nuxi@latest init ",paraId:1,tocIndex:1},{value:"starter",paraId:2,tocIndex:2},{value:"v3\u6A21\u7248",paraId:3,tocIndex:2},{value:`export default defineNuxtConfig({
+  runtimeConfig: {
+    // \u53EA\u5728\u670D\u52A1\u5668\u7AEF\u53EF\u7528\u7684\u79C1\u6709\u952E
+    apiSecret: '123',
+    // public\u4E2D\u7684\u952E\u4E5F\u53EF\u4EE5\u5728\u5BA2\u6237\u7AEF\u4F7F\u7528
+    public: {
+      apiBase: '/api'
+    }
+  },
+   app: {
+    // \u7ED9app\u6240\u6709\u7684\u9875\u9762\u7684head\u6DFB\u52A0\u7684\u914D\u7F6E(SEO, \u6DFB\u52A0\u5916\u90E8\u7684\u8D44\u6E90)
+    head: {
+      title: "shop",
+      charset: "UTF-8",
+      viewport:
+        "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,user-scalable=no",
+      meta: [
+        {
+          name: "keywords",
+          content: "\u5F18\u6E90\u79D1\u6559 hykj",
+        },
+        {
+          name: "description",
+          content: "\u624B\u673A\u5546\u57CE hykj",
+        },
+      ],
+    },
+  },
+    css: [
+      // Load a Node.js module directly (here it's a Sass file).
+      'bulma',
+      // CSS file in the project
+      '~/assets/css/main.css',
+      // SCSS file in the project
+      '~/assets/css/main.scss'
+    ]
+
+})
+// \u8FD9\u4E9B\u53D8\u91CF\u901A\u8FC7useRuntimeConfig()\u7EC4\u5408\u51FD\u6570\u66B4\u9732\u7ED9\u5E94\u7528\u7A0B\u5E8F\u7684\u5176\u4F59\u90E8\u5206\u3002
+`,paraId:4,tocIndex:4},{value:`export default defineAppConfig({
+  title: 'Hello Nuxt',
+  theme: {
+    dark: true,
+    colors: {
+      primary: '#ff0000'
+    }
+  }
+})
+// \u8FD9\u4E9B\u53D8\u91CF\u901A\u8FC7useAppConfig\u7EC4\u5408\u51FD\u6570\u66B4\u9732\u7ED9\u5E94\u7528\u7A0B\u5E8F\u7684\u5176\u4F59\u90E8\u5206\u3002
+`,paraId:5,tocIndex:5},{value:"SEO\u7EC4\u4EF6\uFF1A Html\u3001Body\u3001Head\u3001Title\u3001Meta\u3001Style\u3001Link\u3001NoScript\u3001Base",paraId:6,tocIndex:6},{value:"NuxtWelcome\uFF1A\u6B22\u8FCE\u9875\u9762\u7EC4\u4EF6",paraId:7,tocIndex:6},{value:"NuxtLayout\uFF1A\u662F Nuxt \u81EA\u5E26\u7684\u9875\u9762\u5E03\u5C40\u7EC4\u4EF6",paraId:8,tocIndex:6},{value:"NuxtPage\uFF1A\u662F Nuxt \u81EA\u5E26\u7684\u9875\u9762\u5360\u4F4D\u7EC4\u4EF6(\u662F\u5BF9 router-view \u7684\u5C01\u88C5)",paraId:9,tocIndex:6},{value:"ClientOnly\uFF1A\u8BE5\u7EC4\u4EF6\u4E2D\u7684\u9ED8\u8BA4\u63D2\u69FD\u7684\u5185\u5BB9\u53EA\u5728\u5BA2\u6237\u7AEF\u6E32\u67D3",paraId:10,tocIndex:6},{value:"\u800Cfallback \u6307\u5B9A\u5728\u670D\u52A1\u5668\u7AEF\u6E32\u67D3\u7684\u5185\u5BB9\u3002",paraId:11,tocIndex:6},{value:"NuxtLink\uFF1A\u662F Nuxt \u81EA\u5E26\u7684\u9875\u9762\u5BFC\u822A\u7EC4\u4EF6",paraId:12,tocIndex:6},{value:"\u5728assets\u4E2D\u7F16\u5199\u5168\u5C40\u6837\u5F0F\uFF0C\u6BD4\u5982\uFF1Aglobel.scss; \u63A5\u7740\u5728nuxt.config\u4E2D\u7684css\u9009\u9879\u4E2D\u914D\u7F6E",paraId:13,tocIndex:7},{value:`// /assets/styles/global.scss
+$color: blue;
+
+.global-style2 {
+  color: $color;
+  // @include border();
+}
+
+export default defineNuxtConfig({
+  	...
+    css: [
+        // CSS file in the project
+        "@/assets/styles/main.css",
+        // SCSS file in the project
+        "@/assets/styles/global.scss",
+    ],
+    vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+            // \u5168\u5C40\u53D8\u91CF
+          // \u81EA\u52A8\u7684\u7ED9  scss \u6A21\u5757\u9996\u884C\u6DFB\u52A0\u989D\u5916\u7684\u6570\u636E:@use "@/assets/styles/variables.scss" as *;
+          additionalData: '@use "@/assets/styles/variables.scss" as *;',
+        },
+      },
+    },
+  },
+})
+`,paraId:14,tocIndex:7},{value:"\u76EE\u5F55\u7528\u4E8E\u63D0\u4F9B\u7F51\u7AD9\u7684\u9759\u6001\u8D44\u6E90\u3002",paraId:15,tocIndex:9},{value:`-| public/
+---| favicon.ico
+---| og-image.png
+---| robots.txt
+
+`,paraId:16,tocIndex:9},{value:`// \u5728\u9759\u6001 URL \u4E2D\u53EF\u7528 /img/nuxt.png
+<script setup>
+useSeoMeta({
+  ogImage: '/og-image.png'
+})
+<\/script>
+
+`,paraId:17,tocIndex:9},{value:"assets\u7ECF\u5E38\u7528\u4E8E\u5B58\u653E\u5982\u6837\u5F0F\u8868\u3001\u5B57\u4F53\u6216 SVG\u7684\u8D44\u4EA7",paraId:18,tocIndex:10},{value:"\u53EF\u4EE5\u4F7F\u7528 ~/assets/ \u8DEF\u5F84\u5F15\u7528\u4F4D\u4E8Eassets\u76EE\u5F55\u4E2D\u7684\u8D44\u4EA7\u6587\u4EF6",paraId:19,tocIndex:10},{value:"\u5C06\u5B57\u4F53\u56FE\u6807\u5B58\u653E\u5728assets\u76EE\u5F55\u4E0B;",paraId:20,tocIndex:11},{value:"\u5B57\u4F53\u6587\u4EF6\u53EF\u4EE5\u4F7F\u7528 ~/assets/ \u8DEF\u5F84\u5F15\u7528;",paraId:21,tocIndex:11},{value:"\u5728nuxt.config\u914D\u7F6E\u6587\u4EF6\u4E2D\u5BFC\u5165\u5168\u5C40\u6837\u5F0F;",paraId:22,tocIndex:11},{value:"\u5728\u9875\u9762\u4E2D\u5C31\u53EF\u4EE5\u4F7F\u7528\u5B57\u4F53\u56FE\u6807\u4E86",paraId:23,tocIndex:11},{value:`// https://nuxt.com/docs/api/configuration/nuxt-config
+export default defineNuxtConfig({
+  css: [
+    "@/assets/cus-font/iconfont.css", // \u81EA\u5B9A\u5B57\u4F53\u56FE\u6807
+  ],
+  },
+});
+`,paraId:24,tocIndex:11},{value:"Nuxt\u9879\u76EE\u4E2D\u7684\u9875\u9762\u662F\u5728 pages\u76EE\u5F55 \u4E0B\u521B\u5EFA\u7684.",paraId:25,tocIndex:12},{value:"\u5728pages\u76EE\u5F55\u521B\u5EFA\u7684\u9875\u9762\uFF0CNuxt\u4F1A\u6839\u636E\u8BE5\u9875\u9762\u7684\u76EE\u5F55\u7ED3\u6784\u548C\u5176\u6587\u4EF6\u540D\u6765\u81EA\u52A8\u751F\u6210\u5BF9\u5E94\u7684\u8DEF\u7531.",paraId:26,tocIndex:12},{value:`npx nuxi add page home # \u521B\u5EFAhome\u9875\u9762
+npx nuxi add page detail/[id] # \u521B\u5EFAdetail\u9875\u9762
+npx nuxi add page user-[role]/[id] # \u521B\u5EFAuser\u9875\u9762
+`,paraId:27,tocIndex:13},{value:"\u662FNuxt\u5185\u7F6E\u7EC4\u4EF6\uFF0C\u662F\u5BF9 RouterLink \u7684\u5C01\u88C5\uFF0C\u7528\u6765\u5B9E\u73B0\u9875\u9762\u7684\u5BFC\u822A\u3002",paraId:28,tocIndex:15},{value:"to",paraId:29,tocIndex:15},{value:"\uFF1A\u4EFB\u610F URL \u6216 Vue Router \u7684 ",paraId:29,tocIndex:15},{value:"\u8DEF\u7531\u4F4D\u7F6E\u5BF9\u8C61",paraId:29,tocIndex:15},{value:"href",paraId:29,tocIndex:15},{value:"\uFF1A",paraId:29,tocIndex:15},{value:"to",paraId:29,tocIndex:15},{value:" \u7684\u522B\u540D\u3002\u5982\u679C\u4E0E ",paraId:29,tocIndex:15},{value:"to",paraId:29,tocIndex:15},{value:" \u4E00\u8D77\u4F7F\u7528\uFF0C\u5C06\u5FFD\u7565 ",paraId:29,tocIndex:15},{value:"href",paraId:29,tocIndex:15},{value:"target",paraId:29,tocIndex:15},{value:"\uFF1A\u94FE\u63A5\u4E0A\u8981\u5E94\u7528\u7684 ",paraId:29,tocIndex:15},{value:"target",paraId:29,tocIndex:15},{value:" \u5C5E\u6027\u503C",paraId:29,tocIndex:15},{value:"navigateTo\u662F\u4E00\u4E2A\u5E2E\u52A9\u51FD\u6570\uFF0C\u7528\u4E8E\u4EE5\u7F16\u7A0B\u65B9\u5F0F\u5BFC\u822A\u7528\u6237\u3002",paraId:30,tocIndex:16},{value:`<script setup lang="ts">
+// \u5C06'to'\u4F5C\u4E3A\u5B57\u7B26\u4E32\u4F20\u9012
+await navigateTo('/search')
+
+// ... \u6216\u8005\u4F5C\u4E3A\u8DEF\u7531\u5BF9\u8C61\u4F20\u9012
+await navigateTo({ path: '/search' })
+
+// ... \u6216\u8005\u4F5C\u4E3A\u5E26\u6709\u67E5\u8BE2\u53C2\u6570\u7684\u8DEF\u7531\u5BF9\u8C61\u4F20\u9012
+await navigateTo({
+  path: '/search',
+  query: {
+    page: 1,
+    sort: 'asc'
+  }
+})
+<\/script>
+`,paraId:31,tocIndex:16},{value:"useRouter \u7EC4\u5408\u51FD\u6570\u8FD4\u56DE\u8DEF\u7531\u5B9E\u4F8B\u3002",paraId:32,tocIndex:17},{value:`<script setup>
+const router = useRouter()
+
+router.back()
+router.forward()
+router.go(3)
+router.push({ path: "/home" })
+router.replace({ hash: "#bio" })
+
+router.addRoute({ name: 'home', path: '/home', component: Home })
+router.removeRoute('home')
+router.getRoutes()
+router.hasRoute('home')
+router.resolve({ name: 'home' })
+<\/script>
+
+
+`,paraId:33,tocIndex:17},{value:"\u52A8\u6001\u8DEF\u7531\u662F\u6839\u636E\u76EE\u5F55\u7ED3\u6784\u548C\u6587\u4EF6\u7684\u540D\u79F0\u81EA\u52A8\u751F\u6210\u3002",paraId:34,tocIndex:18},{value:"pages/detail/[id].vue -> /detail/:id",paraId:35,tocIndex:18},{value:"pages/detail/user-[id].vue -> /detail/user-:id",paraId:36,tocIndex:18},{value:"pages/detail/[role]/[id].vue -> /detail/:role/:id",paraId:37,tocIndex:18},{value:"pages/detail-[role]/[id].vue -> /detail-:role/:id",paraId:38,tocIndex:18},{value:`<script setup lang="ts">
+const route = useRoute()
+
+// \u5F53\u8BBF\u95EE/posts/1\u65F6\uFF0Croute.params.id\u5C06\u4E3A1
+console.log(route.params.id)
+    
+// \u5F53\u8BBF\u95EE/detail?name=wl \u65F6\uFF0Croute.params.id\u5C06\u4E3A1
+console.log(route.query.id)
+<\/script>
+`,paraId:39,tocIndex:19},{value:`-| page
+--| [...slug].vue
+`,paraId:40,tocIndex:20},{value:`<template>
+  <div>404 Page slug={{ slug }}</div>
+</template>
+<script lang="ts" setup>
+const route = useRoute();
+const { slug } = route.params;
+<\/script>
+<style scoped></style>
+
+`,paraId:41,tocIndex:20},{value:"\u521B\u5EFA\u4E00\u4E2A\u4E00\u7EA7\u8DEF\u7531\uFF0C\u5982\uFF1Aparent.vue",paraId:42,tocIndex:21},{value:"\u521B\u5EFA\u4E00\u4E2A\u4E0E\u4E00\u7EA7\u8DEF\u7531\u540C\u540D\u540C\u7EA7\u7684\u6587\u4EF6\u5939\uFF0C\u5982\uFF1A parent",paraId:42,tocIndex:21},{value:"\u5728parent\u6587\u4EF6\u5939\u4E0B\uFF0C\u521B\u5EFA\u4E00\u4E2A\u5D4C\u5957\u7684\u4E8C\u7EA7\u8DEF\u7531",paraId:42,tocIndex:21},{value:"\u6709\u4E09\u79CD\u7C7B\u578B\u7684\u8DEF\u7531\u4E2D\u95F4\u4EF6\uFF1A",paraId:43,tocIndex:22},{value:"\u533F\u540D\uFF08\u6216\u5185\u8054\uFF09\u8DEF\u7531\u4E2D\u95F4\u4EF6\uFF0C\u76F4\u63A5\u5728\u4F7F\u7528\u5B83\u4EEC\u7684\u9875\u9762\u4E2D\u5B9A\u4E49\u3002",paraId:44,tocIndex:22},{value:"\u547D\u540D\u8DEF\u7531\u4E2D\u95F4\u4EF6\uFF0C\u653E\u7F6E\u5728",paraId:44,tocIndex:22},{value:"middleware/",paraId:44,tocIndex:22},{value:"\u76EE\u5F55\u4E2D\uFF0C\u5F53\u5728\u9875\u9762\u4E2D\u4F7F\u7528\u65F6\uFF0C\u4F1A\u901A\u8FC7\u5F02\u6B65\u5BFC\u5165\u81EA\u52A8\u52A0\u8F7D\u3002\uFF08",paraId:44,tocIndex:22},{value:"\u6CE8\u610F",paraId:44,tocIndex:22},{value:"\uFF1A\u8DEF\u7531\u4E2D\u95F4\u4EF6\u540D\u79F0\u4F1A\u8F6C\u6362\u4E3A\u77ED\u6A2A\u7EBF\u5206\u9694\u547D\u540D\uFF0C\u56E0\u6B64",paraId:44,tocIndex:22},{value:"someMiddleware",paraId:44,tocIndex:22},{value:"\u4F1A\u53D8\u6210",paraId:44,tocIndex:22},{value:"some-middleware",paraId:44,tocIndex:22},{value:"\u3002\uFF09",paraId:44,tocIndex:22},{value:"\u5168\u5C40\u8DEF\u7531\u4E2D\u95F4\u4EF6\uFF0C\u653E\u7F6E\u5728",paraId:44,tocIndex:22},{value:"middleware/",paraId:44,tocIndex:22},{value:"\u76EE\u5F55",paraId:44,tocIndex:22},{value:"\u4E2D\uFF08\u4F7F\u7528",paraId:44,tocIndex:22},{value:".global",paraId:44,tocIndex:22},{value:"\u540E\u7F00\uFF09\uFF0C\u5C06\u5728\u6BCF\u6B21\u8DEF\u7531\u66F4\u6539\u65F6\u81EA\u52A8\u8FD0\u884C\u3002",paraId:44,tocIndex:22},{value:`<script lang="ts" setup>
+definePageMeta({
+  // \u8DEF\u7531\u4E2D\u95F4\u4EF6( \u76D1\u542C\u8DEF\u7531 )
+  middleware: [
+    // \u7B2C\u4E00\u4E2A\u4E2D\u95F4\u4EF6
+    function (to, from) {
+      // console.log(from);
+      // console.log(to);
+      console.log("index \u7B2C\u4E00\u4E2A\u4E2D\u95F4\u4EF6");
+      // \u5982\u679C\u8FD4\u56DE\u7684\u662F "" null, \u6216 \u6CA1\u6709\u8FD4\u56DE\u8BED\u53E5,name\u5C31\u4F1A\u6267\u884C\u4E0B\u4E00\u4E2A\u4E2D\u95F4\u4EF6
+      // \u5982\u679C\u8FD4\u56DE\u7684\u662F navigateTo, \u76F4\u63A5\u5BFC\u822A\u5230\u65B0\u7684\u9875\u9762
+      // return navigateTo("/detail02");
+    },
+  ],
+});
+<\/script>
+`,paraId:45,tocIndex:23},{value:`// middleware/home.ts
+export default defineNuxtRouteMiddleware((to, from) => {
+  // isAuthenticated()\u662F\u4E00\u4E2A\u9A8C\u8BC1\u7528\u6237\u662F\u5426\u5DF2\u7ECF\u8BA4\u8BC1\u7684\u793A\u4F8B\u65B9\u6CD5
+  if (isAuthenticated() === false) {
+    return navigateTo('/login')
+  }
+})
+
+// \u7EC4\u4EF6\u5185\u5F15\u5165
+definePageMeta({
+  middleware: 'home'
+})
+`,paraId:46,tocIndex:24},{value:`// \u8FD9\u4E2A\u4F18\u5148\u7EA7\u522B\u662F\u6BD4\u8F83\u9AD8\u7684
+export default defineNuxtRouteMiddleware((to, from) => {
+  const isLogin = false;
+  console.log("index \u7B2C\u4E09\u4E2A\u4E2D\u95F4\u4EF6 auth.global.ts");
+  console.log(to);
+  // if (!isLogin && to.fullPath !== "/login") {
+  //   return navigateTo("/login");
+  // }
+});
+`,paraId:47,tocIndex:25},{value:"Nuxt\u901A\u8FC7\u6BCF\u4E2A\u8981\u9A8C\u8BC1\u7684\u9875\u9762\u4E2D\u7684",paraId:48,tocIndex:26},{value:"definePageMeta()",paraId:48,tocIndex:26},{value:"\u7684",paraId:48,tocIndex:26},{value:"validate",paraId:48,tocIndex:26},{value:"\u5C5E\u6027\u63D0\u4F9B\u8DEF\u7531\u9A8C\u8BC1\u3002",paraId:48,tocIndex:26},{value:"validate",paraId:49,tocIndex:26},{value:"\u5C5E\u6027\u63A5\u53D7",paraId:49,tocIndex:26},{value:"route",paraId:49,tocIndex:26},{value:"\u4F5C\u4E3A\u53C2\u6570\u3002\u60A8\u53EF\u4EE5\u8FD4\u56DE\u4E00\u4E2A\u5E03\u5C14\u503C\u6765\u786E\u5B9A\u662F\u5426\u5C06\u6B64\u8DEF\u7531\u89C6\u4E3A\u6709\u6548\u8DEF\u7531\u4EE5\u6E32\u67D3\u6B64\u9875\u9762\u3002\u5982\u679C\u8FD4\u56DE",paraId:49,tocIndex:26},{value:"false",paraId:49,tocIndex:26},{value:"\uFF0C\u5E76\u4E14\u627E\u4E0D\u5230\u5176\u4ED6\u5339\u914D\u9879\uFF0C\u8FD9\u5C06\u5BFC\u81F4404\u9519\u8BEF\u3002\u60A8\u8FD8\u53EF\u4EE5\u76F4\u63A5\u8FD4\u56DE\u4E00\u4E2A\u5E26\u6709",paraId:49,tocIndex:26},{value:"statusCode",paraId:49,tocIndex:26},{value:"/",paraId:49,tocIndex:26},{value:"statusMessage",paraId:49,tocIndex:26},{value:"\u7684\u5BF9\u8C61\u4EE5\u7ACB\u5373\u54CD\u5E94\u9519\u8BEF\uFF08\u5176\u4ED6\u5339\u914D\u9879\u5C06\u4E0D\u4F1A\u88AB\u68C0\u67E5\uFF09\u3002",paraId:49,tocIndex:26},{value:"\u5982\u679C\u60A8\u6709\u66F4\u590D\u6742\u7684\u7528\u4F8B\uFF0C\u53EF\u4EE5\u4F7F\u7528\u533F\u540D\u8DEF\u7531\u4E2D\u95F4\u4EF6\u4EE3\u66FF\u3002",paraId:50,tocIndex:26},{value:`<script setup lang="ts">
+definePageMeta({
+  validate: async (route) => {
+    // \u68C0\u67E5id\u662F\u5426\u7531\u6570\u5B57\u7EC4\u6210
+    return /^\\d+$/.test(route.params.id)
+  }
+})
+<\/script>
+
+`,paraId:51,tocIndex:26},{value:"\u5728layouts\u76EE\u5F55\u4E0B\u65B0\u5EFA\u9ED8\u8BA4\u7684\u5E03\u5C40\u7EC4\u4EF6\uFF0C\u6BD4\u5982\uFF1Alayouts/default.vue",paraId:52,tocIndex:28},{value:"\u7136\u540E\u5728app.vue\u4E2D\u901A\u8FC7\u5185\u7F6E\u7EC4\u4EF6\u6765\u4F7F\u7528",paraId:53,tocIndex:28},{value:"\u7EE7\u7EED\u5728layouts\u6587\u4EF6\u5939\u4E0B\u65B0\u5EFA Layout \u5E03\u5C40\u7EC4\u4EF6\uFF0C\u6BD4\u5982: layouts/custom-layout.vue",paraId:54,tocIndex:29},{value:"\u7136\u540E\u5728app.vue\u4E2D\u7ED9\u5185\u7F6E\u7EC4\u4EF6 \u6307\u5B9Aname\u5C5E\u6027 \u7684\u503C\u4E3A\uFF1Acustom-layout",paraId:55,tocIndex:29},{value:"\u4E5F\u652F\u6301\u5728\u9875\u9762\u4E2D\u4F7F\u7528 definePageMeta \u5B8F\u51FD\u6570\u6765\u6307\u5B9A layout \u5E03\u5C40",paraId:56,tocIndex:29},{value:"\u76F4\u63A5\u4F7F\u7528 useNuxtApp() \u4E2D\u7684 provide(name, vlaue) \u65B9\u6CD5\u76F4\u63A5\u521B\u5EFA\uFF0C\u6BD4\u5982\uFF1A\u53EF\u5728App.vue\u4E2D\u521B\u5EFA",paraId:57,tocIndex:30},{value:`// \u65B9\u5F0F\u4E00:\u521B\u5EFA\u63D2\u4EF6
+const nuxtApp = useNuxtApp();
+nuxtApp.provide("formData", () => {
+  return "2020-12-14";
+});
+nuxtApp.provide("version", "1.0.0");
+`,paraId:58,tocIndex:30},{value:"\u5728 plugins \u76EE\u5F55\u4E2D\u521B\u5EFA\u63D2\u4EF6\uFF08\u63A8\u8350\uFF09",paraId:59,tocIndex:30},{value:"\u9876\u7EA7\u548C\u5B50\u76EE\u5F55index\u6587\u4EF6\u5199\u7684\u63D2\u4EF6\u4F1A\u5728\u521B\u5EFAVue\u5E94\u7528\u7A0B\u5E8F\u65F6\u4F1A\u81EA\u52A8\u52A0\u8F7D\u548C\u6CE8\u518C",paraId:60,tocIndex:30},{value:".server \u6216 .client \u540E\u7F00\u540D\u63D2\u4EF6\uFF0C\u53EF\u533A\u5206\u670D\u52A1\u5668\u7AEF\u6216\u5BA2\u6237\u7AEF\uFF0C\u7528\u65F6\u9700\u533A\u5206\u73AF\u5883",paraId:60,tocIndex:30},{value:`// plugins/1.price.client.ts
+export default defineNuxtPlugin((nuxtApp) => {
+  return {
+    provide: {
+      // \u81EA\u5B9A\u4E49\u7684\u63D2\u4EF6\uFF0C\u683C\u5F0F\u5316\u4EF7\u683C\u7684\u63D2\u4EF6 \uFF08\u521B\u5EFAVue\u5B9E\u4F8B\u65F6\u5C31\u4F1A\u81EA\u52A8\u6CE8\u518C\u597D\uFF09
+      formPrice: (price: number) => {
+        return price.toFixed(2);
+      },
+      // ....
+      // key: string ; value: any
+    },
+  };
+});
+
+// \u7136\u540E\u5728\u7EC4\u4EF6\u4E2D\u4F7F\u7528 useNuxtApp() \u6765\u62FF\u5230\u63D2\u4EF6\u4E2D\u7684\u65B9\u6CD5
+
+const nuxtApp = useNuxtApp();
+console.log(nuxtApp.$formPrice(100.78987));
+`,paraId:61,tocIndex:30},{value:"\u5E94\u7528\u751F\u547D\u5468\u671F",paraId:62,tocIndex:31},{value:"\u63D2\u4EF6\u5F62\u5F0F",paraId:63,tocIndex:31},{value:`// plugins/lifecycle.ts
+export default defineNuxtPlugin((nuxtApp) => {
+  // \u76D1\u542CApp\u7684\u751F\u547D\u5468\u671F
+  // // Server & Client
+  // nuxtApp.hook("app:created", (vueApp) => {
+  //   console.log("app:created");
+  // });
+  // // Client
+  // nuxtApp.hook("app:beforeMount", (vueApp) => {
+  //   console.log("app:beforeMount");
+  // });
+  // // Server & Client
+  // nuxtApp.hook("vue:setup", () => {
+  //   console.log("vue:setup");
+  // });
+  // // Server
+  // nuxtApp.hook("app:rendered", (renderContext) => {
+  //   console.log("app:rendered");
+  // });
+  // // Client
+  // nuxtApp.hook("app:mounted", (vueApp) => {
+  //   console.log("app:mounted");
+  // });
+});
+
+`,paraId:64,tocIndex:31},{value:"\u4F46\u662F\uFF0C\u5982\u5728\u7EC4\u4EF6\u4E2D\u7F16\u5199hooks\u6765\u76D1\u542C\uFF0C\u90A3 create\u548Csetup hooks\u5C31\u76D1\u542C\u4E0D\u4E86\uFF0C\u56E0\u4E3A\u8FD9\u4E9Bhooks\u5DF2\u7ECF\u89E6\u53D1\u5B8C\u4E86\u76D1\u542C\u3002",paraId:65,tocIndex:31},{value:`const nuxtApp = useNuxtApp();
+// Server & Client \u65E0\u6CD5\u89E6\u53D1
+nuxtApp.hook("app:created", (vueApp) => {
+  // console.log("app:created");
+});
+// Client \u65E0\u6CD5\u89E6\u53D1
+nuxtApp.hook("app:beforeMount", (vueApp) => {
+  // console.log("app:beforeMount");
+});
+
+// Server & Client
+nuxtApp.hook("vue:setup", () => {
+  // console.log("vue:setup");
+});
+
+// Server
+nuxtApp.hook("app:rendered", (renderContext) => {
+  // console.log("app:rendered");
+});
+
+// Client
+nuxtApp.hook("app:mounted", (vueApp) => {
+  // console.log("app:mounted");
+});
+`,paraId:66,tocIndex:31},{value:"useAsyncData :  \u4E13\u95E8\u89E3\u51B3\u5F02\u6B65\u83B7\u53D6\u6570\u636E\u7684\u51FD\u6570\uFF0C\u4F1A\u963B\u6B62\u9875\u9762\u5BFC\u822A,\u53D1\u8D77\u5F02\u6B65\u8BF7\u6C42\u9700\u7528\u5230 $fetch \u5168\u5C40\u51FD\u6570;",paraId:67,tocIndex:33},{value:"useFetch: \u7528\u4E8E\u83B7\u53D6\u4EFB\u610F\u7684URL\u5730\u5740\u7684\u6570\u636E\uFF0C\u4F1A\u963B\u6B62\u9875\u9762\u5BFC\u822A;",paraId:68,tocIndex:33},{value:"useLazyFetch : \u7528\u4E8E\u83B7\u53D6\u4EFB\u610FURL\u6570\u636E\uFF0C\u4E0D\u4F1A\u963B\u6B62\u9875\u9762\u5BFC\u822A; \u672C\u8D28\u548C useFetch \u7684 lazy \u5C5E\u6027\u8BBE\u7F6E\u4E3A true \u4E00\u6837",paraId:69,tocIndex:33},{value:"useLazyAsyncData:  \u4E13\u95E8\u89E3\u51B3\u5F02\u6B65\u83B7\u53D6\u6570\u636E\u7684\u51FD\u6570\u3002 \u4E0D\u4F1A\u963B\u6B62\u9875\u9762\u5BFC\u822A; \u672C\u8D28\u548CuseAsyncData\u7684lazy\u5C5E\u6027\u8BBE\u7F6E\u4E3Atrue\u4E00\u6837",paraId:70,tocIndex:33},{value:`import type { AsyncData, UseFetchOptions } from "nuxt/dist/app/composables";
+
+const BASE_URL = "/api/";
+type Methods = "GET" | "POST";
+
+export interface IResultData<T> {
+  code: number;
+  data: T;
+}
+
+class HYRequest {
+  request<T = any>(
+    url: string,
+    method: Methods,
+    data?: any,
+    options?: UseFetchOptions<T>
+  ): Promise<AsyncData<T, Error>> {
+    return new Promise((resolve, reject) => {
+      const newOptions: UseFetchOptions<T> = {
+        baseURL: BASE_URL,
+        method: method,
+        ...options,
+      };
+
+      if (method === "GET") {
+        newOptions.query = data; // query -> params
+      }
+      if (method === "POST") {
+        newOptions.body = data;
+      }
+      useFetch<T>(url, newOptions as any)
+        .then((res) => {
+          // res => { data:T, pending, refresh, error ... } => AsyncData
+          resolve(res as AsyncData<T, Error>);
+        })
+        .catch((error) => {
+          reject(error);
+        });
+    });
+  }
+
+  get<T = any>(url: string, params?: any, options?: UseFetchOptions<T>) {
+    return this.request(url, "GET", params, options);
+  }
+
+  post<T = any>(url: string, data?: any, options?: UseFetchOptions<T>) {
+    return this.request(url, "POST", data, options);
+  }
+}
+
+export default new HYRequest();
+
+`,paraId:71,tocIndex:34},{value:"Nuxt3 \u63D0\u4F9B\u4E86\u7F16\u5199\u540E\u7AEF\u670D\u52A1\u63A5\u53E3\u7684\u529F\u80FD\uFF0C\u7F16\u5199\u670D\u52A1\u63A5\u53E3\u53EF\u4EE5\u5728server/api\u76EE\u5F55\u4E0B\u7F16\u5199.",paraId:72,tocIndex:35},{value:"\u7F16\u5199\u4E00\u4E2A /api/homeinfo \u63A5\u53E3",paraId:73,tocIndex:35},{value:`// homeinfo.ts
+export default defineEventHandler((event) => {
+  let { req, res } = event.node;
+
+  console.log(req.method);
+  console.log(req.url);
+
+  return {
+    code: 200,
+    data: {
+      name: "wl",
+      age: 18,
+    },
+  };
+});
+
+`,paraId:74,tocIndex:35},{value:`// /api/login.post.ts
+export default defineEventHandler(async (event) => {
+  const query = getQuery(event);
+  const method = getMethod(event);
+  const body = await readBody(event);
+  const bodyRaw = await readRawBody(event);
+
+  console.log(query);
+  console.log(method);
+  console.log(body);
+  console.log(bodyRaw);
+
+  // \u8FDE\u63A5\u6570\u636E\u5E93 ...
+  // mock
+  return {
+    code: 200,
+    data: {
+      name: "wl",
+      age: 18,
+      token: "aabbcc",
+    },
+  };
+});
+
+`,paraId:75,tocIndex:35},{value:"\u5728 composables \u76EE\u5F55\u4E0B\u521B\u5EFA\u4E00\u4E2A\u6A21\u5757\uFF0C\u5982\uFF1A composables/states.ts",paraId:76,tocIndex:37},{value:"\u5728states.ts\u4E2D\u4F7F\u7528 useState \u5B9A\u4E49\u9700\u5168\u5C40\u5171\u4EAB\u72B6\u6001\uFF0C\u5E76\u5BFC\u51FA",paraId:76,tocIndex:37},{value:"\u5728\u7EC4\u4EF6\u4E2D\u5BFC\u5165 states.ts \u5BFC\u51FA\u7684\u5168\u5C40\u72B6\u6001",paraId:76,tocIndex:37},{value:"useState \u53EA\u80FD\u7528\u5728 setup \u51FD\u6570 \u548C Lifecycle Hooks \u4E2D",paraId:76,tocIndex:37},{value:`// composables/useCounter.ts
+export default function () {
+  return useState("counter", () => 100); // Ref
+}
+
+// \u4F7F\u7528 
+
+const counter = useCounter();
+console.log("counter=>", counter);
+function addCounter() {
+  counter.value++;
+  loginInfo.value.age++;
+}
+`,paraId:77,tocIndex:37},{value:`1. pnpm install @pinia/nuxt \u2013-save
+
+2. \u5728nuxt.config \u914D\u7F6E
+export default defineNuxtConfig({
+  // \u8FD9\u91CC\u662F\u914D\u7F6ENuxt3\u7684\u6269\u5C55\u7684\u5E93
+  modules: ["@pinia/nuxt"],
+});
+`,paraId:78,tocIndex:38},{value:"\u5728store\u6587\u4EF6\u5939\u4E2D\u5B9A\u4E49\u4E00\u4E2A\u6A21\u5757\uFF0C\u6BD4\u5982\uFF1Astore/counter.ts",paraId:79,tocIndex:39},{value:"\u5728 store/counter.ts \u4E2D\u4F7F\u7528defineStore\u51FD\u6570\u6765\u5B9A\u4E49 store \u5BF9\u8C61",paraId:79,tocIndex:39},{value:"\u5728\u7EC4\u4EF6\u4E2D\u4F7F\u7528\u5B9A\u4E49\u597D\u7684 store\u5BF9\u8C61",paraId:79,tocIndex:39},{value:`// store/home
+import { defineStore } from "pinia";
+
+export interface IState {
+  counter: number;
+  homeInfo: any;
+}
+
+export const useHomeStore = defineStore("home", {
+  state: (): IState => {
+    return {
+      counter: 0,
+      homeInfo: {},
+    };
+  },
+  actions: {
+    increment() {
+      this.counter++;
+    },
+    async fetchHomeData() {
+      const url = "http://codercba.com:9060/juanpi/api/homeInfo";
+      const { data } = await useFetch<any>(url);
+      console.log(data.value.data);
+      this.homeInfo = data.value.data;
+    },
+  },
+});
+
+`,paraId:80,tocIndex:39},{value:"\u7EC4\u4EF6\u4E2D\u4F7F\u7528",paraId:81,tocIndex:39},{value:`<script setup lang="ts">
+import { storeToRefs } from "pinia";
+import { useHomeStore } from "~/store/home";
+
+const homeStore = useHomeStore();
+const { counter } = storeToRefs(homeStore);
+function addCounter() {
+  homeStore.increment();
+}
+<\/script>
+`,paraId:82,tocIndex:39}]},4851:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(48497);const a=[{value:"TypeScript\uFF0C\u662F JavaScript \u7684\u8D85\u96C6\uFF0C\u53EF\u4EE5\u7B80\u5355\u7406\u89E3\u4E3A TS \u662F JS \u7684\u5347\u7EA7\u7248\u3002",paraId:0,tocIndex:0},{value:`npm i -g typescript
 `,paraId:1,tocIndex:2},{value:`tsc -v
 `,paraId:2,tocIndex:3},{value:"\u521B\u5EFA\u4E00\u4E2A\u4EE5 ",paraId:3,tocIndex:4},{value:".ts",paraId:3,tocIndex:4},{value:" \u4E3A\u7ED3\u5C3E\u7684\u6587\u4EF6\uFF0C\u5728\u8BE5\u6587\u4EF6\u4E2D\u53EF\u4EE5\u7F16\u5199 JS \u4EE3\u7801\uFF1A",paraId:3,tocIndex:4},{value:`var a = 1;
 console.log(a);
@@ -3793,7 +4411,7 @@ type MyNonNullable<T> = T extends null|undefined ? never: T
 type IKuns = NonNullable<IKun>
 
 export {}
-`,paraId:96,tocIndex:71}]},5466:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(52656);const a=[{value:"\u4F7F\u7528cdn\u7684\u65B9\u5F0F\u5F15\u7528vue\u6E90\u7A0B\u5E8F",paraId:0,tocIndex:1},{value:"\u4F7F\u7528\u811A\u624B\u67B6\u642D\u5EFA\u9879\u76EE",paraId:0,tocIndex:1},{value:"\u5B89\u88C5\u811A\u624B\u67B6",paraId:1,tocIndex:2},{value:`//\u5168\u5C40\u5B89\u88C5\u811A\u624B\u67B6\u547D\u4EE4
+`,paraId:96,tocIndex:71}]},5466:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(52656);const a=[{value:"\u4F7F\u7528cdn\u7684\u65B9\u5F0F\u5F15\u7528vue\u6E90\u7A0B\u5E8F",paraId:0,tocIndex:1},{value:"\u4F7F\u7528\u811A\u624B\u67B6\u642D\u5EFA\u9879\u76EE",paraId:0,tocIndex:1},{value:"\u5B89\u88C5\u811A\u624B\u67B6",paraId:1,tocIndex:2},{value:`//\u5168\u5C40\u5B89\u88C5\u811A\u624B\u67B6\u547D\u4EE4
 npm install -g @vue/cli
 `,paraId:2,tocIndex:2},{value:"\u521B\u5EFA\u9879\u76EE",paraId:3,tocIndex:2},{value:`//\u521B\u5EFA\u9879\u76EE\u7684\u547D\u4EE4 vue create \u9879\u76EE
 vue create project1
@@ -4538,7 +5156,7 @@ methods: {
         ...mapUserMutations(['ADD_AGE']),
         ...mapUserActions(['addHobby']),
 }
-`,paraId:158,tocIndex:62}]},59981:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(36077);const a=[{value:"\u9996\u5148\u786E\u4FDD\u5DF2\u5B89\u88C5vite\uFF0C\u672A\u5B89\u88C5\u9700\u5230\u5B98\u7F51\u6309\u8BF4\u660E\u6587\u6863\u5B89\u88C5\u3002",paraId:0,tocIndex:1},{value:"vue+ts",paraId:1,tocIndex:2},{value:`yarn create vite chitu-project --template vue-ts
+`,paraId:158,tocIndex:62}]},59981:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(36077);const a=[{value:"\u9996\u5148\u786E\u4FDD\u5DF2\u5B89\u88C5vite\uFF0C\u672A\u5B89\u88C5\u9700\u5230\u5B98\u7F51\u6309\u8BF4\u660E\u6587\u6863\u5B89\u88C5\u3002",paraId:0,tocIndex:1},{value:"vue+ts",paraId:1,tocIndex:2},{value:`yarn create vite chitu-project --template vue-ts
 `,paraId:2,tocIndex:2},{value:"\u5386\u53F2\u7248\u672C\uFF1A",paraId:3,tocIndex:5},{value:`<script>
 export default {
     setup() {
@@ -4833,7 +5451,7 @@ const globalStore = useGlobal();
 onMounted(() => {
     globalStore.getMenusAsync();
 })
-`,paraId:50,tocIndex:37}]},28156:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(83736);const a=[{value:"\u6CE8\u610F\uFF1A\u6240\u6709\u7684html\u6807\u7B7E\u9ED8\u8BA4\u662F\u6CA1\u6709\u6837\u5F0F",paraId:0,tocIndex:0},{value:"\u6240\u6709\u7684html\u6807\u7B7E\u9ED8\u8BA4\u6CA1\u6709\u6837\u5F0F\uFF0C\u4F46\u662Fa\u3001h\u6807\u7B7E\u7B49\u9ED8\u8BA4\u662F\u6D4F\u89C8\u5668\u6DFB\u52A0\u7684\u6837\u5F0F",paraId:1,tocIndex:1},{value:"\u7528\u6237\u53EF\u4EE5\u5728\u6D4F\u89C8\u5668\u4E2D\u66F4\u6539\u6807\u7B7E\u9ED8\u8BA4\u7684\u6837\u5F0F",paraId:2,tocIndex:2},{value:"\u5728\u6807\u7B7E\u4E0A\u6DFB\u52A0style\u5C5E\u6027\uFF0C\u5728\u5C5E\u6027\u503C\u4E2D\u4E66\u5199css\u6837\u5F0F\u4EE3\u7801",paraId:3,tocIndex:3},{value:"\u8BED\u6CD5\uFF1A",paraId:3,tocIndex:3},{value:`<p style="css\u5C5E\u60271\uFF1Acss\u5C5E\u6027\u503C1; css\u5C5E\u60272\uFF1Acss\u5C5E\u6027\u503C2\uFF1B">
+`,paraId:50,tocIndex:37}]},28156:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(83736);const a=[{value:"\u6CE8\u610F\uFF1A\u6240\u6709\u7684html\u6807\u7B7E\u9ED8\u8BA4\u662F\u6CA1\u6709\u6837\u5F0F",paraId:0,tocIndex:0},{value:"\u6240\u6709\u7684html\u6807\u7B7E\u9ED8\u8BA4\u6CA1\u6709\u6837\u5F0F\uFF0C\u4F46\u662Fa\u3001h\u6807\u7B7E\u7B49\u9ED8\u8BA4\u662F\u6D4F\u89C8\u5668\u6DFB\u52A0\u7684\u6837\u5F0F",paraId:1,tocIndex:1},{value:"\u7528\u6237\u53EF\u4EE5\u5728\u6D4F\u89C8\u5668\u4E2D\u66F4\u6539\u6807\u7B7E\u9ED8\u8BA4\u7684\u6837\u5F0F",paraId:2,tocIndex:2},{value:"\u5728\u6807\u7B7E\u4E0A\u6DFB\u52A0style\u5C5E\u6027\uFF0C\u5728\u5C5E\u6027\u503C\u4E2D\u4E66\u5199css\u6837\u5F0F\u4EE3\u7801",paraId:3,tocIndex:3},{value:"\u8BED\u6CD5\uFF1A",paraId:3,tocIndex:3},{value:`<p style="css\u5C5E\u60271\uFF1Acss\u5C5E\u6027\u503C1; css\u5C5E\u60272\uFF1Acss\u5C5E\u6027\u503C2\uFF1B">
 
 </p>
 `,paraId:4,tocIndex:3},{value:`\u597D\u5904\uFF1A
@@ -5015,7 +5633,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* \u901A\u8FC7css\u8BED\u6CD5\u5F15\u5165css\u6587\u4EF6 */
     @import url(css\u6587\u4EF6\u8DEF\u5F84);
 </style>
-`,paraId:135,tocIndex:35},{value:"link\u662F\u4E00\u79CD\u6807\u7B7E\uFF0C@import\u662F\u4E00\u79CD\u8BED\u6CD5",paraId:136,tocIndex:36},{value:"link\u4E0D\u4EC5\u4EC5\u53EF\u4EE5\u5F15\u5165css\u6587\u4EF6\uFF0C\u8FD8\u53EF\u4EE5\u5F15\u5165\u5176\u4ED6\u6587\u4EF6\u683C\u5F0F\uFF0C@import\u53EA\u80FD\u5F15\u5165css\u6587\u4EF6",paraId:136,tocIndex:36},{value:"\u52A0\u8F7D\u65F6\u95F4\uFF1Alink\u662F\u968F\u7740\u9875\u9762\u7684\u52A0\u8F7D\u800C\u52A0\u8F7D\uFF0C@import\u7B49\u9875\u9762\u52A0\u8F7D\u5B8C\u6210\u4E4B\u540E\u518D\u52A0\u8F7D",paraId:136,tocIndex:36},{value:"\u517C\u5BB9\u95EE\u9898\uFF1Alink\u7684\u517C\u5BB9\u6BD4@import\u597D",paraId:136,tocIndex:36},{value:"link\u53EF\u4EE5\u88ABjs\u63A7\u5236\uFF0C@import\u4E0D\u80FD\u88ABjs\u63A7\u5236",paraId:136,tocIndex:36}]},50599:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(78089);const a=[{value:"display\uFF1Ainline-block\uFF1B \u4E2D\u95F4\u5B58\u57285px\u7684\u95F4\u8DDD\uFF0C\u5B58\u5728\u517C\u5BB9\u95EE\u9898",paraId:0,tocIndex:1},{value:"\u6D6E\u52A8",paraId:0,tocIndex:1},{value:"\u53EF\u4EE5\u8BA9\u5143\u7D20\u540C\u884C\u663E\u793A\uFF0C\u6392\u5217\u4E0D\u4E0B\u81EA\u52A8\u6362\u884C",paraId:1,tocIndex:2},{value:"\u8BED\u6CD5\uFF1A",paraId:1,tocIndex:2},{value:`float:left | right |none;
+`,paraId:135,tocIndex:35},{value:"link\u662F\u4E00\u79CD\u6807\u7B7E\uFF0C@import\u662F\u4E00\u79CD\u8BED\u6CD5",paraId:136,tocIndex:36},{value:"link\u4E0D\u4EC5\u4EC5\u53EF\u4EE5\u5F15\u5165css\u6587\u4EF6\uFF0C\u8FD8\u53EF\u4EE5\u5F15\u5165\u5176\u4ED6\u6587\u4EF6\u683C\u5F0F\uFF0C@import\u53EA\u80FD\u5F15\u5165css\u6587\u4EF6",paraId:136,tocIndex:36},{value:"\u52A0\u8F7D\u65F6\u95F4\uFF1Alink\u662F\u968F\u7740\u9875\u9762\u7684\u52A0\u8F7D\u800C\u52A0\u8F7D\uFF0C@import\u7B49\u9875\u9762\u52A0\u8F7D\u5B8C\u6210\u4E4B\u540E\u518D\u52A0\u8F7D",paraId:136,tocIndex:36},{value:"\u517C\u5BB9\u95EE\u9898\uFF1Alink\u7684\u517C\u5BB9\u6BD4@import\u597D",paraId:136,tocIndex:36},{value:"link\u53EF\u4EE5\u88ABjs\u63A7\u5236\uFF0C@import\u4E0D\u80FD\u88ABjs\u63A7\u5236",paraId:136,tocIndex:36}]},50599:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(78089);const a=[{value:"display\uFF1Ainline-block\uFF1B \u4E2D\u95F4\u5B58\u57285px\u7684\u95F4\u8DDD\uFF0C\u5B58\u5728\u517C\u5BB9\u95EE\u9898",paraId:0,tocIndex:1},{value:"\u6D6E\u52A8",paraId:0,tocIndex:1},{value:"\u53EF\u4EE5\u8BA9\u5143\u7D20\u540C\u884C\u663E\u793A\uFF0C\u6392\u5217\u4E0D\u4E0B\u81EA\u52A8\u6362\u884C",paraId:1,tocIndex:2},{value:"\u8BED\u6CD5\uFF1A",paraId:1,tocIndex:2},{value:`float:left | right |none;
 `,paraId:2,tocIndex:2},{value:"left :\u5DE6\u6D6E\u52A8",paraId:3,tocIndex:2},{value:"right\uFF1A\u53F3\u6D6E\u52A8",paraId:3,tocIndex:2},{value:"none\uFF1A\u4E0D\u6D6E\u52A8\uFF0C\u9ED8\u8BA4\u503C",paraId:3,tocIndex:2},{value:"\u7279\u70B9\uFF1A",paraId:4,tocIndex:2},{value:"\u6D6E\u52A8\u5143\u7D20\u53EF\u4EE5\u540C\u884C\u663E\u793A\uFF0C\u6392\u5217\u4E0D\u4E0B\u4F1A\u81EA\u52A8\u6362\u884C\uFF0C\u4E0D\u5B58\u5728\u517C\u5BB9\u95EE\u9898",paraId:5,tocIndex:2},{value:"\u6D6E\u52A8\u5143\u7D20\u4F1A\u8131\u79BB\u6587\u6863\u6D41\uFF0C\u5728\u6807\u51C6\u6587\u6863\u6D41\u4E4B\u4E0A",paraId:5,tocIndex:2},{value:"\u539F\u6765\u7684\u7A7A\u95F4\u4E0D\u5B58\u5728\uFF0C\u540E\u7EED\u6807\u51C6\u6587\u6863\u6D41\u5143\u7D20\u4F1A\u4F7F\u7528\u6B64\u7A7A\u95F4",paraId:5,tocIndex:2},{value:"\u884C\u5185\u5143\u7D20\u8BBE\u7F6E\u6D6E\u52A8\u540E\uFF0C\u652F\u6301\u5BBD\u9AD8",paraId:5,tocIndex:2},{value:"\u6D6E\u52A8\u5143\u7D20\u4E0D\u4F1A\u5F71\u54CD\u524D\u9762\u6807\u51C6\u6587\u6863\u6D41\u5143\u7D20\u7684\u6392\u5217\uFF0C\u4F46\u662F\u4F1A\u5F71\u54CD\u540E\u9762\u6807\u51C6\u6587\u6863\u6D41\u5143\u7D20\u7684\u6392\u5217\u3002\u5E76\u4E14\u6D6E\u52A8\u5143\u7D20\u663E\u793A\u5728\u6807\u51C6\u6587\u6863\u6D41\u7684\u4E0A\u65B9",paraId:5,tocIndex:2},{value:"\u6CE8\u610F\uFF1A",paraId:6,tocIndex:2},{value:"\u53EA\u6709\u8BBE\u7F6E\u4E86\u6D6E\u52A8\u7684\u5143\u7D20\uFF0C\u624D\u53EF\u4EE5\u540C\u884C\u663E\u793A",paraId:7,tocIndex:2},{value:"\u591A\u4E2A\u5143\u7D20\u540C\u65F6\u6D6E\u52A8\uFF0C\u7B2C\u4E00\u4E2A\u6D6E\u52A8\u5143\u7D20\u627E\u7236\u76D2\u5B50\u7684\u8FB9\u754C\uFF0C\u540E\u9762\u7684\u6D6E\u52A8\u5143\u7D20\u627E\u524D\u9762\u6D6E\u52A8\u5143\u7D20\u7684\u8FB9\u754C",paraId:7,tocIndex:2},{value:"\u5757\u7EA7\u5143\u7D20\u8BBE\u7F6E\u6D6E\u52A8\u540E\uFF0C\u5982\u679C\u4E0D\u8BBE\u7F6Ewidth\uFF0C\u9ED8\u8BA4\u662Fauto\uFF0C\u5BBD\u5EA6\u662F\u7531\u5185\u5BB9\u51B3\u5B9A",paraId:7,tocIndex:2},{value:"\u6982\u5FF5\uFF1A\u5728\u9875\u9762\u5E03\u5C40\u8FC7\u7A0B\u4E2D\uFF0C\u5143\u7D20\u6309\u7167\u4ECE\u5DE6\u5230\u53F3\uFF0C\u4ECE\u4E0A\u5230\u4E0B\uFF0C\u5757\u7EA7\u5143\u7D20\u72EC\u5360\u4E00\u884C\uFF0C\u884C\u7EA7\u5143\u7D20\u5171\u4EAB\u4E00\u884C\u7684\u6392\u5217\u89C4\u8303",paraId:8,tocIndex:3},{value:"\u6982\u5FF5\uFF1A\u5728\u9875\u9762\u5E03\u5C40\u8FC7\u7A0B\u4E2D\uFF0C\u5143\u7D20\u4E0D\u518D\u9075\u5FAA\u6807\u51C6\u6587\u6863\u6D41\uFF0C\u6309\u7167\u81EA\u5DF1\u7684\u6392\u5217\u89C4\u8303\u6765\u6392\u5217",paraId:9,tocIndex:4},{value:"\u975E\u6D6E\u52A8\u5143\u7D20\u4F1A\u5360\u7528\u6D6E\u52A8\u5143\u7D20\u539F\u6765\u7684\u4F4D\u7F6E",paraId:10,tocIndex:5},{value:"\u975E\u6D6E\u52A8\u5143\u7D20\u91CC\u9762\u7684\u6587\u672C\u4F1A\u88AB\u6D6E\u52A8\u5143\u7D20\u6324\u51FA\u6765",paraId:11,tocIndex:5},{value:"\u5B9E\u73B0\u56FE\u6587\u6DF7\u6392",paraId:12,tocIndex:5},{value:`<style>
     img{
         float: left;
@@ -5250,7 +5868,517 @@ div{
 `,paraId:185,tocIndex:62},{value:"anination-name:\u8BBE\u7F6E\u52A8\u753B\u7684\u540D\u79F0\uFF0C\u9700\u8981\u914D\u5408\u6267\u884C\u65F6\u957F\u4E00\u8D77\u4F7F\u7528",paraId:186,tocIndex:62},{value:"animation-duration: \u8BBE\u7F6E\u52A8\u753B\u7684\u6267\u884C\u65F6\u957F\uFF0C\u9ED8\u8BA4\u503C\u4E3A0s\uFF1B",paraId:187,tocIndex:62},{value:"animation-timing-function: \u8BBE\u7F6E\u52A8\u753B\u7684\u6267\u884C\u901F\u7387\uFF0C\u539F\u7406\u662F\u901A\u8FC7\u8D1D\u585E\u5C14\u66F2\u7EBF\u6765\u5B9E\u73B0\u7684",paraId:188,tocIndex:62},{value:"ease\uFF1A\u9ED8\u8BA4\u503C\uFF0C\u4EE5\u4F4E\u901F\u5F00\u59CB\uFF0C\u7136\u540E\u53D8\u5FEB\uFF0C\u5728\u7ED3\u675F\u524D\u53D8\u6162\\",paraId:189,tocIndex:62},{value:"linear\uFF1A\u5300\u901F",paraId:190,tocIndex:62},{value:"ease-in\uFF1A\u4EE5\u4F4E\u901F\u5F00\u59CB",paraId:191,tocIndex:62},{value:"ease-out:\u4EE5\u4F4E\u901F\u7ED3\u675F",paraId:192,tocIndex:62},{value:"ease-in-out\uFF1A\u4EE5\u4F4E\u901F\u5F00\u59CB\u548C\u7ED3\u675F",paraId:193,tocIndex:62},{value:"cubic-bezier(x1,y1,x2,y2)\uFF1A\u8D1D\u585E\u5C14\u66F2\u7EBF",paraId:194,tocIndex:62},{value:"animation-delay:\u8BBE\u7F6E\u52A8\u753B\u7684\u5EF6\u8FDF\u65F6\u95F4\uFF0C\u9ED8\u8BA4\u4E3A0s",paraId:195,tocIndex:62},{value:"animation-iteration-count\uFF1A\u8BBE\u7F6E\u52A8\u753B\u7684\u6267\u884C\u6B21\u6570\uFF0C\u9ED8\u8BA4\u52A8\u753B\u53EA\u80FD\u6267\u884C\u4E00\u6B21",paraId:196,tocIndex:62},{value:"n: \u6570\u5B66\uFF0C\u4EE3\u8868\u6B21\u6570",paraId:197,tocIndex:62},{value:"infinite\uFF1A\u65E0\u9650\u6B21",paraId:198,tocIndex:62},{value:"animation-direction\uFF1A\u8BBE\u7F6E\u52A8\u753B\u7684\u6267\u884C\u65B9\u5411",paraId:199,tocIndex:62},{value:"normal\uFF1A\u9ED8\u8BA4\uFF0C\u6B63\u5E38\u64AD\u653E",paraId:200,tocIndex:62},{value:"reverse\uFF1A\u53CD\u5411\u64AD\u653E\u52A8\u753B",paraId:201,tocIndex:62},{value:"alternate\uFF1A\u5947\u6570\u6B21\u6B63\u5411\u64AD\u653E\u52A8\u753B\uFF0C\u5076\u6570\u6B21\u53CD\u5411\u64AD\u653E\u52A8\u753B",paraId:202,tocIndex:62},{value:"alternate-reverse\uFF1A\u5947\u6570\u6B21\u53CD\u5411\u64AD\u653E\u52A8\u753B\uFF0C\u5076\u6570\u6B21\u6B63\u5411\u64AD\u653E\u52A8\u753B",paraId:203,tocIndex:62},{value:"animation-fill-mode\uFF1A\u8BBE\u7F6E\u7B2C\u4E00\u5E27\u6216\u6700\u540E\u4E00\u5E27\u662F\u5426\u4F5C\u7528\u5728\u5143\u7D20\u4E0A",paraId:204,tocIndex:62},{value:"forwards\uFF1A\u8BBE\u7F6E\u6700\u540E\u4E00\u5E27\u4F5C\u7528\u5728\u5143\u7D20\u4E0A\uFF0C\u4FDD\u6301\u7ED3\u675F\u72B6\u6001",paraId:205,tocIndex:62},{value:"backwards\uFF1A\u8BBE\u7F6E\u7B2C\u4E00\u5E27\u4F5C\u7528\u5728\u5143\u7D20\u4E0A\uFF0C\u4FDD\u6301\u5F00\u59CB\u72B6\u6001",paraId:206,tocIndex:62},{value:"both\uFF1A\u5C06\u7B2C\u4E00\u5E27\u548C\u6700\u540E\u4E00\u5E27\u90FD\u4F5C\u7528\u5728\u5143\u7D20\u4E0A",paraId:207,tocIndex:62},{value:"animation-play-state\uFF1A\u63A7\u5236\u52A8\u753B\u662F\u5426\u64AD\u653E",paraId:208,tocIndex:62},{value:"running:\u9ED8\u8BA4\u503C\uFF0C\u64AD\u653E",paraId:209,tocIndex:62},{value:"paused\uFF1A\u6682\u505C",paraId:210,tocIndex:62},{value:"animation\uFF1A\u590D\u5408\u5C5E\u6027",paraId:211,tocIndex:62},{value:`animation: name duration timing-function delay iteration-count direction fill-mode;
 animation: \u52A8\u753B\u540D\u79F0  \u6267\u884C\u65F6\u957F  \u6267\u884C\u901F\u7387   \u5EF6\u8FDF\u65F6\u957F  \u6267\u884C\u6B21\u6570  \u6267\u884C\u65B9\u5411 \u662F\u5426\u4FDD\u6301\u5F00\u59CB\u6216\u7ED3\u675F\u72B6\u6001;
 
-`,paraId:212,tocIndex:62}]},66875:function(t,n,e){e.r(n),e.d(n,{texts:function(){return a}});var o=e(74007);const a=[{value:"\u52A8\u6001\u8BBE\u7F6EHTML\u6839\u5B57\u4F53\u5927\u5C0F \u548C body \u5B57\u4F53\u5927\u5C0F\uFF08lib_flexible.js\uFF09",paraId:0,tocIndex:1},{value:"\u5C06\u8BBE\u8BA1\u7A3F\u7684\u5BBD\uFF081920\uFF09\u5E73\u5747\u5206\u6210 24 \u7B49\u4EFD\uFF0C \u6BCF\u4E00\u4EFD\u4E3A 80px\u3002",paraId:1,tocIndex:1},{value:"HTML\u5B57\u4F53\u5927\u5C0F\u5C31\u8BBE\u7F6E\u4E3A 80 px\uFF0C\u53731rem = 80px\uFF0C 24rem = 1920px",paraId:2,tocIndex:1},{value:"body\u5B57\u4F53\u5927\u5C0F\u8BBE\u7F6E\u4E3A 16px\u3002",paraId:2,tocIndex:1},{value:"\u5B89\u88C5 cssrem \u63D2\u4EF6\uFF0C root font size \u8BBE\u7F6E\u4E3A 80px\u3002\u8FD9\u4E2A\u662Fpx\u5355\u4F4D\u8F6Crem\u7684\u53C2\u8003\u503C \u2713 px \u8F6C rem\u65B9\u5F0F\uFF1A\u624B\u52A8\u3001less/scss\u51FD\u6570\u3001cssrem\u63D2\u4EF6\u3001webpack\u63D2\u4EF6\u3001Vite\u63D2\u4EF6",paraId:2,tocIndex:1},{value:"\u63A5\u7740\u5C31\u53EF\u4EE5\u6309\u7167 1920px * 1080px \u7684\u8BBE\u8BA1\u7A3F\u6109\u5FEB\u5F00\u53D1\uFF0C\u6B64\u65F6\u7684\u9875\u9762\u5DF2\u7ECF\u662F\u54CD\u5E94\u5F0F\uFF0C\u5E76\u4E14\u5BBD\u9AD8\u6BD4\u4E0D\u53D8\u3002",paraId:2,tocIndex:1},{value:`(function flexible(window, document) {
+`,paraId:212,tocIndex:62}]},66875:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(74007);const a=[{value:`<canvas id="tutorial" width="300" height="300px">
+    \u4F60\u7684\u6D4F\u89C8\u5668\u4E0D\u517C\u5BB9Canvas,\u8BF7\u5347\u7EA7\u60A8\u7684\u6D4F\u89C8\u5668!
+</canvas>
+<script>
+    window.onload = function() {
+      // 1.\u62FF\u5230canvas\u7684\u5143\u7D20\u5BF9\u8C61
+      let canvasEl = document.getElementById('tutorial')
+      
+      if(!canvasEl.getContext){
+        return
+      }
+      // 2.\u62FF\u5230Canvas\u6E32\u67D3\u7684\u4E0A\u4E0B\u6587
+      // ctx: CanvasRenderingContext2D
+      // ctx\u662F\u4E00\u4E2A\u7ED8\u56FE\u7684\u4E0A\u4E0B\u6587: \u63D0\u4F9B\u4E86\u7ED8\u56FE\u7684\u6307\u4EE4, \u53EF\u4EE5\u7ED8\u5236\u5404\u79CD\u56FE\u5F62( \u5706\u5F62 \u76F4\u7EBF \u692D\u5706... )
+      let ctx = canvasEl.getContext('2d') // 2d | webgl
+      console.log(ctx)
+    }
+  <\/script>
+`,paraId:0,tocIndex:1},{value:` // 1.\u7ED8\u5236\u4E86\u4E00\u4E2A\u586B\u5145\u7684\u77E9\u5F62
+ctx.fillStyle = 'red'
+ctx.fillRect(0, 0, 100, 50)
+
+// 2.\u7ED8\u5236\u4E00\u4E2A\u8FB9\u6846\u7684\u77E9\u5F62
+ctx.strokeRect(100, 100, 100, 50)
+
+// 3.\u6E05\u9664\u6307\u5B9A\u533A\u57DF\u7684\u77E9\u5F62
+// ctx.clearRect(0,0, 100, 50)
+`,paraId:1,tocIndex:2},{value:`// 1.\u521B\u5EFA\u4E00\u4E2A\u65B0\u7684\u8DEF\u5F84
+ctx.beginPath()
+// 2.\u4F7F\u7528\u7684\u7ED8\u56FE\u7684\u547D\u540D(ctx\u5BF9\u8C61\u4E2D\u7684 \u5C5E\u6027 \u548C API)
+ctx.moveTo(10, 10)
+ctx.lineTo(100, 10)
+// 3.\u95ED\u5408\u8DEF\u5F84
+// ctx.closePath() // \u4E0D\u662F\u5FC5\u987B
+// 4.\u63CF\u8FB9\u6216\u586B\u5145
+ctx.stroke()  // \u7ED8\u5236\u7EBF\u6761\u53EA\u80FD\u7528 stroke\u586B\u5145,\u4E0D\u7528 fill
+`,paraId:2,tocIndex:3},{value:`// 1.\u6BCF\u4E2A\u56FE\u5F62\u90FD\u7ED8\u5236\u5728\u4E00\u4E2A\u8DEF\u5F84\u4E2D
+      // ctx.beginPath()
+      // ctx.arc(50, 50, 25, 0, Math.PI * 2, false)
+      // ctx.stroke()
+
+      // ctx.beginPath()
+      // ctx.arc(150, 150, 25, 0, Math.PI)
+      // ctx.stroke()
+
+
+     
+      // 2.\u5728\u4E00\u4E2A\u8DEF\u5F84\u4E2D\u7ED8\u5236\u591A\u4E2A\u56FE\u5F62
+      ctx.beginPath()
+      ctx.arc(50, 50, 25, 0, Math.PI * 2, false)
+      ctx.moveTo(175, 150)
+      ctx.arc(150, 150, 25, 0, Math.PI)
+      // ctx.closePath()
+      ctx.stroke()
+`,paraId:3,tocIndex:4},{value:`// fillStyle \u586B\u5145\u8272 \uFF1B strokeRect \u63CF\u8FB9\u8272
+
+ctx.fillStyle = '#cdcdcd'
+ctx.fillRect(200, 0, 100, 50)
+
+ctx.strokeStyle = 'blue'
+ctx.strokeRect(200, 0, 100, 50)
+
+// \u900F\u660E\u5EA6 Transparent
+// \u65B9\u5F0F\u4E00\uFF1AstrokeStyle \u548C fillStyle\u5C5E\u6027\u7ED3\u5408RGBA\uFF1A
+// \u65B9\u5F0F\u4E8C globalAlpha = 0 ~ 1 \u6240\u6709canvas\u7684\u900F\u660E\u5EA6
+
+ctx.globalAlpha = 0.3
+
+ctx.fillStyle = 'rgba(255, 0, 0, 0.3)'
+ctx.fillRect(0,0, 100, 50) // \u5355\u4F4D\u4E5F\u662F\u4E0D\u7528\u5199 px
+`,paraId:4,tocIndex:5},{value:`// lineWidth = value\uFF1A \u8BBE\u7F6E\u7EBF\u6761\u5BBD\u5EA6
+// lineCap = type\uFF1A \u8BBE\u7F6E\u7EBF\u6761\u672B\u7AEF\u6837\u5F0F\u3002 butt round  square
+// lineJoin = type\uFF1A \u8BBE\u5B9A\u7EBF\u6761\u4E0E\u7EBF\u6761\u95F4\u63A5\u5408\u5904\u7684\u6837\u5F0F round bevel miter
+
+ctx.lineWidth = 10
+ctx.lineCap = 'butt' // butt round square
+ctx.lineJoin = 'bevel' // miter  round  bevel
+`,paraId:5,tocIndex:6},{value:`// fillText(text, x, y [, maxWidth])  \u5728 (x,y) \u4F4D\u7F6E\uFF0C\u586B\u5145\u6307\u5B9A\u7684\u6587\u672C \u7ED8\u5236\u7684\u6700\u5927\u5BBD\u5EA6\uFF08\u53EF\u9009\uFF09
+// strokeText(text, x, y [, maxWidth]) \u5728 (x,y) \u4F4D\u7F6E\uFF0C\u7ED8\u5236\u6587\u672C\u8FB9\u6846 \u7ED8\u5236\u7684\u6700\u5927\u5BBD\u5EA6\uFF08\u53EF\u9009\uFF09
+// font = value\uFF1A \u5F53\u524D\u7ED8\u5236\u6587\u672C\u7684\u6837\u5F0F\u3002
+// textAlign = value\uFF1A\u6587\u672C\u5BF9\u9F50\u9009\u9879\u3002\u53EF\u9009\u7684\u503C\u5305\u62EC\uFF1Astart, end, left, right or center. \u9ED8\u8BA4\u503C\u662F start
+// textBaseline = value\uFF1A\u57FA\u7EBF\u5BF9\u9F50\u9009\u9879\u3002\u53EF\u9009\u7684\u503C\u5305\u62EC\uFF1Atop, hanging, middle, alphabetic, ideographic, bottom\u3002
+
+ctx.font = '60px sen-serif'
+ctx.textAlign = 'center'
+ctx.textBaseline = 'middle'
+ctx.strokeStyle ="red"
+ctx.fillStyle ="red"
+
+// \u5C06\u5B57\u4F53\u7ED8\u5236\u5728 100, 100 \u8FD9\u4E2A\u5750\u6807\u70B9
+ctx.fillText('Ay', 100, 100)
+// ctx.strokeText('Ay', 100, 100)
+`,paraId:6,tocIndex:7},{value:`// drawImage(image, x, y)
+// drawImage(image, x, y, width, height)
+// drawImage(image, sx, sy, sWidth, sHeight, dx, dy, dWidth, dHeight) \u5176\u5B83 8 \u4E2A\u53C2\u6570\u6700\u597D\u662F\u53C2\u7167\u53F3\u8FB9\u7684\u56FE\u89E3\uFF0C\u524D 4 \u4E2A
+//   \u662F\u5B9A\u4E49\u56FE\u50CF\u6E90\u7684\u5207\u7247\u4F4D\u7F6E\u548C\u5927\u5C0F\uFF0C\u540E 4 \u4E2A\u5219\u662F\u5B9A\u4E49\u5207\u7247\u7684\u76EE\u6807\u663E\u793A\u4F4D\u7F6E\u548C\u5927\u5C0F
+// 1.\u51C6\u5907\u4E00\u5F20\u56FE\u7247
+var image = new Image()
+image.src = '../images/backdrop.png'
+
+image.onload = function() {
+    // 2.\u5F00\u59CB\u7528Canvas\u6765\u7ED8\u5236\u56FE\u7247
+    ctx.drawImage(image, 0, 0, 180, 130)
+
+    // 3.\u7ED8\u5236\u6298\u7EBF
+    ctx.beginPath()
+    ctx.moveTo(40, 100)
+    ctx.lineTo(50, 70)
+    ctx.lineTo(60, 90)
+    ctx.lineTo(100, 30)
+    ctx.lineTo(170, 90)
+    ctx.stroke()
+}
+`,paraId:7,tocIndex:8},{value:`// save()\uFF1A\u4FDD\u5B58\u753B\u5E03 (canvas) \u7684\u6240\u6709\u7ED8\u753B\u72B6\u6001
+// restore()\uFF1A\u6062\u590D\u753B\u5E03 (canvas) \u7684\u6240\u6709\u7ED8\u753B\u72B6\u6001
+
+ctx.save()
+ctx.fillStyle ='red'
+ctx.fillRect(10, 10, 30, 15)
+ctx.restore()
+`,paraId:8,tocIndex:9},{value:`// translate(x, y)
+ // 1.\u5F62\u53D8(\u4FDD\u5B58\u5F62\u53D8\u4E4B\u524D\u7684\u72B6\u6001)
+ctx.save()
+ctx.translate(100, 100)
+ctx.fillRect(0,0, 100, 50) // \u5355\u4F4D\u4E5F\u662F\u4E0D\u7528\u5199 px
+ctx.restore() // \u6062\u590D\u4E86\u5F62\u53D8\u4E4B\u524D\u7684\u72B6\u6001( 0,0)
+
+ctx.save() // (\u4FDD\u5B58\u5F62\u53D8\u4E4B\u524D\u7684\u72B6\u6001)
+ctx.translate(100, 100)
+ctx.fillStyle = 'red'
+ctx.fillRect(0, 0, 50, 30)
+ctx.restore()
+`,paraId:9,tocIndex:10},{value:`// rotate(angle)
+// \u4FDD\u5B58\u5F62\u53D8\u4E4B\u524D\u7684\u72B6\u6001
+ctx.save()
+// 1.\u5F62\u53D8
+ctx.translate(100, 100)
+// 360 -> Math.PI * 2
+// 180 -> Math.PI
+// 1 -> Math.PI / 180
+// 45 -> Math.PI / 180 * 45
+ctx.rotate(Math.PI / 180 * 45)
+ctx.fillRect(0, 0, 50, 50) 
+
+// ctx.translate(100, 0)
+// ctx.fillRect(0, 0, 50, 50)
+// \u7ED8\u56FE\u7ED3\u675F(\u6062\u590D\u5F62\u53D8\u4E4B\u524D\u7684\u72B6\u6001)
+ctx.restore()
+`,paraId:10,tocIndex:11},{value:`//  scale(x, y)
+ctx.scale(2, 2) // \u5BF9\u5750\u6807\u8F74\u8FDB\u884C\u4E86\u653E\u5927(2\u500D)
+`,paraId:11,tocIndex:12},{value:"Canvas\u7ED8\u56FE\u90FD\u662F\u901A\u8FC7JavaScript \u53BB\u64CD\u63A7\u7684\uFF0C\u5982\u8981\u5B9E\u73B0\u4E00\u4E9B\u4EA4\u4E92\u6027\u52A8\u753B\u662F\u76F8\u5F53\u5BB9\u6613\u7684;",paraId:12,tocIndex:13},{value:"Canvas \u753B\u51FA\u4E00\u5E27\u52A8\u753B\u7684\u57FA\u672C\u6B65\u9AA4\uFF08\u5982\u8981\u753B\u51FA\u6D41\u7545\u52A8\u753B\uFF0C1s \u9700\u7ED860\u5E27\uFF09",paraId:13,tocIndex:13},{value:`setInterval(function() {
+    draw()
+}, 1000)
+function draw() {
+}
+`,paraId:14,tocIndex:14},{value:` // \u5728\u6D4F\u89C8\u5668\u4E0B\u4E00\u6B21\u91CD\u7ED8\u4E4B\u524D\u4F1A\u56DE\u8C03\u8BE5\u51FD\u6570\u7684\u56DE\u8C03\u51FD\u6570draw
+requestAnimationFrame(draw)
+ /*
+      \u4E00\u79D2\u949F\u4F1A\u88AB\u56DE\u8C03  61s \u6B21
+    */
+function draw() {
+    let endTime = new Date().getTime()
+    if(endTime - startTime > 1000){
+        return
+    }
+    console.log('draw')
+    requestAnimationFrame(draw)
+}
+`,paraId:15,tocIndex:15},{value:"\u4F18\u70B9:\u6269\u5C55\u597D;\u7075\u6D3B;\u53EF\u4EE5\u52A8\u753B;\u8F7B\u91CF\u7EA7;\u53EF\u6253\u5370",paraId:16,tocIndex:16},{value:"\u7F3A\u70B9:SVG \u56FE\u50CF\u53D8\u5F97\u590D\u6742\u65F6\uFF0C\u52A0\u8F7D\u4F1A\u6BD4\u8F83\u6162",paraId:17,tocIndex:16},{value:`// js
+
+ <script>
+window.onload = function() {
+    // 1.\u521B\u5EFAsvg \u548C rect \u5143\u7D20
+    let xmlns = 'http://www.w3.org/2000/svg'
+    let svgEl = document.createElementNS(xmlns, 'svg') 
+    let rectEl = document.createElementNS(xmlns, 'rect') 
+
+    // 2.\u7ED9svg \u548C rect \u5143\u7D20\u5BF9\u8C61\u6DFB\u52A0\u5C5E\u6027
+    svgEl.setAttributeNS(null, 'version', '1.0')
+    svgEl.setAttributeNS(null, 'width', 100)
+    svgEl.setAttributeNS(null, 'height', 100)
+
+    rectEl.setAttributeNS(null, 'width', 50)
+    rectEl.setAttributeNS(null, 'height', 50)
+
+    // 3.\u5C06svg\u6DFB\u52A0\u5230 body\u4E0A
+    svgEl.appendChild(rectEl)
+    document.body.appendChild(svgEl)
+}
+     <\/script>
+
+// \u76F4\u63A5\u4E66\u5199
+<!-- 1.\u521B\u5EFAsvg 1.0 -->
+  <svg
+    version="1.0"
+    baseProfile="full"
+    width="100"
+    height="100"
+    xmlns="http://www.w3.org/2000/svg"
+  > 
+   <rect x="0" y="0" width="100" height="100"></rect>
+  </svg>
+
+  <!-- 2.\u521B\u5EFAsvg 2.0 -->
+  <svg
+    width="100"
+    height="100"
+    xmlns="http://www.w3.org/2000/svg"
+  > 
+   <rect x="0" y="0" width="100" height="100"></rect>
+  </svg>
+`,paraId:18,tocIndex:17},{value:` <!-- \u5728img\u4E2D\u76F4\u63A5\u4F7F\u7528svg -->
+<img src="./rect.svg" alt="">
+
+background-image: url(./rect.svg);
+
+// html\u76F4\u63A5\u4E66\u5199
+<svg
+     width="100"
+     height="100"
+     xmlns="http://www.w3.org/2000/svg"
+     >
+    <rect x="0" y="0" width="100" height="100"></rect>
+</svg>
+`,paraId:19,tocIndex:18},{value:`<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <rect x="0" y="0" width="100" height="50"></rect> // \u77E9\u5F62
+ 	<circle cx="100" cy="100" r="50" fill="red"></circle>  //\u5706\u5F62
+	<path d="M 20 0,L 80 50,L 20 100 Z" fill="transparent" stroke="red"></path> // \u8DEF\u5F84
+	<ellipse cx="100" cy="100" rx="25" ry="50" fill="red"></ellipse> // \u692D\u5706
+	<line x1="100" y1="100"  x2="200" y2="100" stroke="red" stroke-width="5"></line> // \u76F4\u7EBF
+	<polyline points="20 0, 80 50, 20, 100" fill="transparent" stroke="red"></polyline> // \u6298\u7EBF
+	<polygon points="20 0, 80 50, 20 100" fill="transparent" stroke="red"></polygon> // \u591A\u8FB9\u5F62
+</svg>
+`,paraId:20,tocIndex:19},{value:"d\u5C5E\u6027\u503C\u652F\u6301\u7684\u547D\u4EE4",paraId:21,tocIndex:20},{value:"\u76F4\u7EBF\u547D\u4EE4  M / m\uFF1AMove To ;L / l \uFF1ALine To ;Z / z\uFF1AClose Path ;H / h\uFF1Ahorizontal ;V / v\uFF1Avertical",paraId:22,tocIndex:20},{value:"\u66F2\u7EBF\u547D\u4EE4  C \uFF1A\u4E09\u6B21\u8D1D\u585E\u5C14\u66F2\u7EBF ; S\uFF1A\u7B80\u5199\u4E09\u6B21\u8D1D\u585E\u5C14\u66F2\u7EBF ; Q\uFF1A\u4E8C\u6B21\u8D1D\u585E\u5C14\u66F2\u7EBF ; T\uFF1A\u7B80\u5199\u4E8C\u6B21\u8D1D\u585E\u5C14\u66F2\u7EBF",paraId:23,tocIndex:20},{value:`<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+   
+    <!-- 1.\u5728svg\u4E2D\u7ED8\u5236\u4E00\u4E2A\u6587\u5B57 -->
+    <!-- <text x="100" y="100" font-size="50" fill="red">Ay</text> -->
+
+    <!-- 2.\u6587\u672C\u7684\u5BF9\u9F50\u65B9\u5F0F -->
+    <!-- <text x="100" y="100" text-anchor="middle"  font-size="50" fill="red">Ay</text> -->
+
+    <!-- 3.\u57FA\u7EBF\u5BF9\u9F50\u65B9\u5F0F :
+    \u6709 auto \u3001middle \u6216 hanging \u503C, \u9ED8\u8BA4\u503C\uFF1Aauto
+    -->
+    <text x="100" y="100" dominant-baseline="middle" font-size="50" fill="red">Ay</text>
+    
+     <!-- <tspan> \u5143\u7D20\u7528\u6765\u6807\u8BB0\u5927\u5757\u6587\u672C\u7684\u5B50\u90E8\u5206\uFF0C\u5B83\u5FC5\u987B\u662F\u4E00\u4E2Atext\u5143\u7D20\u6216\u522B\u7684tspan\u5143\u7D20\u7684\u5B50\u5143\u7D20\u3002 -->  
+	<text x="40" y="100" font-size="20">
+      iPhone14 
+      <tspan fill="red">\xA5100</tspan>
+    </text>
+</svg>
+`,paraId:24,tocIndex:21},{value:`<!-- svg 2.0\u7248\u672C\u7684\u8BED\u6CD5 -->
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <image 
+           x="0"
+           y="0"
+           href="../images/googlelogo_color_92x30dp.png"
+           width="100"
+           height="100"
+           >
+    </image>
+</svg>
+`,paraId:25,tocIndex:22},{value:`<!-- 
+      g \u5143\u7D20\u6CA1\u6709\u4E13\u6709\u7684\u5C5E\u6027,\u53EA\u6709\u5168\u5C40\u7684\u5C5E\u6027
+      \u5168\u5C40\u5C5E\u6027:id  class  style fill stroke onclick
+     -->
+    <g fill="transparent" stroke="red">
+      <circle cx="50" cy="50" r="25"></circle>
+      <circle cx="80" cy="50" r="25"></circle>
+      <circle cx="110" cy="50" r="25"></circle>
+      <circle cx="140" cy="50" r="25"></circle>  
+    </g>
+`,paraId:26,tocIndex:23},{value:`// defs
+<defs>
+    <!-- 0.\u6837\u5F0F -->
+    <style>
+        rect{
+            fill: green;
+        }
+    </style>
+    <!-- 1.\u5B9A\u4E49\u4E86\u4E00\u4E2A\u77E9\u5F62 -->
+    <rect id="rectangle"  x="0" y="0" width="100" height="50"></rect>
+
+    <!-- 2.\u5B9A\u4E49\u4E86\u4E00\u4E2A\u7EC4\u5408\u56FE\u5F62 -->
+    <g id="logo" fill="transparent" stroke="red">
+        <circle cx="50" cy="50" r="25"></circle>
+        <circle cx="80" cy="50" r="25"></circle>
+        <circle cx="110" cy="50" r="25"></circle>
+        <circle cx="140" cy="50" r="25"></circle>  
+    </g>
+    <!-- \u5B9A\u4E49\u6E10\u53D8 -->
+    <!-- \u6EE4\u955C -->
+</defs>
+
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <!-- 
+\u4ED6\u7684\u5BBD\u548C\u9AD8\u662F\u6CA1\u6709\u751F\u6548\u7684 ????  \u53EA\u7528use\u5F15\u7528\u7684\u56FE\u5F62\u662F svg \u6216 symbol \u624D\u4F1A\u8D77\u4F5C\u7528
+-->
+    <use href="#rectangle" width="200" height="100" ></use>
+</svg>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <use href="#logo"></use>
+</svg>
+`,paraId:27,tocIndex:24},{value:"symbol",paraId:28,tocIndex:25},{value:` <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+
+     <!-- 1.ICON previous-->
+     <symbol id="previous" viewBox="0 0 100 100">
+         <path fill="currentColor" d="M 80 0,L 20 50, L 80 100 Z"></path>
+     </symbol>
+
+     <!-- 2.ICON next -->
+     <symbol id="next" viewBox="0 0 100 100">
+         <polygon points="20 0, 80 50, 20 100"></polygon>
+     </symbol>
+
+     <!-- \u590D\u7528 -->
+     <!-- <use href="#previous" width="100" height="100"></use> -->
+</svg>
+
+<!-- \u590D\u7528 -->
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <!-- \u76F4\u63A5\u5728use\u4E0A\u6307\u5B9AICON\u7684 width\u548C hegiht -->
+    <use href="#previous" width="50" height="50"></use>
+</svg>
+
+<!-- \u8FD9\u4E2A\u5C5E\u4E8E\u7F29\u5C0F -->
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg" >
+    <use href="#previous" ></use>
+</svg>
+
+<!-- \u5C5E\u4E8E\u653E\u5927 -->
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" >
+    <use href="#previous" ></use>
+</svg>
+`,paraId:29,tocIndex:25},{value:`// translate(x, y)\u51FD\u6570
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <!-- 1.\u5E73\u79FB\u4E00\u4E2A\u5143\u7D20 -->
+    <!-- <rect x="0" y="0" width="100" height="50"
+      transform="translate(200, 200)"
+    >
+    </rect> -->
+
+    <!-- 2.\u5E73\u79FB\u4E00\u4E2A\u5143\u7D20, \u5728\u5143\u7D20\u7684\u5185\u90E8\u4F1A\u521B\u5EFA\u4E00\u4E2A\u65B0\u7684\u5750\u6807\u7CFB\u7EDF -->
+    <!-- <rect 
+      transform="translate(100, 100)"
+      x="-10" y="-10" width="100" height="50"
+    >
+    </rect> -->
+
+    <!-- 2.\u5E73\u79FB\u4E00\u4E2A\u5143\u7D20, \u5728\u5143\u7D20\u7684\u5185\u90E8\u4F1A\u521B\u5EFA\u4E00\u4E2A\u65B0\u7684\u5750\u6807\u7CFB\u7EDF -->
+    <g transform="translate(100, 100)">
+      <rect 
+        x="10" y="10" width="100" height="50"
+      >
+      </rect>
+    </g>
+
+  </svg>
+`,paraId:30,tocIndex:26},{value:`//rotate
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <!-- 1.\u65CB\u8F6C\u4E00\u4E2A\u5143\u7D20 -->
+    <!-- <rect 
+      transform="rotate(45, 50, 25) translate(100, 0)"
+      x="0" y="0" width="100" height="50"
+    >
+    </rect> -->
+
+    <rect 
+      transform="translate(100, 0) rotate(45, 50, 25)"
+      x="0" y="0" width="100" height="50"
+    >
+    </rect>
+
+    
+  </svg>
+`,paraId:31,tocIndex:27},{value:`// scale(x, y)\u51FD\u6570
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <!-- 1.\u7F29\u653E\u4E00\u4E2A\u5143\u7D20 -->
+    <!-- <rect 
+      transform="translate(100, 100) scale(1, 2)"
+      x="0" y="0" width="100" height="50"
+    >
+    </rect> -->
+
+    <!-- 2.\u4FEE\u6539\u7F29\u653E\u7684\u539F\u70B9 -->
+    <!-- <rect 
+      transform="translate(100, 100) scale(2)"
+      x="-25" y="-25" width="50" height="50"
+    >
+    </rect> -->
+    
+     <!-- 3.\u4FEE\u6539\u7F29\u653E\u7684\u539F\u70B9 -->
+     <g  transform="scale(2)">
+        <rect
+          transform="translate(10, 0)"
+          x="0" y="0" width="50" height="50"
+        >
+        </rect>
+     </g>
+
+    
+  </svg>
+`,paraId:32,tocIndex:28},{value:"SVG \u52A8\u753B\u5143\u7D20\u662F\u57FA\u4E8ESMIL\u5B9E\u73B0",paraId:33,tocIndex:29},{value:`// \u57283\u79D2\u540E\u81EA\u52A8\u5C06\u957F\u65B9\u5F62\u77AC\u95F4\u79FB\u5230\u53F3\u8FB9
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <rect x="0" y="0" width="100" height="50" fill="red">
+        <set
+             attributeName ='x'
+             to="200"
+             begin="3s"
+             >
+        </set> 
+    </rect>
+</svg>
+
+// \u70B9\u51FB\u957F\u65B9\u5F62\u540E\uFF0C\u957F\u65B9\u5F62\u77AC\u95F4\u79FB\u5230\u53F3\u8FB9
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <rect id="rectangle" x="0" y="0" width="100" height="50" fill="green">
+        <set
+             attributeName ='x'
+             to="200"
+             begin="rectangle.click"
+             >
+        </set> 
+    </rect>
+</svg>
+`,paraId:34,tocIndex:30},{value:`svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" >
+    <rect x="0" y="0" width="100" height="50" fill="red">
+      <!-- 
+        1.animate \u5143\u7D20\u7684\u57FA\u672C\u4F7F\u7528
+       -->
+      <!-- <animate
+        attributeName="x"
+        form="0"
+        to="200"
+        dur="3s"
+        begin="2s"
+        fill="freeze"
+      > -->
+      <!-- 
+        2.animate \u5143\u7D20\u7684\u57FA\u672C\u4F7F\u7528(3\u4E2A\u5C5E\u6027\u65F6\u5FC5\u987B\u7684)
+       -->
+      <animate
+        attributeName="x"
+        to="200"
+        dur="3s"
+      >
+
+      </animate>
+    </rect>
+  </svg>
+`,paraId:35,tocIndex:31},{value:"\u6307\u5B9A\u76EE\u6807\u5143\u7D20\u7684\u5F62\u53D8\uFF08transform\uFF09\u5C5E\u6027\uFF0C\u4ECE\u800C\u5141\u8BB8\u63A7\u5236\u5143\u7D20\u7684\u5E73\u79FB\u3001\u65CB\u8F6C\u3001\u7F29\u653E\u6216\u503E\u659C\u52A8\u753B",paraId:36,tocIndex:32},{value:`<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" >
+    <rect x="0" y="0" width="100" height="50" fill="red">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0, 0"
+        to="200, 0"
+        dur="2s"
+        begin="1s"
+        repeatCount="indefinite"
+      >
+      </animateTransform>
+    </rect>
+  </svg>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    <rect x="0" y="0" width="50" height="50" fill="red">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 150 150"
+        to="360 150 150"
+        dur="20s"
+        begin="1s"
+        repeatCount="indefinite"
+      >
+      </animateTransform>
+    </rect>
+  </svg>
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" >
+    <rect x="0" y="0" width="100" height="50" fill="red">
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1;0.5"
+        dur="2s"
+        begin="1s"
+        repeatCount="indefinite"
+      >
+      </animateTransform>
+    </rect>
+  </svg>
+
+`,paraId:37,tocIndex:32},{value:"< animateMotion > \u5B9A\u4E49\u4E86\u4E00\u4E2A\u5143\u7D20\u5982\u4F55\u6CBF\u7740\u8FD0\u52A8\u8DEF\u5F84\u8FDB\u884C\u79FB\u52A8",paraId:38,tocIndex:33},{value:`<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" >
+    
+    <!-- 1.\u56FE\u5F62 -->
+    <path id="linePath" d="M 0 100, L 100 30, L 200 100, L 300 30" fill="transparent" stroke="red"></path>
+    <rect id="rectangle" x="-10" y="-5" width="20" height="10" rx="4" ry="4" fill="red"></rect>
+
+
+    <!-- 2.\u52A8\u753B -->
+    <animateMotion
+                   href="#rectangle"
+                   dur="5s"
+                   rotate="auto"
+                   fill="freeze"
+                   >
+        <mpath href="#linePath"></mpath>
+    </animateMotion>
+</svg>
+`,paraId:39,tocIndex:33},{value:"GSAP \u662F\u4E00\u4E2A\u5F3A\u5927\u7684 JavaScript \u52A8\u753B\u5E93\uFF0C\u53EF\u8BA9\u5F00\u53D1\u4EBA\u5458\u8F7B\u677E\u7684\u5236\u4F5C\u5404\u79CD\u590D\u6742\u7684\u52A8\u753B",paraId:40,tocIndex:34},{value:"\u52A8\u6001\u8BBE\u7F6EHTML\u6839\u5B57\u4F53\u5927\u5C0F \u548C body \u5B57\u4F53\u5927\u5C0F\uFF08lib_flexible.js\uFF09",paraId:41,tocIndex:36},{value:"\u5C06\u8BBE\u8BA1\u7A3F\u7684\u5BBD\uFF081920\uFF09\u5E73\u5747\u5206\u6210 24 \u7B49\u4EFD\uFF0C \u6BCF\u4E00\u4EFD\u4E3A 80px\u3002",paraId:42,tocIndex:36},{value:"HTML\u5B57\u4F53\u5927\u5C0F\u5C31\u8BBE\u7F6E\u4E3A 80 px\uFF0C\u53731rem = 80px\uFF0C 24rem = 1920px",paraId:43,tocIndex:36},{value:"body\u5B57\u4F53\u5927\u5C0F\u8BBE\u7F6E\u4E3A 16px\u3002",paraId:43,tocIndex:36},{value:"\u5B89\u88C5 cssrem \u63D2\u4EF6\uFF0C root font size \u8BBE\u7F6E\u4E3A 80px\u3002\u8FD9\u4E2A\u662Fpx\u5355\u4F4D\u8F6Crem\u7684\u53C2\u8003\u503C \u2713 px \u8F6C rem\u65B9\u5F0F\uFF1A\u624B\u52A8\u3001less/scss\u51FD\u6570\u3001cssrem\u63D2\u4EF6\u3001webpack\u63D2\u4EF6\u3001Vite\u63D2\u4EF6",paraId:43,tocIndex:36},{value:"\u63A5\u7740\u5C31\u53EF\u4EE5\u6309\u7167 1920px * 1080px \u7684\u8BBE\u8BA1\u7A3F\u6109\u5FEB\u5F00\u53D1\uFF0C\u6B64\u65F6\u7684\u9875\u9762\u5DF2\u7ECF\u662F\u54CD\u5E94\u5F0F\uFF0C\u5E76\u4E14\u5BBD\u9AD8\u6BD4\u4E0D\u53D8\u3002",paraId:43,tocIndex:36},{value:`(function flexible(window, document) {
   var docEl = document.documentElement;
   var dpr = window.devicePixelRatio || 1;
 
@@ -5296,7 +6424,7 @@ animation: \u52A8\u753B\u540D\u79F0  \u6267\u884C\u65F6\u957F  \u6267\u884C\u901
   }
 })(window, document);
 
-`,paraId:3,tocIndex:1},{value:"\u76F4\u63A5\u4F7F\u7528vw\u5355\u4F4D\u3002",paraId:4,tocIndex:2},{value:"\u5C4F\u5E55\u7684\u5BBD\u9ED8\u8BA4\u4E3A 100vw\uFF0C\u90A3\u4E48100vw = 1920px\uFF0C 1vw = 19.2px \u3002",paraId:5,tocIndex:2},{value:"\u5B89\u88C5 cssrem \u63D2\u4EF6\uFF0C body\u7684\u5BBD\u9AD8\uFF081920px * 1080px\uFF09\u76F4\u63A5\u628Apx\u5355\u4F4D\u8F6Cvw\u5355\u4F4D \u2713 px \u8F6C vw \u65B9\u5F0F\uFF1A\u624B\u52A8\u3001less/scss\u51FD\u6570\u3001cssrem\u63D2\u4EF6\u3001webpack\u63D2\u4EF6\u3001Vite\u63D2\u4EF6",paraId:5,tocIndex:2},{value:"\u63A5\u7740\u5C31\u53EF\u4EE5\u6309\u7167 1920px * 1080px \u7684\u8BBE\u8BA1\u7A3F\u6109\u5FEB\u5F00\u53D1\uFF0C\u6B64\u65F6\u7684\u9875\u9762\u5DF2\u7ECF\u662F\u54CD\u5E94\u5F0F\uFF0C\u5E76\u5BBD\u9AD8\u6BD4\u4E0D\u53D8\u3002",paraId:5,tocIndex:2},{value:"\u4F7F\u7528CSS3\u4E2D\u7684scale\u51FD\u6570\u6765\u7F29\u653E\u7F51\u9875\uFF0C\u8FD9\u91CC\u6211\u4EEC\u5C06\u4F7F\u7528\u4E24\u79CD\u65B9\u6848\u6765\u5B9E\u73B0\uFF1A",paraId:6,tocIndex:3},{value:"\u65B9\u6848\u4E00\uFF1A\u76F4\u63A5\u6839\u636E\u5BBD\u5EA6\u7684\u6BD4\u7387\u8FDB\u884C\u7F29\u653E\u3002\uFF08\u5BBD\u5EA6\u6BD4\u7387=\u7F51\u9875\u5F53\u524D\u5BBD / \u8BBE\u8BA1\u7A3F\u5BBD\uFF09",paraId:7,tocIndex:3},{value:"\u65B9\u6848\u4E8C\uFF1A\u52A8\u6001\u8BA1\u7B97\u7F51\u9875\u5BBD\u9AD8\u6BD4\uFF0C\u51B3\u5B9A\u662F\u662F\u5426\u6309\u7167\u5BBD\u5EA6\u7684\u6BD4\u7387\u8FDB\u884C\u7F29\u653E\u3002",paraId:7,tocIndex:3},{value:`<script>
+`,paraId:44,tocIndex:36},{value:"\u76F4\u63A5\u4F7F\u7528vw\u5355\u4F4D\u3002",paraId:45,tocIndex:37},{value:"\u5C4F\u5E55\u7684\u5BBD\u9ED8\u8BA4\u4E3A 100vw\uFF0C\u90A3\u4E48100vw = 1920px\uFF0C 1vw = 19.2px \u3002",paraId:46,tocIndex:37},{value:"\u5B89\u88C5 cssrem \u63D2\u4EF6\uFF0C body\u7684\u5BBD\u9AD8\uFF081920px * 1080px\uFF09\u76F4\u63A5\u628Apx\u5355\u4F4D\u8F6Cvw\u5355\u4F4D \u2713 px \u8F6C vw \u65B9\u5F0F\uFF1A\u624B\u52A8\u3001less/scss\u51FD\u6570\u3001cssrem\u63D2\u4EF6\u3001webpack\u63D2\u4EF6\u3001Vite\u63D2\u4EF6",paraId:46,tocIndex:37},{value:"\u63A5\u7740\u5C31\u53EF\u4EE5\u6309\u7167 1920px * 1080px \u7684\u8BBE\u8BA1\u7A3F\u6109\u5FEB\u5F00\u53D1\uFF0C\u6B64\u65F6\u7684\u9875\u9762\u5DF2\u7ECF\u662F\u54CD\u5E94\u5F0F\uFF0C\u5E76\u5BBD\u9AD8\u6BD4\u4E0D\u53D8\u3002",paraId:46,tocIndex:37},{value:"\u4F7F\u7528CSS3\u4E2D\u7684scale\u51FD\u6570\u6765\u7F29\u653E\u7F51\u9875\uFF0C\u8FD9\u91CC\u6211\u4EEC\u5C06\u4F7F\u7528\u4E24\u79CD\u65B9\u6848\u6765\u5B9E\u73B0\uFF1A",paraId:47,tocIndex:38},{value:"\u65B9\u6848\u4E00\uFF1A\u76F4\u63A5\u6839\u636E\u5BBD\u5EA6\u7684\u6BD4\u7387\u8FDB\u884C\u7F29\u653E\u3002\uFF08\u5BBD\u5EA6\u6BD4\u7387=\u7F51\u9875\u5F53\u524D\u5BBD / \u8BBE\u8BA1\u7A3F\u5BBD\uFF09",paraId:48,tocIndex:38},{value:"\u65B9\u6848\u4E8C\uFF1A\u52A8\u6001\u8BA1\u7B97\u7F51\u9875\u5BBD\u9AD8\u6BD4\uFF0C\u51B3\u5B9A\u662F\u662F\u5426\u6309\u7167\u5BBD\u5EA6\u7684\u6BD4\u7387\u8FDB\u884C\u7F29\u653E\u3002",paraId:48,tocIndex:38},{value:`<script>
 
     // \u8BBE\u8BA1\u7A3F:  1920 * 1080
     // \u76EE\u6807\u9002\u914D:  1920 * 1080   3840 * 2160 ( 2 * 2 ) ;  7680 * 2160( 4 * 2)
@@ -5325,4 +6453,28 @@ animation: \u52A8\u753B\u540D\u79F0  \u6267\u884C\u65F6\u957F  \u6267\u884C\u901
     }
       
   <\/script>
-`,paraId:8,tocIndex:3},{value:"\u4F18\u52BF\u4E00\uFF1A\u76F8\u6BD4\u4E8Evw \u548C rem\uFF0C\u4F7F\u7528\u8D77\u6765\u66F4\u52A0\u7B80\u5355\uFF0C\u4E0D\u9700\u8981\u5BF9\u5355\u4F4D\u8FDB\u884C\u8F6C\u6362\u3002",paraId:9,tocIndex:4},{value:"\u4F18\u52BF\u4E8C\uFF1A\u56E0\u4E3A\u4E0D\u9700\u8981\u5BF9\u5355\u4F4D\u8FDB\u884C\u8F6C\u6362\uFF0C\u5728\u4F7F\u7528\u7B2C\u4E09\u65B9\u5E93\u65F6\uFF0C\u4E0D\u9700\u8981\u8003\u8651\u5355\u4F4D\u8F6C\u6362\u95EE\u9898\u3002",paraId:9,tocIndex:4},{value:"\u4F18\u52BF\u4E09\uFF1A\u7531\u4E8E\u6D4F\u89C8\u5668\u7684\u5B57\u4F53\u9ED8\u8BA4\u6700\u5C0F\u662F\u4E0D\u80FD\u5C0F\u4E8E12px\uFF0C\u5BFC\u81F4rem\u6216vw\u65E0\u6CD5\u8BBE\u7F6E\u5C0F\u4E8E12px\u7684\u5B57\u4F53\uFF0C\u7F29\u653E\u6CA1\u6709\u8FD9\u4E2A\u95EE\u9898\u3002",paraId:9,tocIndex:4},{value:"\u5B57\u4F53\u5927\u5C0F\u8BBE\u7F6E\u95EE\u9898\uFF08\u975Escale\u65B9\u6848\u9700\u8981\u8003\u8651\uFF09",paraId:10,tocIndex:5},{value:"\u5982\u679C\u4F7F\u7528rem\u6216vw\u5355\u4F4D\u65F6\uFF0C\u5728JS\u4E2D\u6DFB\u52A0\u6837\u5F0F\u65F6\uFF0C\u5355\u4F4D\u9700\u8981\u624B\u52A8\u8BBE\u7F6Erem\u6216vw\u3002",paraId:11,tocIndex:5},{value:"\u7B2C\u4E09\u65B9\u5E93\u7684\u5B57\u4F53\u7B49\u9ED8\u8BA4\u7684\u90FD\u662Fpx\u5355\u4F4D\uFF0C\u6BD4\u5982\uFF1Aelement\u3001echarts\uFF0C\u56E0\u6B64\u901A\u5E38\u9700\u8981\u5C42\u53E0\u7B2C\u4E09\u65B9\u5E93\u7684\u6837\u5F0F\u3002",paraId:12,tocIndex:5},{value:"\u5F53\u5927\u5C4F\u6BD4\u4F8B\u66F4\u5927\u65F6\uFF0C\u6709\u4E9B\u5B57\u4F53\u8FD8\u9700\u8981\u76F8\u5E94\u7684\u8C03\u6574\u5B57\u53F7\u3002",paraId:13,tocIndex:5},{value:"\u56FE\u7247\u6A21\u7CCA\u95EE\u9898",paraId:14,tocIndex:5},{value:"\u5207\u56FE\u65F6\u52071\u500D\u56FE\u30012\u500D\u56FE\uFF0C\u5927\u5C4F\u7528\u5927\u56FE\uFF0C\u5C0F\u5C4F\u7528\u5C0F\u56FE\u3002",paraId:15,tocIndex:5},{value:"\u5EFA\u8BAE\u90FD\u4F7F\u7528SVG\u77E2\u91CF\u56FE\uFF0C\u4FDD\u8BC1\u653E\u5927\u7F29\u5C0F\u4E0D\u4F1A\u5931\u771F\u3002",paraId:16,tocIndex:5},{value:"Echarts \u6E32\u67D3\u5F15\u64CE\u7684\u9009\u62E9",paraId:17,tocIndex:5},{value:"\u4F7F\u7528SVG\u6E32\u67D3\u5F15\u64CE\uFF0CSVG\u56FE\u6269\u5C55\u6027\u66F4\u597D",paraId:18,tocIndex:5},{value:"\u52A8\u753B\u5361\u987F\u4F18\u5316",paraId:19,tocIndex:5},{value:"\u521B\u5EFA\u65B0\u7684\u6E32\u67D3\u5C42\u3001\u542F\u7528GPU\u52A0\u901F\u3001\u5584\u7528CSS3\u5F62\u53D8\u52A8\u753B",paraId:20,tocIndex:5},{value:"\u5C11\u7528\u6E10\u53D8\u548C\u9AD8\u65AF\u6A21\u7CCA\u3001\u5F53\u4E0D\u9700\u8981\u52A8\u753B\u65F6\uFF0C\u53CA\u65F6\u5173\u95ED\u52A8\u753B",paraId:20,tocIndex:5}]}}]);
+`,paraId:49,tocIndex:38},{value:"\u4F18\u52BF\u4E00\uFF1A\u76F8\u6BD4\u4E8Evw \u548C rem\uFF0C\u4F7F\u7528\u8D77\u6765\u66F4\u52A0\u7B80\u5355\uFF0C\u4E0D\u9700\u8981\u5BF9\u5355\u4F4D\u8FDB\u884C\u8F6C\u6362\u3002",paraId:50,tocIndex:39},{value:"\u4F18\u52BF\u4E8C\uFF1A\u56E0\u4E3A\u4E0D\u9700\u8981\u5BF9\u5355\u4F4D\u8FDB\u884C\u8F6C\u6362\uFF0C\u5728\u4F7F\u7528\u7B2C\u4E09\u65B9\u5E93\u65F6\uFF0C\u4E0D\u9700\u8981\u8003\u8651\u5355\u4F4D\u8F6C\u6362\u95EE\u9898\u3002",paraId:50,tocIndex:39},{value:"\u4F18\u52BF\u4E09\uFF1A\u7531\u4E8E\u6D4F\u89C8\u5668\u7684\u5B57\u4F53\u9ED8\u8BA4\u6700\u5C0F\u662F\u4E0D\u80FD\u5C0F\u4E8E12px\uFF0C\u5BFC\u81F4rem\u6216vw\u65E0\u6CD5\u8BBE\u7F6E\u5C0F\u4E8E12px\u7684\u5B57\u4F53\uFF0C\u7F29\u653E\u6CA1\u6709\u8FD9\u4E2A\u95EE\u9898\u3002",paraId:50,tocIndex:39},{value:"\u5B57\u4F53\u5927\u5C0F\u8BBE\u7F6E\u95EE\u9898\uFF08\u975Escale\u65B9\u6848\u9700\u8981\u8003\u8651\uFF09",paraId:51,tocIndex:40},{value:"\u5982\u679C\u4F7F\u7528rem\u6216vw\u5355\u4F4D\u65F6\uFF0C\u5728JS\u4E2D\u6DFB\u52A0\u6837\u5F0F\u65F6\uFF0C\u5355\u4F4D\u9700\u8981\u624B\u52A8\u8BBE\u7F6Erem\u6216vw\u3002",paraId:52,tocIndex:40},{value:"\u7B2C\u4E09\u65B9\u5E93\u7684\u5B57\u4F53\u7B49\u9ED8\u8BA4\u7684\u90FD\u662Fpx\u5355\u4F4D\uFF0C\u6BD4\u5982\uFF1Aelement\u3001echarts\uFF0C\u56E0\u6B64\u901A\u5E38\u9700\u8981\u5C42\u53E0\u7B2C\u4E09\u65B9\u5E93\u7684\u6837\u5F0F\u3002",paraId:53,tocIndex:40},{value:"\u5F53\u5927\u5C4F\u6BD4\u4F8B\u66F4\u5927\u65F6\uFF0C\u6709\u4E9B\u5B57\u4F53\u8FD8\u9700\u8981\u76F8\u5E94\u7684\u8C03\u6574\u5B57\u53F7\u3002",paraId:54,tocIndex:40},{value:"\u56FE\u7247\u6A21\u7CCA\u95EE\u9898",paraId:55,tocIndex:40},{value:"\u5207\u56FE\u65F6\u52071\u500D\u56FE\u30012\u500D\u56FE\uFF0C\u5927\u5C4F\u7528\u5927\u56FE\uFF0C\u5C0F\u5C4F\u7528\u5C0F\u56FE\u3002",paraId:56,tocIndex:40},{value:"\u5EFA\u8BAE\u90FD\u4F7F\u7528SVG\u77E2\u91CF\u56FE\uFF0C\u4FDD\u8BC1\u653E\u5927\u7F29\u5C0F\u4E0D\u4F1A\u5931\u771F\u3002",paraId:57,tocIndex:40},{value:"Echarts \u6E32\u67D3\u5F15\u64CE\u7684\u9009\u62E9",paraId:58,tocIndex:40},{value:"\u4F7F\u7528SVG\u6E32\u67D3\u5F15\u64CE\uFF0CSVG\u56FE\u6269\u5C55\u6027\u66F4\u597D",paraId:59,tocIndex:40},{value:"\u52A8\u753B\u5361\u987F\u4F18\u5316",paraId:60,tocIndex:40},{value:"\u521B\u5EFA\u65B0\u7684\u6E32\u67D3\u5C42\u3001\u542F\u7528GPU\u52A0\u901F\u3001\u5584\u7528CSS3\u5F62\u53D8\u52A8\u753B",paraId:61,tocIndex:40},{value:"\u5C11\u7528\u6E10\u53D8\u548C\u9AD8\u65AF\u6A21\u7CCA\u3001\u5F53\u4E0D\u9700\u8981\u52A8\u753B\u65F6\uFF0C\u53CA\u65F6\u5173\u95ED\u52A8\u753B",paraId:61,tocIndex:40},{value:"\u5355\u4F4D\u4F7F\u7528px",paraId:62,tocIndex:41},{value:"postcss-px-to-viewport",paraId:63,tocIndex:41},{value:"\u672C\u8D28\u4E3A \u79FB\u52A8\u7AEF / PC\u7AEF\u9002\u914D\u89E3\u51B3\u65B9\u6848",paraId:64,tocIndex:41},{value:"\u6B64\u65B9\u6848\u4E0D\u4F1A\u4EA7\u751F\u9ED1\u8FB9,\u4F46\u662F\u6709\u62C9\u4F38\u7684\u611F\u89C9",paraId:64,tocIndex:41},{value:`npm install postcss-px-to-viewport --save-dev
+
+`,paraId:65,tocIndex:41},{value:`// postcss.config.js
+module.exports = {
+  plugins: {
+    'postcss-px-to-viewport': {
+      unitToConvert: 'px', // \u9700\u8981\u8F6C\u6362\u7684\u5355\u4F4D\uFF0C\u9ED8\u8BA4\u4E3A"px"
+      viewportWidth: 1920, // \u8BBE\u8BA1\u7A3F\u7684\u89C6\u53E3\u5BBD\u5EA6
+      unitPrecision: 5, // \u5355\u4F4D\u8F6C\u6362\u540E\u4FDD\u7559\u7684\u7CBE\u5EA6
+      propList: ['*'], // \u80FD\u8F6C\u5316\u4E3Avw\u7684\u5C5E\u6027\u5217\u8868
+      viewportUnit: 'vw', // \u5E0C\u671B\u4F7F\u7528\u7684\u89C6\u53E3\u5355\u4F4D
+      fontViewportUnit: 'vw', // \u5B57\u4F53\u4F7F\u7528\u7684\u89C6\u53E3\u5355\u4F4D
+      selectorBlackList: [], // \u9700\u8981\u5FFD\u7565\u7684CSS\u9009\u62E9\u5668\uFF0C\u4E0D\u4F1A\u8F6C\u4E3A\u89C6\u53E3\u5355\u4F4D\uFF0C\u4F7F\u7528\u539F\u6709\u7684px\u7B49\u5355\u4F4D\u3002
+      minPixelValue: 1, // \u8BBE\u7F6E\u6700\u5C0F\u7684\u8F6C\u6362\u6570\u503C\uFF0C\u5982\u679C\u4E3A1\u7684\u8BDD\uFF0C\u53EA\u6709\u5927\u4E8E1\u7684\u503C\u4F1A\u88AB\u8F6C\u6362
+      mediaQuery: false, // \u5A92\u4F53\u67E5\u8BE2\u91CC\u7684\u5355\u4F4D\u662F\u5426\u9700\u8981\u8F6C\u6362\u5355\u4F4D
+      replace: true, //  \u662F\u5426\u76F4\u63A5\u66F4\u6362\u5C5E\u6027\u503C\uFF0C\u800C\u4E0D\u6DFB\u52A0\u5907\u7528\u5C5E\u6027
+      exclude: undefined, // \u5FFD\u7565\u67D0\u4E9B\u6587\u4EF6\u5939\u4E0B\u7684\u6587\u4EF6\u6216\u7279\u5B9A\u6587\u4EF6\uFF0C\u4F8B\u5982 'node_modules' \u4E0B\u7684\u6587\u4EF6
+      include: undefined, // \u5982\u679C\u8BBE\u7F6E\u4E86include\uFF0C\u90A3\u5C06\u53EA\u6709\u5339\u914D\u5230\u7684\u6587\u4EF6\u624D\u4F1A\u88AB\u8F6C\u6362
+      landscape: false, // \u662F\u5426\u6DFB\u52A0\u6839\u636E landscapeWidth \u751F\u6210\u7684\u5A92\u4F53\u67E5\u8BE2\u6761\u4EF6 @media (orientation: landscape)
+      landscapeUnit: 'vw', // \u6A2A\u5C4F\u65F6\u4F7F\u7528\u7684\u5355\u4F4D
+      landscapeWidth: 1920 // \u6A2A\u5C4F\u65F6\u4F7F\u7528\u7684\u89C6\u53E3\u5BBD\u5EA6
+    }
+  }
+}
+`,paraId:66,tocIndex:41},{value:"\u914D\u7F6E\u751F\u6548\u540E\uFF0C\u539F\u6709\u7684\u4EE3\u7801\u4E2Dpx\u5728\u7F16\u8BD1\u9636\u6BB5\u88AB\u81EA\u52A8\u5B9E\u65F6\u8F6C\u6362\u6210vw\u89C6\u53E3\u5355\u4F4D\uFF0CDOM\u5143\u7D20\u4E0E\u89C6\u53E3\u5927\u5C0F\u7B49\u6BD4\u4F8B\u7F29\u653E",paraId:67,tocIndex:41}]}}]);
