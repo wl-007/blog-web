@@ -1,14 +1,4 @@
----
-title: express
-order: 2
-group:
-  title: node
-
----
-
-# express
-
-## Express安装
+##  http://localhost:3000/Express安装
 
 - 方式一：安装express-generator 
 
