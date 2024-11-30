@@ -1,5 +1,5 @@
 import { defineConfig } from 'dumi';
-
+const BASE_URL = '/';
 export default defineConfig({
   themeConfig: {
     name: '',
@@ -14,8 +14,8 @@ export default defineConfig({
     },
   
   },
-  base: '/blog-web/',
-  publicPath: '/blog-web/',
+  base: BASE_URL,
+  publicPath: BASE_URL,
   resolve: {
     codeBlockMode: 'passive',
    
