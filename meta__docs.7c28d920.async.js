@@ -1,4 +1,229 @@
-"use strict";(self.webpackChunkblog_web=self.webpackChunkblog_web||[]).push([[904],{73102:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(51628),r={}},77016:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(38440),r={}},15246:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(82299),r={}},32702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(42365),r={}},84784:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(51985),r={}},16487:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(71893),r={}},82845:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(64709),r={}},20728:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(69908),r={}},25292:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(29534),r={}},2712:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(8595),r={}},6305:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(48497),r={}},68355:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(52656),r={}},18417:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(36077),r={}},45807:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(83736),r={}},44166:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(78089),r={}},95656:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(74007),r={}},23565:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(51628);const a=[]},52323:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(38440);const a=[{value:"\u8F93\u51FA\uFF1A",paraId:0},{value:"\u63A7\u5236\u53F0\u8F93\u51FA",paraId:1},{value:"\u9875\u9762\u8F93\u51FA",paraId:2},{value:"\u5728\u5F53\u524D\u9875\u9762\u8FDB\u884C\u5185\u5BB9\u663E\u793A",paraId:3},{value:"\u5F39\u7A97\u8F93\u51FA",paraId:4},{value:"\u5728\u5F53\u524D\u9875\u9762\u4F5C\u4E3A\u5F39\u7A97\u8F93\u51FA\u5185\u5BB9",paraId:5},{value:`console.log("\u8F93\u51FA\u7684\u5185\u5BB9")
+"use strict";(self.webpackChunkblog_web=self.webpackChunkblog_web||[]).push([[904],{73102:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(51628),r={}},99602:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(27999),r={}},77016:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(38440),r={}},15246:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(82299),r={}},32702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(42365),r={}},84784:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(51985),r={}},16487:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(71893),r={}},82845:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(64709),r={}},20728:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(69908),r={}},6736:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(72170),r={}},25292:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(29534),r={}},2712:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(8595),r={}},6305:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(48497),r={}},68355:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(52656),r={}},18417:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(36077),r={}},45807:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(83736),r={}},44166:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(78089),r={}},95656:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(25186),a=n(74007),r={}},23565:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(51628);const a=[]},19018:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(27999);const a=[{value:`public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("HelloWorld");
+	}
+}
+`,paraId:0,tocIndex:1},{value:"Java\u4E2D\u7684\u6CE8\u91CA\u5206\u4E3A\u4E09\u79CD\uFF1A",paraId:1,tocIndex:2},{value:"\u5355\u884C\u6CE8\u91CA\uFF1A",paraId:2,tocIndex:2},{value:`// \u8FD9\u662F\u5355\u884C\u6CE8\u91CA\u6587\u5B57
+`,paraId:3,tocIndex:2},{value:"\u591A\u884C\u6CE8\u91CA\uFF1A",paraId:4,tocIndex:2},{value:`/*
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+*/
+\u6CE8\u610F\uFF1A\u591A\u884C\u6CE8\u91CA\u4E0D\u80FD\u5D4C\u5957\u4F7F\u7528\u3002
+`,paraId:5,tocIndex:2},{value:"\u6587\u6863\u6CE8\u91CA\uFF1A",paraId:6,tocIndex:2},{value:`/**
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+*/
+`,paraId:7,tocIndex:2},{value:"\u4F5C\u7528\uFF1A\u544A\u8BC9\u7A0B\u5E8F\u5458\uFF0C\u6570\u636E\u5728\u7A0B\u5E8F\u4E2D\u7684\u4E66\u5199\u683C\u5F0F\u3002",paraId:8,tocIndex:3},{value:"\u5B57\u9762\u91CF\u7C7B\u578B",paraId:9,tocIndex:3},{value:"\u8BF4\u660E",paraId:9,tocIndex:3},{value:"\u7A0B\u5E8F\u4E2D\u7684\u5199\u6CD5",paraId:9,tocIndex:3},{value:"\u6574\u6570",paraId:9,tocIndex:3},{value:"\u4E0D\u5E26\u5C0F\u6570\u7684\u6570\u5B57",paraId:9,tocIndex:3},{value:"666\uFF0C-88",paraId:9,tocIndex:3},{value:"\u5C0F\u6570",paraId:9,tocIndex:3},{value:"\u5E26\u5C0F\u6570\u7684\u6570\u5B57",paraId:9,tocIndex:3},{value:"13.14\uFF0C-5.21",paraId:9,tocIndex:3},{value:"\u5B57\u7B26",paraId:9,tocIndex:3},{value:"\u5FC5\u987B\u4F7F\u7528\u5355\u5F15\u53F7\uFF0C\u6709\u4E14\u4EC5\u80FD\u4E00\u4E2A\u5B57\u7B26",paraId:9,tocIndex:3},{value:"\u2018A\u2019\uFF0C\u20180\u2019\uFF0C   \u2018\u6211\u2019",paraId:9,tocIndex:3},{value:"\u5B57\u7B26\u4E32",paraId:9,tocIndex:3},{value:"\u5FC5\u987B\u4F7F\u7528\u53CC\u5F15\u53F7\uFF0C\u5185\u5BB9\u53EF\u6709\u53EF\u65E0",paraId:9,tocIndex:3},{value:"\u201CHelloWorld\u201D\uFF0C\u201C\u9ED1\u9A6C\u7A0B\u5E8F\u5458\u201D",paraId:9,tocIndex:3},{value:"\u5E03\u5C14\u503C",paraId:9,tocIndex:3},{value:"\u5E03\u5C14\u503C\uFF0C\u8868\u793A\u771F\u5047\uFF0C\u53EA\u6709\u4E24\u4E2A\u503C\uFF1Atrue\uFF0Cfalse",paraId:9,tocIndex:3},{value:"true \u3001false",paraId:9,tocIndex:3},{value:"\u7A7A\u503C",paraId:9,tocIndex:3},{value:"\u4E00\u4E2A\u7279\u6B8A\u7684\u503C\uFF0C\u7A7A\u503C",paraId:9,tocIndex:3},{value:"\u503C\u662F\uFF1Anull",paraId:9,tocIndex:3},{value:`public class Demo {
+    public static void main(String[] args) {
+        System.out.println(10); // \u8F93\u51FA\u4E00\u4E2A\u6574\u6570
+        System.out.println(5.5); // \u8F93\u51FA\u4E00\u4E2A\u5C0F\u6570
+        System.out.println('a'); // \u8F93\u51FA\u4E00\u4E2A\u5B57\u7B26
+        System.out.println(true); // \u8F93\u51FAboolean\u503Ctrue
+        System.out.println("\u4E09\u575B\u6D77\u4F1A"); // \u8F93\u51FA\u5B57\u7B26\u4E32
+    }
+}
+`,paraId:10,tocIndex:3},{value:"\u6570\u636E\u7C7B\u578B",paraId:11,tocIndex:5},{value:"\u5173\u952E\u5B57",paraId:11,tocIndex:5},{value:"\u5185\u5B58\u5360\u7528",paraId:11,tocIndex:5},{value:"\u53D6\u503C\u8303\u56F4",paraId:11,tocIndex:5},{value:"\u6574\u6570",paraId:11,tocIndex:5},{value:"byte",paraId:11,tocIndex:5},{value:"1",paraId:11,tocIndex:5},{value:"\u8D1F\u76842\u76847\u6B21\u65B9 ~ 2\u76847\u6B21\u65B9-1(-128~127)",paraId:11,tocIndex:5},{value:"short",paraId:11,tocIndex:5},{value:"2",paraId:11,tocIndex:5},{value:"\u8D1F\u76842\u768415\u6B21\u65B9 ~ 2\u768415\u6B21\u65B9-1(-32768~32767)",paraId:11,tocIndex:5},{value:"int",paraId:11,tocIndex:5},{value:"4",paraId:11,tocIndex:5},{value:"\u8D1F\u76842\u768431\u6B21\u65B9 ~ 2\u768431\u6B21\u65B9-1",paraId:11,tocIndex:5},{value:"long",paraId:11,tocIndex:5},{value:"8",paraId:11,tocIndex:5},{value:"\u8D1F\u76842\u768463\u6B21\u65B9 ~ 2\u768463\u6B21\u65B9-1",paraId:11,tocIndex:5},{value:"\u6D6E\u70B9\u6570",paraId:11,tocIndex:5},{value:"float",paraId:11,tocIndex:5},{value:"4",paraId:11,tocIndex:5},{value:"1.401298e-45 ~ 3.402823e+38",paraId:11,tocIndex:5},{value:"double",paraId:11,tocIndex:5},{value:"8",paraId:11,tocIndex:5},{value:"4.9000000e-324 ~ 1.797693e+308",paraId:11,tocIndex:5},{value:"\u5B57\u7B26",paraId:11,tocIndex:5},{value:"char",paraId:11,tocIndex:5},{value:"2",paraId:11,tocIndex:5},{value:"0-65535",paraId:11,tocIndex:5},{value:"\u5E03\u5C14",paraId:11,tocIndex:5},{value:"boolean",paraId:11,tocIndex:5},{value:"1",paraId:11,tocIndex:5},{value:"true\uFF0Cfalse",paraId:11,tocIndex:5},{value:`int num = 10;
+double highD = 20.2;
+`,paraId:12,tocIndex:5},{value:"\u4E5F\u53EB\u81EA\u52A8\u7C7B\u578B\u63D0\u5347\u3002\u5C31\u662F\u628A\u4E00\u4E2A\u53D6\u503C\u8303\u56F4\u5C0F\u7684\u6570\u636E\u6216\u8005\u53D8\u91CF\uFF0C\u8D4B\u503C\u7ED9\u53E6\u4E00\u4E2A\u53D6\u503C\u8303\u56F4\u5927\u7684\u53D8\u91CF\u3002\u6B64\u65F6\u4E0D\u9700\u8981\u6211\u4EEC\u989D\u5916\u5199\u4EE3\u7801\u5355\u72EC\u5B9E\u73B0\uFF0C\u662F\u7A0B\u5E8F\u81EA\u52A8\u5E2E\u6211\u4EEC\u5B8C\u6210\u7684\u3002",paraId:13,tocIndex:7},{value:"\u4E24\u79CD\u63D0\u5347\u89C4\u5219\uFF1A",paraId:14,tocIndex:7},{value:"\u53D6\u503C\u8303\u56F4\u5C0F\u7684\uFF0C\u548C\u53D6\u503C\u8303\u56F4\u5927\u7684\u8FDB\u884C\u8FD0\u7B97\uFF0C\u5C0F\u7684\u4F1A\u5148\u63D0\u5347\u4E3A\u5927\u7684\uFF0C\u518D\u8FDB\u884C\u8FD0\u7B97\u3002",paraId:15,tocIndex:7},{value:"byte\u3001short\u3001char\u4E09\u79CD\u7C7B\u578B\u7684\u6570\u636E\u5728\u8FD0\u7B97\u7684\u65F6\u5019\uFF0C\u90FD\u4F1A\u76F4\u63A5\u5148\u63D0\u5347\u4E3Aint\uFF0C\u7136\u540E\u518D\u8FDB\u884C\u8FD0\u7B97\u3002",paraId:15,tocIndex:7},{value:`double d = 10;
+System.out.println(d);//10.0
+
+byte b = 100;
+int i = b;//\u53EF\u4EE5\u6210\u529F\u8D4B\u503C
+
+int i = 10;
+long n = 20L;
+long result = i + n;// long
+
+byte b1 = 10;
+byte b2 = 20;
+int result = b1 + b2;//int
+`,paraId:16,tocIndex:7},{value:"\u76EE\u6807\u6570\u636E\u7C7B\u578B \u53D8\u91CF\u540D = \uFF08\u76EE\u6807\u6570\u636E\u7C7B\u578B\uFF09\u88AB\u5F3A\u8F6C\u7684\u6570\u636E\uFF1B",paraId:17,tocIndex:8},{value:`double a = 12.3;
+int b = (int) a;
+System.out.println(b);//12
+`,paraId:18,tocIndex:8},{value:"\u6CE8\u610F\u70B9\uFF1A",paraId:19,tocIndex:8},{value:"\u200B	\u5F3A\u5236\u8F6C\u6362\u6709\u53EF\u80FD\u4F1A\u5BFC\u81F4\u6570\u636E\u53D1\u751F\u9519\u8BEF\u3002\uFF08\u6570\u636E\u7684\u7CBE\u5EA6\u4E22\u5931\uFF09",paraId:20,tocIndex:8},{value:"\u8FD0\u7B97\u7B26 : (+ - * / %)  \u8FD9\u4E9B\u64CD\u4F5C\u8DDF\u5C0F\u5B66\u6570\u5B66\u51E0\u4E4E\u662F\u4E00\u6A21\u4E00\u6837\u7684\u3002/\u53D6\u7ED3\u679C\u7684\u5546\u3002% \u53D6\u7ED3\u679C\u7684\u4F59\u6570;",paraId:21,tocIndex:9},{value:"\u81EA\u589E\u7B26 : ++,--;",paraId:22,tocIndex:9},{value:"\u8D4B\u503C\u7B26 : =, +=\u3001-=\u3001*=\u3001/=\u3001%=",paraId:23,tocIndex:9},{value:"\u5173\u7CFB\u7B26 : ==, !=, >, <, >=, <=",paraId:24,tocIndex:9},{value:"\u903B\u8F91\u7B26 : & , | , !(\u53D6\u53CD)",paraId:25,tocIndex:9},{value:"\u77ED\u8DEF\u903B\u8F91\u7B26 :  &&   ||",paraId:26,tocIndex:9},{value:"\u4E09\u5143\u7B26 : \u5173\u7CFB\u8868\u8FBE\u5F0F \uFF1F \u8868\u8FBE\u5F0F1 \uFF1A\u8868\u8FBE\u5F0F2 \uFF1B",paraId:27,tocIndex:9},{value:"if",paraId:28,tocIndex:10},{value:`if (\u5173\u7CFB\u8868\u8FBE\u5F0F1) {
+    \u8BED\u53E5\u4F531;	
+} else if (\u5173\u7CFB\u8868\u8FBE\u5F0F2) {
+    \u8BED\u53E5\u4F532;	
+} 
+else {
+    \u8BED\u53E5\u4F53n+1;
+}
+`,paraId:29,tocIndex:10},{value:"switch, \u6CE8\u610F\u52A0 break",paraId:30,tocIndex:10},{value:`switch (\u8868\u8FBE\u5F0F) {
+	case 1:
+		\u8BED\u53E5\u4F531;
+		break;
+	case 2:
+		\u8BED\u53E5\u4F532;
+		break;
+	...
+	default:
+		\u8BED\u53E5\u4F53n+1;
+		break;
+}
+`,paraId:31,tocIndex:10},{value:"for",paraId:32,tocIndex:10},{value:`for (\u521D\u59CB\u5316\u8BED\u53E5;\u6761\u4EF6\u5224\u65AD\u8BED\u53E5;\u6761\u4EF6\u63A7\u5236\u8BED\u53E5) {
+	\u5FAA\u73AF\u4F53\u8BED\u53E5;
+}
+for (int i = 1; i <= 5; i++) {
+    System.out.println("HelloWorld");
+}
+`,paraId:33,tocIndex:10},{value:"while",paraId:34,tocIndex:10},{value:`while(\u6761\u4EF6\u5224\u65AD\u8BED\u53E5){
+	\u5FAA\u73AF\u4F53;
+	\u6761\u4EF6\u63A7\u5236\u8BED\u53E5;
+}
+
+int height = 8844430;
+double paper = 0.1;
+int count = 0;
+while(paper < height){
+    //\u6298\u53E0\u7EB8\u5F20
+    paper = paper * 2;
+    count++;
+}
+`,paraId:35,tocIndex:10},{value:"\u6761\u4EF6\u63A7\u5236\u8BED\u53E5",paraId:36,tocIndex:10},{value:"break: \u8868\u793A\u7ED3\u675F\uFF0C\u8DF3\u51FA\u7684\u610F\u601D\u3002",paraId:37,tocIndex:10},{value:"continue : \u8DF3\u8FC7\u672C\u6B21\u5FAA\u73AF\uFF0C\u7EE7\u7EED\u6267\u884C\u4E0B\u6B21\u5FAA\u73AF\u3002",paraId:38,tocIndex:10},{value:`Random r = new Random();
+
+int number = r.nextInt(100);//0 ~ 99
+
+System.out.println(number);
+`,paraId:39,tocIndex:11},{value:`// \u521B\u5EFA\u5BF9\u8C61\uFF0C\u5176\u5B9E\u5C31\u662F\u7533\u660E\u4E00\u4E0B\uFF0C\u6211\u51C6\u5907\u5F00\u59CB\u7528Scanner\u8FD9\u4E2A\u7C7B\u4E86\u3002
+Scanner sc = new Scanner(System.in);
+// \u63A5\u6536\u6570\u636E
+//\u5F53\u7A0B\u5E8F\u8FD0\u884C\u4E4B\u540E\uFF0C\u6211\u4EEC\u5728\u952E\u76D8\u8F93\u5165\u7684\u6570\u636E\u5C31\u4F1A\u88AB\u53D8\u91CFi\u7ED9\u63A5\u6536\u4E86
+System.out.println("\u8BF7\u8F93\u5165\u4E00\u4E2A\u6570\u5B57");
+int i = sc.nextInt();
+System.out.println(i);
+`,paraId:40,tocIndex:12},{value:`// \u9759\u6001\u521D\u59CB\u5316
+int[] arr = new int[]{11,22,33};
+int[] arr = {11,22,33};
+System.out.println(arr);//[I@6d03e736 \u76F4\u63A5\u6253\u5370\u662F\u5730\u5740\u4FE1\u606F
+
+// \u6570\u7EC4\u904D\u5386
+for(int i = 0; i < arr.length; i++){
+    //\u5728\u5FAA\u73AF\u7684\u8FC7\u7A0B\u4E2D\uFF0Ci\u4F9D\u6B21\u8868\u793A\u6570\u7EC4\u4E2D\u7684\u6BCF\u4E00\u4E2A\u7D22\u5F15
+    sout(arr[i]);//\u5C31\u53EF\u4EE5\u628A\u6570\u7EC4\u91CC\u9762\u7684\u6BCF\u4E00\u4E2A\u5143\u7D20\u90FD\u83B7\u53D6\u51FA\u6765\uFF0C\u5E76\u6253\u5370\u5728\u63A7\u5236\u53F0\u4E0A\u4E86\u3002
+}
+
+// \u52A8\u6001\u521D\u59CB\u5316
+//1.\u5B9A\u4E49\u4E00\u4E2A\u6570\u7EC4\uFF0C\u5B583\u4E2A\u4EBA\u7684\u5E74\u9F84\uFF0C\u5E74\u9F84\u672A\u77E5
+int[] agesArr = new int[3];
+`,paraId:41,tocIndex:14},{value:"\u5F62\u53C2\uFF1A\u65B9\u6CD5\u5B9A\u4E49\u4E2D\u7684\u53C2\u6570 \u4F8B\u5982\uFF1Aint number",paraId:42,tocIndex:15},{value:"\u5B9E\u53C2\uFF1A\u65B9\u6CD5\u8C03\u7528\u4E2D\u7684\u53C2\u6570 \u4F8B\u5982\uFF1Amethod( 10);   10",paraId:43,tocIndex:15},{value:`public static boolean isEvenNumber( int number ) {           
+	return true ;
+}
+public static int getMax( int a, int b ) {
+	return  100 ;
+}
+`,paraId:44,tocIndex:16},{value:"\u65B9\u6CD5\u91CD\u8F7D\u6307\u540C\u4E00\u4E2A\u7C7B\u4E2D\u5B9A\u4E49\u7684\u591A\u4E2A\u65B9\u6CD5\u4E4B\u95F4\u7684\u5173\u7CFB\uFF0C\u6EE1\u8DB3\u4E0B\u5217\u6761\u4EF6\u7684\u591A\u4E2A\u65B9\u6CD5\u76F8\u4E92\u6784\u6210\u91CD\u8F7D",paraId:45,tocIndex:17},{value:"\u591A\u4E2A\u65B9\u6CD5\u5728\u540C\u4E00\u4E2A\u7C7B\u4E2D",paraId:46,tocIndex:17},{value:"\u591A\u4E2A\u65B9\u6CD5\u5177\u6709\u76F8\u540C\u7684\u65B9\u6CD5\u540D",paraId:46,tocIndex:17},{value:"\u591A\u4E2A\u65B9\u6CD5\u7684\u53C2\u6570\u4E0D\u76F8\u540C\uFF0C\u7C7B\u578B\u4E0D\u540C\u6216\u8005\u6570\u91CF\u4E0D\u540C",paraId:46,tocIndex:17},{value:`public static void fn(int a) {
+    //\u65B9\u6CD5\u4F53
+}
+public static int fn(double a) {
+    //\u65B9\u6CD5\u4F53
+}
+`,paraId:47,tocIndex:17},{value:"\u5BA2\u89C2\u5B58\u5728\u7684\u4E8B\u7269\u7686\u4E3A\u5BF9\u8C61 \uFF0C\u6240\u4EE5\u6211\u4EEC\u4E5F\u5E38\u5E38\u8BF4\u4E07\u7269\u7686\u5BF9\u8C61\u3002",paraId:48,tocIndex:19},{value:`public class \u7C7B\u540D {
+	// \u6210\u5458\u53D8\u91CF
+	\u53D8\u91CF1\u7684\u6570\u636E\u7C7B\u578B \u53D8\u91CF1\uFF1B
+	\u53D8\u91CF2\u7684\u6570\u636E\u7C7B\u578B \u53D8\u91CF2;
+	\u2026
+	// \u6210\u5458\u65B9\u6CD5
+	\u65B9\u6CD51;
+	\u65B9\u6CD52;	
+}
+public class Phone {
+    //\u6210\u5458\u53D8\u91CF
+    String brand;
+    int price;
+
+    //\u6210\u5458\u65B9\u6CD5
+    public void call() {
+        System.out.println("\u6253\u7535\u8BDD");
+    }
+
+    public void sendMessage() {
+        System.out.println("\u53D1\u77ED\u4FE1");
+    }
+}
+`,paraId:49,tocIndex:20},{value:`// \u7C7B\u540D \u5BF9\u8C61\u540D = new \u7C7B\u540D();
+
+ //\u521B\u5EFA\u5BF9\u8C61
+Phone p = new Phone();
+p.brand;
+p.price;
+`,paraId:50,tocIndex:21},{value:"\u5C06\u7C7B\u7684\u67D0\u4E9B\u4FE1\u606F\u9690\u85CF\u5728\u7C7B\u5185\u90E8\uFF0C\u4E0D\u5141\u8BB8\u5916\u90E8\u7A0B\u5E8F\u76F4\u63A5\u8BBF\u95EE\uFF0C\u800C\u662F\u901A\u8FC7\u8BE5\u7C7B\u63D0\u4F9B\u7684\u65B9\u6CD5\u6765\u5B9E\u73B0\u5BF9\u9690\u85CF\u4FE1\u606F\u7684\u64CD\u4F5C\u548C\u8BBF\u95EE",paraId:51,tocIndex:22},{value:"private: \u88ABprivate\u4FEE\u9970\u7684\u6210\u5458\uFF0C\u53EA\u80FD\u5728\u672C\u7C7B\u8FDB\u884C\u8BBF\u95EE",paraId:52,tocIndex:22},{value:`class Student {
+    //\u6210\u5458\u53D8\u91CF
+    String name;
+    ...
+}
+`,paraId:53,tocIndex:22},{value:"this\u4FEE\u9970\u7684\u53D8\u91CF\u7528\u4E8E\u6307\u4EE3\u6210\u5458\u53D8\u91CF\uFF0C\u5176\u4E3B\u8981\u4F5C\u7528\u662F\uFF08\u533A\u5206\u5C40\u90E8\u53D8\u91CF\u548C\u6210\u5458\u53D8\u91CF\u7684\u91CD\u540D\u95EE\u9898\uFF09",paraId:54,tocIndex:23},{value:` public void setName(String name) {
+        this.name = name;
+    }
+`,paraId:55,tocIndex:23},{value:"\u6784\u9020\u65B9\u6CD5\u662F\u4E00\u79CD\u7279\u6B8A\u7684\u65B9\u6CD5",paraId:56,tocIndex:24},{value:`public class \u7C7B\u540D{
+
+     \u4FEE\u9970\u7B26 \u7C7B\u540D( \u53C2\u6570 ) { // \u6784\u9020\u65B9\u6CD5
+
+      }
+
+}
+`,paraId:57,tocIndex:24},{value:"\u7C7B\u540D\u9700\u8981\u89C1\u540D\u77E5\u610F",paraId:58,tocIndex:25},{value:"\u6210\u5458\u53D8\u91CF\u4F7F\u7528private\u4FEE\u9970",paraId:58,tocIndex:25},{value:"\u63D0\u4F9B\u81F3\u5C11\u4E24\u4E2A\u6784\u9020\u65B9\u6CD5 (\u65E0\u53C2, \u5168\u53C2)",paraId:58,tocIndex:25},{value:"get\u548Cset\u65B9\u6CD5",paraId:58,tocIndex:25},{value:"String\u7C7B\u7684\u7279\u70B9:",paraId:59,tocIndex:26},{value:"\u5B57\u7B26\u4E32\u4E0D\u53EF\u53D8\uFF0C\u5B83\u4EEC\u7684\u503C\u5728\u521B\u5EFA\u540E\u4E0D\u80FD\u88AB\u66F4\u6539",paraId:60,tocIndex:26},{value:"\u867D\u7136 String \u7684\u503C\u662F\u4E0D\u53EF\u53D8\u7684\uFF0C\u4F46\u662F\u5B83\u4EEC\u53EF\u4EE5\u88AB\u5171\u4EAB(\u5B57\u9762\u91CF\u5B9A\u4E49\u76F8\u540C\u7684\u503C\u5171\u4EAB)",paraId:60,tocIndex:26},{value:"\u5B57\u7B26\u4E32\u6548\u679C\u4E0A\u76F8\u5F53\u4E8E\u5B57\u7B26\u6570\u7EC4( char[] )\uFF0C\u4F46\u662F\u5E95\u5C42\u539F\u7406\u662F\u5B57\u8282\u6570\u7EC4( byte[] )",paraId:60,tocIndex:26},{value:`String s4 = "abc";
+`,paraId:61,tocIndex:27},{value:"==\u53F7\u7684\u4F5C\u7528",paraId:62,tocIndex:28},{value:"\u6BD4\u8F83\u57FA\u672C\u6570\u636E\u7C7B\u578B\uFF1A\u6BD4\u8F83\u7684\u662F\u5177\u4F53\u7684\u503C",paraId:63,tocIndex:28},{value:"\u6BD4\u8F83\u5F15\u7528\u6570\u636E\u7C7B\u578B\uFF1A\u6BD4\u8F83\u7684\u662F\u5BF9\u8C61\u5730\u5740\u503C",paraId:63,tocIndex:28},{value:"\u5B57\u7B26\u4E32\u6BD4\u8F83\u7528equals",paraId:63,tocIndex:28},{value:`s1.equals(s2)
+`,paraId:64,tocIndex:28},{value:`char c = str.charAt(i);
+`,paraId:65,tocIndex:29},{value:`String end = phoneNumber.substring(7);
+String star = phoneNumber.substring(0, 3);
+`,paraId:66,tocIndex:30},{value:`String result = talk.replace("FW", "***");
+`,paraId:67,tocIndex:31},{value:"StringBuilder \u53EF\u4EE5\u770B\u6210\u662F\u4E00\u4E2A\u5BB9\u5668\uFF0C\u521B\u5EFA\u4E4B\u540E\u91CC\u9762\u7684\u5185\u5BB9\u662F\u53EF\u53D8\u7684\u3002",paraId:68,tocIndex:32},{value:`StringBuilder sb = new StringBuilder("abc");
+
+//\u6DFB\u52A0\u5143\u7D20
+sb.append(1);
+sb.append(2.3);
+sb.append(true);
+
+ //\u53CD\u8F6C
+sb.reverse();
+
+ //\u83B7\u53D6\u957F\u5EA6
+int len = sb.length();
+
+//\u628AStringBuilder\u53D8\u56DE\u5B57\u7B26\u4E32
+String str = sb.toString();
+
+`,paraId:69,tocIndex:32},{value:"\u62FC\u63A5\u5B57\u7B26\u4E32",paraId:70,tocIndex:32},{value:`public static String arrToString(int[] arr){
+        StringBuilder sb = new StringBuilder();
+        sb.append("[");
+
+        for (int i = 0; i < arr.length; i++) {
+            if(i == arr.length - 1){
+                sb.append(arr[i]);
+            }else{
+                sb.append(arr[i]).append(", ");
+            }
+        }
+        sb.append("]");
+
+        return sb.toString();
+    }
+`,paraId:71,tocIndex:32},{value:"\u96C6\u5408\u548C\u6570\u7EC4\u7684\u4F18\u52BF\u5BF9\u6BD4\uFF1A",paraId:72,tocIndex:33},{value:"\u957F\u5EA6\u53EF\u53D8",paraId:73,tocIndex:33},{value:"\u6DFB\u52A0\u6570\u636E\u7684\u65F6\u5019\u4E0D\u9700\u8981\u8003\u8651\u7D22\u5F15\uFF0C\u9ED8\u8BA4\u5C06\u6570\u636E\u6DFB\u52A0\u5230\u672B\u5C3E",paraId:73,tocIndex:33},{value:"\u65B9\u6CD5\u540D",paraId:74,tocIndex:34},{value:"\u8BF4\u660E",paraId:74,tocIndex:34},{value:"public boolean add(\u8981\u6DFB\u52A0\u7684\u5143\u7D20)",paraId:74,tocIndex:34},{value:"\u5C06\u6307\u5B9A\u7684\u5143\u7D20\u8FFD\u52A0\u5230\u6B64\u96C6\u5408\u7684\u672B\u5C3E",paraId:74,tocIndex:34},{value:"public boolean remove(\u8981\u5220\u9664\u7684\u5143\u7D20)",paraId:74,tocIndex:34},{value:"\u5220\u9664\u6307\u5B9A\u5143\u7D20,\u8FD4\u56DE\u503C\u8868\u793A\u662F\u5426\u5220\u9664\u6210\u529F",paraId:74,tocIndex:34},{value:"public E  remove(int   index)",paraId:74,tocIndex:34},{value:"\u5220\u9664\u6307\u5B9A\u7D22\u5F15\u5904\u7684\u5143\u7D20\uFF0C\u8FD4\u56DE\u88AB\u5220\u9664\u7684\u5143\u7D20",paraId:74,tocIndex:34},{value:"public E   set(int index,E   element)",paraId:74,tocIndex:34},{value:"\u4FEE\u6539\u6307\u5B9A\u7D22\u5F15\u5904\u7684\u5143\u7D20\uFF0C\u8FD4\u56DE\u88AB\u4FEE\u6539\u7684\u5143\u7D20",paraId:74,tocIndex:34},{value:"public E   get(int   index)",paraId:74,tocIndex:34},{value:"\u8FD4\u56DE\u6307\u5B9A\u7D22\u5F15\u5904\u7684\u5143\u7D20",paraId:74,tocIndex:34},{value:"public int   size()",paraId:74,tocIndex:34},{value:"\u8FD4\u56DE\u96C6\u5408\u4E2D\u7684\u5143\u7D20\u7684\u4E2A\u6570",paraId:74,tocIndex:34},{value:`//\u521B\u5EFA\u96C6\u5408
+ArrayList<String> array = new ArrayList<String>();
+
+ //\u6DFB\u52A0\u5143\u7D20
+array.add("hello");
+array.add("world");
+array.add("java");
+
+// \u5220\u9664
+array.remove("world");
+array.remove(1);
+    
+// \u4FEE\u6539
+array.set(1,"javaee");
+
+// \u67E5\u8BE2
+array.get(0);
+    
+// \u96C6\u5408\u5927\u5C0F,\u5143\u7D20\u4E2A\u6570
+array.size();
+`,paraId:75,tocIndex:34},{value:`for (int i = 0; i < list.size(); i++) {
+   sout
+}
+`,paraId:76,tocIndex:35}]},52323:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(38440);const a=[{value:"\u8F93\u51FA\uFF1A",paraId:0},{value:"\u63A7\u5236\u53F0\u8F93\u51FA",paraId:1},{value:"\u9875\u9762\u8F93\u51FA",paraId:2},{value:"\u5728\u5F53\u524D\u9875\u9762\u8FDB\u884C\u5185\u5BB9\u663E\u793A",paraId:3},{value:"\u5F39\u7A97\u8F93\u51FA",paraId:4},{value:"\u5728\u5F53\u524D\u9875\u9762\u4F5C\u4E3A\u5F39\u7A97\u8F93\u51FA\u5185\u5BB9",paraId:5},{value:`console.log("\u8F93\u51FA\u7684\u5185\u5BB9")
 document.write('\u8F93\u51FA\u5185\u5BB9')
 alert("\u8F93\u51FA\u5185\u5BB9")
 `,paraId:6},{value:"\u5F39\u7A97\u8F93\u51FA\u786E\u8BA4\u4E4B\u540E\u624D\u4F1A\u663E\u793A\u9875\u9762\u8F93\u51FA",paraId:7},{value:`prompt("\u63D0\u793A\u6027\u4FE1\u606F")
@@ -1350,7 +1575,7 @@ function getAllZoom() {
 }
 
 getAllZoom();
-`,paraId:0,tocIndex:0}]},87958:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(51985);const a=[{value:"http://localhost:3000/Express\u5B89\u88C5",paraId:0},{value:"\u65B9\u5F0F\u4E00\uFF1A\u5B89\u88C5express-generator",paraId:1,tocIndex:0},{value:"\u5B89\u88C5\u811A\u624B\u67B6 npm install -g express-generator",paraId:2,tocIndex:0},{value:"\u521B\u5EFA\u9879\u76EE express express-demo",paraId:3,tocIndex:0},{value:"\u5B89\u88C5\u4F9D\u8D56 npm install",paraId:4,tocIndex:0},{value:"\u542F\u52A8\u9879\u76EE node bin/www",paraId:5,tocIndex:0},{value:"\u65B9\u5F0F\u4E8C\uFF1A\u4ECE\u96F6\u642D\u5EFA\u81EA\u5DF1\u7684express\u5E94\u7528\u7ED3\u6784\uFF1B Express\u5B89\u88C5",paraId:6,tocIndex:0},{value:"npm init -y",paraId:7,tocIndex:0},{value:`const express = require('express')
+`,paraId:0,tocIndex:0}]},87958:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(51985);const a=[{value:"\u65B9\u5F0F\u4E00\uFF1A\u5B89\u88C5express-generator",paraId:0,tocIndex:1},{value:"\u5B89\u88C5\u811A\u624B\u67B6 npm install -g express-generator",paraId:1,tocIndex:1},{value:"\u521B\u5EFA\u9879\u76EE express express-demo",paraId:2,tocIndex:1},{value:"\u5B89\u88C5\u4F9D\u8D56 npm install",paraId:3,tocIndex:1},{value:"\u542F\u52A8\u9879\u76EE node bin/www",paraId:4,tocIndex:1},{value:"\u65B9\u5F0F\u4E8C\uFF1A\u4ECE\u96F6\u642D\u5EFA\u81EA\u5DF1\u7684express\u5E94\u7528\u7ED3\u6784\uFF1B Express\u5B89\u88C5",paraId:5,tocIndex:1},{value:"npm init -y",paraId:6,tocIndex:1},{value:`const express = require('express')
 
 // 1.\u521B\u5EFAexpress\u7684\u670D\u52A1\u5668
 const app = express()
@@ -1369,7 +1594,7 @@ app.get('/home', (req, res) => {
 app.listen(9000, () => {
   console.log('express\u670D\u52A1\u5668\u542F\u52A8\u6210\u529F~')
 })
-`,paraId:8,tocIndex:1},{value:`// \u666E\u901A\u4E2D\u95F4\u4EF6 app.use
+`,paraId:7,tocIndex:2},{value:`// \u666E\u901A\u4E2D\u95F4\u4EF6 app.use
 app.use((req, res, next) => {
   console.log('normal middleware')
 })
@@ -1385,9 +1610,9 @@ app.get('/home', (req, res, next) => {
   console.log('match /home get method middleware')
   res.end('home data')
 })
-`,paraId:9,tocIndex:2},{value:`app.use(express.json()) // \u89E3\u6790\u5BA2\u6237\u7AEF\u4F20\u9012\u8FC7\u6765\u7684json
+`,paraId:8,tocIndex:3},{value:`app.use(express.json()) // \u89E3\u6790\u5BA2\u6237\u7AEF\u4F20\u9012\u8FC7\u6765\u7684json
 app.use(express.urlencoded({ extended: true })) // \u89E3\u6790\u5BA2\u6237\u7AEF\u4F20\u9012\u8FC7\u6765\u7684urlencoded
-`,paraId:10,tocIndex:4},{value:`const multer = require('multer')
+`,paraId:9,tocIndex:5},{value:`const multer = require('multer')
 
 // \u5E94\u7528\u6587\u4EF6\u4E0A\u4F20\u7B2C\u4E09\u65B9\u7684\u4E2D\u95F4\u4EF6
 const upload = multer({
@@ -1414,7 +1639,7 @@ app.post('/photos', upload.array('photos'), (req, res, next) => {
   console.log(req.files)
   res.end('\u4E0A\u4F20\u591A\u5F20\u7167\u7247\u6210\u529F~')
 })
-`,paraId:11,tocIndex:5},{value:`const express = require('express')
+`,paraId:10,tocIndex:6},{value:`const express = require('express')
 
 // \u521B\u5EFAapp\u5BF9\u8C61
 const app = express()
@@ -1428,7 +1653,7 @@ userRouter.get('/', (req, res, next) => {
 
 // \u8BA9\u8DEF\u7531\u751F\u6548
 app.use('/users', userRouter)
-`,paraId:12,tocIndex:6},{value:`const express = require('express')
+`,paraId:11,tocIndex:7},{value:`const express = require('express')
 
 // \u521B\u5EFAapp\u5BF9\u8C61
 const app = express()
@@ -1436,7 +1661,7 @@ const app = express()
 // \u5185\u7F6E\u7684\u4E2D\u95F4\u4EF6: \u76F4\u63A5\u5C06\u4E00\u4E2A\u6587\u4EF6\u5939\u4F5C\u4E3A\u9759\u6001\u8D44\u6E90
 app.use(express.static('./uploads'))
 app.use(express.static('./build'))
-`,paraId:13,tocIndex:7}]},80036:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(71893);const a=[{value:`const Koa = require('koa')
+`,paraId:12,tocIndex:8}]},80036:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(71893);const a=[{value:`const Koa = require('koa')
 
 // \u521B\u5EFAapp\u5BF9\u8C61
 const app = new Koa()
@@ -2577,7 +2802,507 @@ try {
 } catch (error) {
   console.error(error.message);
 }
-`,paraId:81,tocIndex:49}]},9219:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(29534);const a=[{value:`pnpm create vite music-web --template react-ts
+`,paraId:81,tocIndex:49}]},56258:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(72170);const a=[{value:"\u5141\u8BB8\u4F60\u5411\u7EC4\u4EF6\u6DFB\u52A0\u4E00\u4E2A ",paraId:0,tocIndex:2},{value:"\u72B6\u6001\u53D8\u91CF",paraId:0,tocIndex:2},{value:"\u3002",paraId:0,tocIndex:2},{value:`const [state, setState] = useState(initialState)
+`,paraId:1,tocIndex:2},{value:`export function UseStateDemo() {
+  const [count, setCount] = useState(() => 0);
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount((c) => c + 1)}>Click me</button>
+    </div>
+  );
+}
+`,paraId:2,tocIndex:2},{value:"\u5B83\u5141\u8BB8\u4F60\u5411\u7EC4\u4EF6\u91CC\u9762\u6DFB\u52A0\u4E00\u4E2A ",paraId:3,tocIndex:3},{value:"reducer",paraId:3,tocIndex:3},{value:"\u3002",paraId:3,tocIndex:3},{value:`const [state, dispatch] = useReducer(reducer, initialArg, init?)
+`,paraId:4,tocIndex:3},{value:`enum ActionType {
+  INCREMENT = "increment",
+  DECREMENT = "decrement",
+}
+
+type Action = {
+  type: ActionType;
+};
+
+type State = {
+  count: number;
+};
+
+const reducer = (state: State, action: Action) => {
+  switch (action.type) {
+    case ActionType.INCREMENT:
+      return { ...state, count: state.count + 1 };
+    case ActionType.DECREMENT:
+      return { ...state, count: state.count - 1 };
+    default:
+      return state;
+  }
+};
+    
+export const UseReducerDemo = () => {
+  // \u56E0\u4E3A useState \u4E0D\u80FD\u5F88\u597D\u5730\u7EC4\u7EC7\u72B6\u6001
+  const [state, dispatch] = useReducer(reducer, { count: 0 });
+  return (
+    <div onClick={() => dispatch({ type: ActionType.INCREMENT })}>
+      Hello, Functional Component Basic!{state.count}
+    </div>
+  );
+};
+`,paraId:5,tocIndex:3},{value:"\u5B83\u5141\u8BB8\u4F60 ",paraId:6,tocIndex:4},{value:"\u5C06\u7EC4\u4EF6\u4E0E\u5916\u90E8\u7CFB\u7EDF\u540C\u6B65",paraId:6,tocIndex:4},{value:"\u3002(\u6A21\u62DF\u751F\u547D\u5468\u671F)",paraId:6,tocIndex:4},{value:`useEffect(() => {
+    document.title = \`You clicked \${count} times\`;
+
+    return () => {
+      console.log("clean up");
+    };
+  }, [count]);
+`,paraId:7,tocIndex:4},{value:"\u7C7B\u4F3CuseEffect,\u4F46\u662F\u5728\u6D4F\u89C8\u5668\u91CD\u65B0\u7ED8\u5236\u5C4F\u5E55\u4E4B\u524D\u89E6\u53D1",paraId:8,tocIndex:5},{value:`useLayoutEffect(() => {
+    console.log("useLayoutEffect");
+  }, []);
+`,paraId:9,tocIndex:5},{value:"\u53EF\u4EE5\u8BA9\u4F60\u8BFB\u53D6\u548C\u8BA2\u9605\u7EC4\u4EF6\u4E2D\u7684 ",paraId:10,tocIndex:6},{value:"context",paraId:10,tocIndex:6},{value:"  (\u4F9D\u8D56\u6CE8\u5165)",paraId:10,tocIndex:6},{value:`// \u4E00\u5B9A\u8981\u7ED3\u5408 Context
+const UserContext = React.createContext({ name: "default",age: 0 });
+
+// \u63D0\u4F9B\u8005
+export const UseContextDemo = () => {
+  const [info, setInfo] =useState({ name: "jack",age:18 });
+  return (
+    <UserContext.Provider value={info}>
+      <Child />
+    </UserContext.Provider>
+  );
+};
+
+// \u6D88\u8D39\u8005
+const Child = () => {
+  const user = useContext(UserContext);
+  return <div>{user.name}</div>;
+};
+`,paraId:11,tocIndex:6},{value:"\u5B83\u80FD\u5E2E\u52A9\u5F15\u7528\u4E00\u4E2A\u4E0D\u9700\u8981\u6E32\u67D3\u7684\u503C.  ref\u7ED1\u5B9A,\u6216\u8005\u4E0D\u5F15\u8D77\u9875\u9762\u66F4\u65B0\u7684\u503C(\u6302\u8F7D\u5230 .current\u4E0A\u9762)",paraId:12,tocIndex:7},{value:`const refsH= useRef(null);
+
+<div>
+    <h2 ref={refsH}>Ref 1 Demo</h2>
+</div>
+`,paraId:13,tocIndex:7},{value:"\u7F13\u5B58\u8BA1\u7B97\u503C,\u8BA1\u7B97\u5C5E\u6027",paraId:14,tocIndex:8},{value:`const doubleCount = useMemo(() => {
+    console.log("\u{1F680} ~ UseMemoAndCallbackDemo ~ count:", count);
+    return count * 2;
+  }, [count]);
+`,paraId:15,tocIndex:8},{value:"\u7F13\u5B58\u51FD\u6570",paraId:16,tocIndex:9},{value:`const handleClick = useCallback(() => {
+    console.log("\u{1F680} ~ handleClick ~ count:", count);
+}, [count]);
+`,paraId:17,tocIndex:9},{value:"\u5B83\u80FD\u8BA9\u4F60\u81EA\u5B9A\u4E49\u7531 ",paraId:18,tocIndex:10},{value:"ref",paraId:18,tocIndex:10},{value:" \u66B4\u9732\u51FA\u6765\u7684\u53E5\u67C4\u3002(\u50CF\u7236\u7EC4\u4EF6\u66B4\u9732\u65B9\u6CD5)",paraId:18,tocIndex:10},{value:`useImperativeHandle(ref, () => ({
+    focusOrSelect: () => {
+        inputRef.current;
+    },
+}));
+
+// \u7236\u7EC4\u4EF6\u4F7F\u7528\u65B9\u5F0F
+<FancyInput ref={inputRef} />
+inputRef.current.focusOrSelect()
+`,paraId:19,tocIndex:10},{value:"\u53EF\u4EE5\u751F\u6210\u4F20\u9012\u7ED9\u65E0\u969C\u788D\u5C5E\u6027\u7684\u552F\u4E00 ID\u3002(\u670D\u52A1\u7AEF\u5BA2\u6237\u7AEF\u7EDF\u4E00id)",paraId:20,tocIndex:11},{value:`const id = useId();
+
+<div>
+    <label htmlFor={id}>Name</label>
+    <input id={id} type="text" />
+</div>
+`,paraId:21,tocIndex:11},{value:"\u5728\u4E0D\u963B\u585E UI \u7684\u60C5\u51B5\u4E0B\u66F4\u65B0\u72B6\u6001\u7684 React Hook\u3002",paraId:22,tocIndex:12},{value:`const handleClick = () => {
+    startTransition(() => {
+  	  // \u6B64\u8FC7\u7A0B\u4E0D\u963B\u585Eui
+      setCount((c) => c + 1);
+    });
+  };
+`,paraId:23,tocIndex:12},{value:"\u53EF\u4EE5\u8BA9\u4F60\u5EF6\u8FDF\u66F4\u65B0 UI \u7684\u67D0\u4E9B\u90E8\u5206\u3002\u5B83\u8FD8\u4F1A\u5B89\u6392\u4E00\u4E2A\u540E\u53F0\u91CD\u65B0\u6E32\u67D3\u3002\u8FD9\u4E2A\u540E\u53F0\u91CD\u65B0\u6E32\u67D3\u662F\u53EF\u4EE5\u88AB\u4E2D\u65AD\u7684\uFF0C\u5982\u679C ",paraId:24,tocIndex:13},{value:"value",paraId:24,tocIndex:13},{value:" \u6709\u65B0\u7684\u66F4\u65B0\uFF0CReact \u4F1A\u4ECE\u5934\u5F00\u59CB\u91CD\u65B0\u542F\u52A8\u540E\u53F0\u6E32\u67D3",paraId:24,tocIndex:13},{value:`const [text, setText] = useState("");
+const deferredText = useDeferredValue(text);
+
+ <div>
+    <input type="text" value={text} onChange={handleChange} />
+    <p>{deferredText}</p>
+    <p>{text}</p>
+</div>
+`,paraId:25,tocIndex:13},{value:"\u662F\u4E00\u4E2A\u8BA9\u4F60\u8BA2\u9605\u5916\u90E8 store \u7684 React Hook\u3002",paraId:26,tocIndex:14},{value:`function useWindowWidth() {
+  return useSyncExternalStore(
+    (cb) => {
+
+      window.addEventListener("resize", cb);
+      return () => window.removeEventListener("resize", cb);
+    },
+    () => window.innerWidth,
+    () => window.innerWidth
+  );
+}
+
+const width = useWindowWidth();
+<div>
+      Window width: {width}
+</div>
+`,paraId:27,tocIndex:14},{value:`interface Refs {
+  c1?: HTMLHeadingElement | null;
+  c2?: HTMLHeadingElement | null;
+  c3?: HTMLHeadingElement | null;
+}
+
+const refs = useRef<Refs>({});
+
+return (
+    <div>
+      <h2 ref={(node) => (refs.current.c1 = node)}>Ref 1 Demo</h2>
+      <h2 ref={(node) => (refs.current.c2 = node)}>Ref 2 Demo</h2>
+      <h2 ref={(node) => (refs.current.c3 = node)}>Ref 3 Demo</h2>
+    </div>
+  );
+`,paraId:28,tocIndex:16},{value:"\u5141\u8BB8\u7EC4\u4EF6\u4F7F\u7528 ",paraId:29,tocIndex:17},{value:"ref",paraId:29,tocIndex:17},{value:" \u5C06 DOM \u8282\u70B9\u66B4\u9732\u7ED9\u7236\u7EC4\u4EF6. \u8FD9\u6837\u7236\u7EC4\u4EF6\u4F20\u9012\u7684ref\u624D\u6B63\u786E",paraId:29,tocIndex:17},{value:`const Input = forwardRef<HTMLInputElement, InputProps>((props, ref) => {
+  const id = useId();
+  return (
+    <div style={{ display: "flex" }}>
+      <label htmlFor={id}>children input</label>
+      <input id={id} ref={ref} />
+    </div>
+  );
+});
+`,paraId:30,tocIndex:17},{value:"\u5141\u8BB8\u5728\u5B50\u7EC4\u4EF6\u5B8C\u6210\u52A0\u8F7D\u524D\u5C55\u793A\u540E\u5907\u65B9\u6848\u3002",paraId:31,tocIndex:18},{value:"\u57FA\u7840\u7528\u6CD5:",paraId:32,tocIndex:18},{value:`const Header = lazy(() =>
+  import("./Header").then((module) => ({ default: module.Header }))
+);
+
+<Suspense fallback={<div>Loading...</div>}>
+    <Header />
+</Suspense>
+`,paraId:33,tocIndex:18},{value:"\u7EC4\u4EF6\u61D2\u52A0\u8F7D",paraId:34,tocIndex:19},{value:`import { lazy } from 'react';
+
+const MarkdownPreview = lazy(() => import('./MarkdownPreview.js'));
+`,paraId:35,tocIndex:19},{value:"\u7F13\u5B58\u7EC4\u4EF6",paraId:36,tocIndex:20},{value:`const hasHeaderPropsEqual = (
+  prevProps: HeaderProps,
+  nextProps: HeaderProps
+) => {
+  // const isEqual = prevProps === nextProps;
+  // shallowEqual
+  return true;
+};
+// hasHeaderPropsEqual \u53EF\u4E0D\u7A7F,\u9ED8\u8BA4\u6BD4\u8F83\u6D45\u5C42
+const Header = memo(() => {
+  useEffect(() => {
+    console.log("Header rendered");
+  });
+  return <div>header</div>;
+}, hasHeaderPropsEqual);
+`,paraId:37,tocIndex:20},{value:`const getInitialCount = () => {
+  const count = localStorage.getItem("count");
+  return count ? Number(count) : 0;
+};
+export const UseStateDemo = () => {
+  const [count, setCount] = useState(getInitialCount());
+
+  const handleClick = useCallback(() => {
+    setCount( c => c + 1);
+  }, []);
+  return (
+    <div>
+      <p>{count}</p>
+      <button onClick={handleClick}>btn</button>
+    </div>
+  );
+};
+`,paraId:38,tocIndex:22},{value:`enum ActionType {
+  UPDATE_NAME = 'UPDATE_NAME',
+  UPDATE_AGE = 'UPDATE_AGE',
+}
+type Action =
+  | { type: ActionType.UPDATE_NAME; payload: string }
+  | { type: ActionType.UPDATE_AGE; payload: number };
+
+const reducer = (state: Person, action: Action) => {
+  // switch case
+  switch (action.type) {
+    // \u66F4\u65B0\u540D\u5B57
+    case ActionType.UPDATE_NAME: {
+      return {
+        ...state,
+        name: action.payload,
+      };
+    }
+    case ActionType.UPDATE_AGE: {
+      return {
+        ...state,
+        age: action.payload,
+      };
+    }
+    default:
+      return state;
+  }
+};
+
+export const UserReducerDemo = () => {
+  const [state, dispatch] = useReducer(reducer, {
+    name: 'John',
+    age: 20,
+  });
+  return (
+    <div>
+      <button
+        onClick={() =>
+          dispatch({
+            type: ActionType.UPDATE_NAME,
+            payload: 'wl',
+          })
+        }
+      >
+        \u4FEE\u6539\u7528\u6237\u540D
+      </button>
+      <button
+        onClick={() => {
+          dispatch({
+            type: ActionType.UPDATE_AGE,
+            payload: state.age! + 1,
+          });
+        }}
+      >
+        \u4FEE\u6539\u7528\u6237\u5E74\u9F84
+      </button>
+    </div>
+  );
+};
+`,paraId:39,tocIndex:23},{value:`import React, { PropsWithChildren, useContext } from "react";
+
+interface ThemeContextValue {
+  theme: string;
+  setTheme: (theme: string) => void;
+}
+
+const ThemeContext = React.createContext<ThemeContextValue | null>(null);
+
+// \u5EFA\u8BAE\u6240\u6709\u7684 Provider \u90FD\u5355\u72EC\u5B9A\u4E49
+// \u5F62\u6210\u5B50\u7EC4\u4EF6\u72B6\u6001\u9694\u79BB
+const ThemeProvider: React.FC<PropsWithChildren<ThemeContextValue>> = ({
+  theme,
+  setTheme,
+  children,
+}) => {
+  return (
+    <ThemeContext.Provider value={{ theme, setTheme }}>
+      {children}
+    </ThemeContext.Provider>
+  );
+};
+
+// \u6D88\u8D39\u65B9\u5F0F
+const ThemeButton = () => {
+  const theme = useContext(ThemeContext);
+  return (
+    <button
+      style={{
+        backgroundColor: theme?.theme === "dark" ? "black" : "white",
+        color: theme?.theme === "dark" ? "white" : "black",
+      }}
+      onClick={() => {
+        theme?.setTheme(theme.theme === "dark" ? "light" : "dark");
+        locale?.setLocale(locale.locale === "en" ? "zh" : "en");
+      }}
+    >
+      \u70B9\u51FB\u6211
+    </button>
+  );
+};
+
+export const UseContextDemo = () => {
+  const [theme, setTheme] = React.useState("dark");
+  const [locale, setLocale] = React.useState("en");
+  return (
+    <div>
+      <ThemeProvider theme={theme} setTheme={setTheme}>
+        <ThemeButton />
+      </ThemeProvider>
+    </div>
+  );
+};
+`,paraId:40,tocIndex:24},{value:`type ActionType = "UPDATE_NAME" | "UPDATE_AGE";
+// \u5B9A\u4E49\u52A8\u4F5C
+const UPDATE_NAME = "UPDATE_NAME";
+const UPDATE_AGE = "UPDATE_AGE";
+
+// \u521B\u5EFA reducer
+const personReducer = (
+  state: Person ={},
+  action: { type: ActionType; payload: any }
+) => {
+  switch (action.type) {
+    // \u66F4\u65B0\u540D\u5B57
+    case UPDATE_NAME: {
+      return {
+        ...state,
+        name: action.payload,
+      };
+    }
+    case UPDATE_AGE: {
+      return {
+        ...state,
+        age: action.payload,
+      };
+    }
+    default:
+      return state;
+    // \u66F4\u65B0\u5E74\u9F84
+  }
+};
+
+const PriceReducer = (
+  state: number =100,
+  action: { type: string; payload: any }
+) => {
+  switch (action.type) {
+    case "UPDATE_PRICE":
+      return action.payload;
+    default:
+      return state;
+  }
+};
+
+// \u5408\u5E76
+const reducer = combineReducers({
+  person: personReducer,
+  price: PriceReducer,
+});
+const store = createStore(reducer, {
+  person: {
+    name: "\u5F20\u4E09",
+    age: 18,
+  },
+  price:200
+});
+
+// \u4F7F\u7528
+const Child = () => {
+  const person = useSelector((state) => {
+    return state.person
+  });
+  const dispatch = useDispatch();
+  return (
+    <div
+      onClick={() =>
+        dispatch({
+          type: UPDATE_NAME,
+          payload: "\u738B\u4E94" + Math.random(),
+        })
+      }
+    >
+      {person.name}
+    </div>
+  );
+};
+`,paraId:41,tocIndex:25},{value:"\u5B9A\u4E49",paraId:42,tocIndex:26},{value:`// ../lib/redux.js
+// \u9996\u5148\u6211\u4EEC\u5173\u6CE8\u5165\u53E3\u51FD\u6570
+// reducer \u662F\u7528\u4E8E\u751F\u6210\u65B0\u72B6\u6001\u7684
+// initialState \u662F\u521D\u59CB\u72B6\u6001
+export function createStore(reducer, initialState) {
+  // \u521D\u59CB\u72B6\u6001
+  // \u6240\u6709\u72B6\u6001\u90FD\u6302\u8F7D\u5230\u8FD9\u4E2A\u53D8\u91CF\u4E0A\uFF0C\u8FD9\u4E5F\u5C31\u662F\u6211\u4EEC\u8BF4\u7684\u72B6\u6001\u6811
+  // let state = initialState;
+  let state = reducer('',{type:''});
+
+  // \u6CE8\u518C\u4E8B\u4EF6
+  const listeners = [];
+
+  // \u65B0\u72B6\u6001\u7684\u751F\u6210\u4E00\u5B9A\u8981\u501F\u52A9\u52A8\u4F5C
+  function dispatch(action) {
+    // \u4E3A\u4EC0\u4E48\u8BF4 reducer \u662F\u4E00\u4E2A\u7EAF\u51FD\u6570
+    state = reducer(state, action);
+    // \u901A\u77E5\u90A3\u4E9B\u8BA2\u9605\u4E86\u72B6\u6001\u66F4\u65B0\u7684\u4E8B\u4EF6
+    listeners.forEach((listener) => listener());
+  }
+
+  // \u83B7\u53D6\u72B6\u6001
+  function getState() {
+    return state;
+    // return (localStorage.getItem(key) ? JSON.parse(localStorage.getItem(key)!) : null) || initialState
+  }
+
+  // \u8BA2\u9605\u72B6\u6001\u66F4\u65B0
+  function subscribe(listener) {
+    listeners.push(listener);
+    // \u4E8B\u4EF6\u53EA\u8981\u6709\u8BA2\u9605\u5C31\u4E00\u5B9A\u6709\u53D6\u6D88\u8BA2\u9605
+    return () => {
+      const index = listeners.indexOf(listener);
+      listeners.splice(index, 1);
+    };
+  }
+
+  return {
+    dispatch,
+    getState,
+    subscribe,
+  };
+}
+
+`,paraId:43,tocIndex:26},{value:"\u4F7F\u7528",paraId:44,tocIndex:26},{value:`import { createStore } from "../lib/redux.js";
+const reducer = (action ) => {
+  // switch case
+  switch (action.type) {
+    // \u66F4\u65B0\u540D\u5B57
+    case "UPDATE_NAME": {
+      localStorage.setItem("name", action.payload);
+      return{
+        age:localStorage.getItem("age"),
+        name:localStorage.getItem("name")
+      }
+    }
+    case "UPDATE_AGE": {
+      localStorage.setItem("age", action.payload);
+      return{
+        age:localStorage.getItem("age"),
+        name:localStorage.getItem("name")
+      }
+    }
+    default:
+      return {
+        age:localStorage.getItem("age"),
+        name:localStorage.getItem("name")
+      };
+  }
+};
+const store = createStore(reducer,{name:"",age:""});
+const { dispatch, getState, subscribe } = store;
+export const CustomReduxDemo = () => {
+  const state = useSyncExternalStore(subscribe, getState, getState);
+  
+  return (
+    <div>
+      custom redux demo{state.name}----{state.age}
+      <button
+        onClick={() => dispatch({ type: "UPDATE_NAME", payload: "Heyi" })}
+      >
+        \u53D8\u66F4\u59D3\u540D
+      </button>
+      <button onClick={() => dispatch({ type: "UPDATE_AGE", payload: 28 })}>
+        \u53D8\u66F4\u5E74\u9F84
+      </button>
+    </div>
+  );
+};
+`,paraId:45,tocIndex:26},{value:"\u4E00\u4E2A\u5C0F\u578B\u3001\u5FEB\u901F\u3001\u53EF\u6269\u5C55\u7684\u57FA\u672C\u72B6\u6001\u7BA1\u7406\u89E3\u51B3\u65B9\u6848\uFF0C\u8F7B\u91CF\u7B80\u5355\u3001\u9002\u5408\u4E2D\u5C0F\u578B",paraId:46,tocIndex:28},{value:"Jotai \u91C7\u7528 Atom \u98CE\u683C\u7684\u65B9\u5F0F\u8FDB\u884C\u5168\u5C40\u7684 React \u72B6\u6001\u7BA1\u7406\u3002",paraId:47,tocIndex:29},{value:`
+const router = createBrowserRouter([
+    {
+        path: "/",
+        element: <Root />,
+        loader: rootLoader,
+        children: [
+            {
+                path: "team",
+                element: <Team />,
+                loader: teamLoader,
+            },
+        ],
+    },
+    {
+        path: "/detail/:id",
+        element: <Detail />,
+    },
+]);
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+    <Suspense fallback={<p>\u9875\u9762\u52A0\u8F7D\u4E2D...</p>}>
+	  <RouterProvider router={router} />
+    </Suspense>
+);
+
+export const ReactRouterDemo = () => {
+  return <RouterProvider router={router} />;
+};
+`,paraId:48,tocIndex:30},{value:"\u4E00\u4E2A\u9002\u7528\u4E8E JS/TS, React, Solid, Vue \u4EE5\u53CASvelte \u7684\u524D\u7AEF\u8DEF\u7531\u5E93\uFF0C\u5177\u6709\u7C7B\u578B\u5B89\u5168\u3001\u5185\u7F6E\u7F13\u5B58\u3001URL\u72B6\u6001\u7BA1\u7406,\u7EA6\u5B9A\u5F0F\u8DEF\u7531\u7B49\u7279\u8272\u3002",paraId:49,tocIndex:32},{value:"Wouter \u662F\u4E00\u4E2A\u8F7B\u91CF\u7EA7\u7684 React \u548C Preact \u5E94\u7528\u8DEF\u7531\u5E93\uFF0C\u5B83\u4F9D\u8D56\u4E8E Hooks \u6765\u5B9E\u73B0\u8DEF\u7531\u529F\u80FD\u3002\u76F8\u6BD4\u4E8E React Router\uFF0CWouter \u66F4\u52A0\u8F7B\u91CF\uFF0C\u4EC5 2.1 KB gzipped\uFF0C\u975E\u5E38\u9002\u5408\u9700\u8981\u5FEB\u901F\u52A0\u8F7D\u548C\u7B80\u6D01\u4EE3\u7801\u7684\u9879\u76EE\u3002",paraId:50,tocIndex:33}]},9219:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(29534);const a=[{value:`pnpm create vite music-web --template react-ts
 `,paraId:0,tocIndex:2},{value:"\u5176\u4E2D\uFF0C",paraId:1,tocIndex:2},{value:"react-demo",paraId:1,tocIndex:2},{value:" \u662F\u5F53\u524D\u9879\u76EE\u6839\u76EE\u5F55\u7684\u6587\u4EF6\u540D\uFF0C\u53EF\u81EA\u884C\u5B9A\u4E49\u3002",paraId:1,tocIndex:2},{value:`cd react-demoyarn
 `,paraId:2,tocIndex:3},{value:`yarn dev# \u6216npm run dev
 `,paraId:3,tocIndex:4},{value:"React \u5B98\u65B9\u57FA\u4E8E webpack \u53D1\u5E03\u4E86\u4E00\u4E2A\u811A\u624B\u67B6\u5DE5\u5177 Create React App\uFF08\u7B80\u79F0 CRA\uFF09\uFF0C\u7528\u6765\u642D\u5EFA React \u9879\u76EE\u3002",paraId:4,tocIndex:5},{value:`npx create-react-app react-project
