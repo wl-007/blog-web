@@ -1,12 +1,21 @@
 ---
-title: 前端知识体系
-order: 10
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
 hero:
-  title: 前端知识体系
-  desc: 📚 知识体系
+  name: "WangLei"
+  text: "好记性不如烂笔头"
   actions:
-    - text: 立即开始
-      link: /base/css/css_base
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
 
-
+features:
+  - title: Vue3
+    details: 大鹏一日同风起，扶摇直上九万里
+    link: /web/vue3/base
 ---
+
