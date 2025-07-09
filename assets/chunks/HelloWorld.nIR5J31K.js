@@ -1,1 +1,0 @@
-import{d as o,c as e,o as t,_ as a}from"./framework.DSoHHWid.js";const c={class:"container"},s=o({__name:"HelloWorld",setup(_){return(l,n)=>(t(),e("div",c," Hello World "))}}),d=a(s,[["__scopeId","data-v-cfab16a9"]]);export{d as default};
