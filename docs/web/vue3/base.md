@@ -1,7 +1,7 @@
 ---
 next:
   text: "Vue3进阶"
-  link: "/guide/markdown"
+  link: "/web/vue3/advanced"
 ---
 
 # Vue3 基础
