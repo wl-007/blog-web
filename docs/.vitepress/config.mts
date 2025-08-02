@@ -23,6 +23,7 @@ export default defineConfig({
           {
             text: "web框架",
             items: [
+              { text: "vue2", link: "/web/vue2/base" },
               { text: "vue3", link: "/web/vue3/base" },
             ],
           },
