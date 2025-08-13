@@ -14,8 +14,8 @@ hero:
       link: /api-examples
 
 features:
-  - title: Vue3
-    details: 大鹏一日同风起，扶摇直上九万里
-    link: /web/vue3/base
+  - title: 旧版笔记（很随意）
+    details: 江畔何人初见月，江月何时初照人
+   
 ---
 
