@@ -2,6 +2,7 @@
 prev:
   text: "Vue3基础"
   link: "/web/vue3/base"
+recommend: 2
 ---
 
 # Vue3 进阶

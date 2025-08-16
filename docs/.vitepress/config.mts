@@ -1,62 +1,79 @@
 import { defineConfig } from "vitepress";
 import { vitepressDemoPlugin } from "vitepress-demo-plugin";
 import path from "path";
-import { withSidebar } from "vitepress-sidebar";
-import { withI18n } from 'vitepress-i18n';
-import AutoNavPlugin from 'vitepress-auto-nav-sidebar'
+// 导入主题的配置
+import { blogTheme } from "./blog-theme";
+import AutoNavPlugin from "vitepress-auto-nav-sidebar";
 const { nav, sidebar } = AutoNavPlugin({
-  ignoreFolders: ["node_modules", "assets", "public", ".vitepress", "code", ".obsidian", "utils"], // 需要排除的一些目录
-  ignoreFiles: ['index'], // 需要排除的一些文件
-  dirPrefix: '目录：',
-  filePrefix: '文件：',
-  showNavIcon:false,
-  showSideIcon:true,
+  ignoreFolders: [
+    "node_modules",
+    "assets",
+    "public",
+    ".vitepress",
+    "code",
+    ".obsidian",
+    "utils",
+    "sop",
+  ], // 需要排除的一些目录
+  ignoreFiles: ["index", "about"], // 需要排除的一些文件
+  dirPrefix: "目录：",
+  filePrefix: "文件：",
+  showNavIcon: false,
+  showSideIcon: true,
   collapsed: true,
-  singleLayerNav:false,
-  hiddenFilePrefix: '.'
-})
-console.log("🚀 ~ nav:", nav)
-const vitePressOptions = {
+  singleLayerNav: false,
+  hiddenFilePrefix: ".",
+});
+// 如果使用 GitHub/Gitee Pages 等公共平台部署
+// 通常需要修改 base 路径，通常为“/仓库名/”
+// 如果项目名已经为 name.github.io 域名，则不需要修改！
+// const base = process.env.GITHUB_ACTIONS === 'true'
+//   ? '/vitepress-blog-sugar-template/'
+//   : '/'
+
+// Vitepress 默认配置
+// 详见文档：https://vitepress.dev/reference/site-config
+export default defineConfig({
+  // 继承博客主题(@sugarat/theme)
+  extends: blogTheme,
   base: "/blog-web/",
   outDir: "../dist",
-  title: "WangLeiBlog",
-  description: "web blog",
-  head: [["link", { rel: "icon", href: "/coder.svg" }]],
+  lang: "zh-cn",
+  title: "WangLei",
+  description: "WangLei的博客主题，基于 vitepress 实现",
+  lastUpdated: true,
+  // 详见：https://vitepress.dev/zh/reference/site-config#head
+  head: [
+    // 配置网站的图标（显示在浏览器的 tab 上）
+    // ['link', { rel: 'icon', href: `${base}favicon.ico` }], // 修改了 base 这里也需要同步修改
+    ["link", { rel: "icon", href: "/coder.svg" }],
+  ],
   themeConfig: {
-    logo: "/coder.svg",
-    // https://vitepress.dev/reference/default-theme-config
-    nav: nav,
-    // sidebar: {
-    //   // 当用户位于 `guide` 目录时，会显示此侧边栏
-    //   "/web/vue3/": [
-    //     {
-    //       text: "Vue3",
-    //       items: [
-    //         { text: "基础夯实", link: "/web/vue3/base" },
-    //         { text: "进阶特性", link: "/web/vue3/advanced" },
-    //       ],
-    //     },
-    //   ],
+    // 展示 2,3 级标题在目录中
+    outline: {
+      level: [2, 3],
+      label: "目录",
+    },
+    // 默认文案修改
+    returnToTopLabel: "回到顶部",
+    sidebarMenuLabel: "相关文章",
+    lastUpdatedText: "上次更新于",
 
-    //   // 当用户位于 `config` 目录时，会显示此侧边栏
-    //   "/config/": [
-    //     {
-    //       text: "Config",
-    //       items: [
-    //         { text: "Index", link: "/config/" },
-    //         { text: "Three", link: "/config/three" },
-    //         { text: "Four", link: "/config/four" },
-    //       ],
-    //     },
-    //   ],
+    // 设置logo
+    logo: "/coder.svg",
+    nav,
+    // editLink: {
+    //   pattern:
+    //     'https://github.com/ATQQ/sugar-blog/tree/master/packages/blogpress/:path',
+    //   text: '去 GitHub 上编辑内容'
     // },
-    socialLinks: [{ icon: "github", link: "https://github.com/wl-007" }],
-    search: {
-      provider: "local",
-    },
-    footer: {
-      copyright: "Copyright ©2024-present scwanglei777@163.com",
-    },
+
+    socialLinks: [
+      {
+        icon: "github",
+        link: "https://github.com/wl-007",
+      },
+    ],
   },
   markdown: {
     config(md) {
@@ -75,29 +92,4 @@ const vitePressOptions = {
       },
     },
   },
-};
-
-const vitePressSidebarOptions = [
-    {
-      documentRootPath: 'docs',
-      scanStartPath: 'web/vue2',
-      resolvePath: '/web/vue2/',
-      useTitleFromFileHeading: true
-    },
-    {
-      documentRootPath: 'docs',
-      scanStartPath: 'web/vue3',
-      resolvePath: '/web/vue3/',
-      useTitleFromFrontmatter: true
-    }
-  ];
-const vitePressI18nConfig = {
-  // VitePress I18n config
-  locales: ['en', 'zhHans'], // first locale 'en' is root locale
-  searchProvider: 'local' // enable search with auto translation
-};
-export default defineConfig(
-  withSidebar(
-   vitePressOptions , vitePressSidebarOptions
-  )
-);
+});
