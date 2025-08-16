@@ -24,7 +24,7 @@ jobs:
 
       - name: Install and Build
         run: |
-          pnpm install
+          pnpm install --no-frozen-lockfile
           pnpm run docs:build
         env:
           NODE_OPTIONS: '--max_old_space_size=4096'
