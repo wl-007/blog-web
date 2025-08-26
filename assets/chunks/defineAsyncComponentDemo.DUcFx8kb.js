@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/chunks/defineAsyncComponentDemoSub.HxA_ly8c.js","assets/chunks/framework.pwnCeZqU.js"])))=>i.map(i=>d[i]);
-import{d as n,b as o,o as a,k as t,aW as _,aH as s}from"./framework.pwnCeZqU.js";const i=n({__name:"defineAsyncComponentDemo",setup(r){const e=_(()=>s(()=>import("./defineAsyncComponentDemoSub.HxA_ly8c.js"),__vite__mapDeps([0,1])));return(c,m)=>(a(),o(t(e)))}});export{i as default};

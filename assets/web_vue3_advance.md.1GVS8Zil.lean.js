@@ -1,0 +1,29 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/chunks/defineAsyncComponentDemo.eKfhMVpu.js","assets/chunks/framework.Cs_L7dQX.js","assets/chunks/watchEffect​Demo.ePM5OjQ2.js"])))=>i.map(i=>d[i]);
+import{D as d,v as E,aH as o,p as v,B as C,c as f,o as b,a5 as k,j as n,Y as g,G as i,Z as c,k as a,w as l,a7 as y}from"./chunks/framework.Cs_L7dQX.js";import{R as u,k as F}from"./chunks/index.j_Y1oe_T.js";const A=`<template>
+      <AdminPage></AdminPage>
+</template>
+  
+<script setup lang='ts'>
+import { defineAsyncComponent } from 'vue';
+
+  
+  const AdminPage = defineAsyncComponent(() => import('./defineAsyncComponentDemoSub.vue'))
+<\/script>
+  
+<style>
+  
+</style>`,m=`<template>
+  <div @click="count++">{{count}}</div>
+</template>
+
+<script setup lang='ts'>
+import { ref, watchEffect } from 'vue';
+
+const count = ref(0);
+
+watchEffect(() => {
+  console.log(\`Count is: \${count.value}\`);
+});
+<\/script>
+
+<style></style>`,_=JSON.parse('{"title":"Vue3 进阶","description":"","frontmatter":{"prev":{"text":"Vue3基础","link":"/web/vue3/base"},"recommend":2},"headers":[],"relativePath":"web/vue3/advance.md","filePath":"web/vue3/advance.md","lastUpdated":1756196049000}'),D={name:"web/vue3/advance.md"},P=Object.assign(D,{setup(B){const h=d();E(async()=>{h.value=(await o(async()=>{const{default:t}=await import("./chunks/defineAsyncComponentDemo.eKfhMVpu.js");return{default:t}},__vite__mapDeps([0,1]))).default});const e=v(!0),p=d();return E(async()=>{p.value=(await o(async()=>{const{default:t}=await import("./chunks/watchEffect​Demo.ePM5OjQ2.js");return{default:t}},__vite__mapDeps([2,1]))).default}),(t,s)=>{const r=C("ClientOnly");return b(),f("div",{"data-pagefind-body":!0},[s[4]||(s[4]=k("",11)),n("ul",null,[s[3]||(s[3]=n("li",null,[n("p",null,"含义：立即运行传入的副作用函数，并在其依赖的响应式状态发生变化时重新运行。​")],-1)),n("li",null,[s[2]||(s[2]=n("p",null,"使用场景：用于自动收集依赖并重新执行副作用。",-1)),g(i(a(u),null,null,512),[[c,e.value]]),i(r,null,{default:l(()=>[i(a(F),{title:"",description:"",locale:"",select:"vue",order:"vue,react,html",github:"",gitlab:"",theme:"",lightTheme:"",darkTheme:"",stackblitz:"%7B%22show%22%3Afalse%7D",codesandbox:"%7B%22show%22%3Atrue%7D",codeplayer:"%7B%22show%22%3Afalse%7D",files:"%7B%22vue%22%3A%7B%7D%2C%22react%22%3A%7B%7D%2C%22html%22%3A%7B%7D%7D",scope:"",htmlWriteWay:"write",visible:!0,onMount:s[0]||(s[0]=()=>{e.value=!1}),vueCode:a(m)},y({_:2},[p.value?{name:"vue",fn:l(()=>[i(a(p))]),key:"0"}:void 0]),1032,["vueCode"])]),_:1})])]),s[5]||(s[5]=k("",72)),g(i(a(u),null,null,512),[[c,e.value]]),i(r,null,{default:l(()=>[i(a(F),{title:"",description:"",locale:"",select:"vue",order:"vue,react,html",github:"",gitlab:"",theme:"",lightTheme:"",darkTheme:"",stackblitz:"%7B%22show%22%3Afalse%7D",codesandbox:"%7B%22show%22%3Atrue%7D",codeplayer:"%7B%22show%22%3Afalse%7D",files:"%7B%22vue%22%3A%7B%22defineAsyncComponentDemo.vue%22%3A%7B%22filename%22%3A%22components%2Fvue3advanced%2FdefineAsyncComponentDemo.vue%22%2C%22code%22%3A%22%3Ctemplate%3E%5Cn%20%20%20%20%20%20%3CAdminPage%3E%3C%2FAdminPage%3E%5Cn%3C%2Ftemplate%3E%5Cn%20%20%5Cn%3Cscript%20setup%20lang%3D'ts'%3E%5Cnimport%20%7B%20defineAsyncComponent%20%7D%20from%20'vue'%3B%5Cn%5Cn%20%20%5Cn%20%20const%20AdminPage%20%3D%20defineAsyncComponent(()%20%3D%3E%20import('.%2FdefineAsyncComponentDemoSub.vue'))%5Cn%3C%2Fscript%3E%5Cn%20%20%5Cn%3Cstyle%3E%5Cn%20%20%5Cn%3C%2Fstyle%3E%22%7D%2C%22defineAsyncComponentDemoSub.vue%22%3A%7B%22filename%22%3A%22components%2Fvue3advanced%2FdefineAsyncComponentDemoSub.vue%22%2C%22code%22%3A%22%3Ctemplate%3E%5Cn%20%20%20%20defineAsyncComponentDemoSub%5Cn%3C%2Ftemplate%3E%5Cn%20%20%5Cn%3Cscript%20setup%20lang%3D'ts'%3E%5Cn%20%20%5Cn%3C%2Fscript%3E%5Cn%20%20%5Cn%3Cstyle%3E%5Cn%20%20%5Cn%3C%2Fstyle%3E%22%7D%7D%2C%22react%22%3A%7B%7D%2C%22html%22%3A%7B%7D%7D",scope:"",htmlWriteWay:"write",visible:!0,onMount:s[1]||(s[1]=()=>{e.value=!1}),vueCode:a(A)},y({_:2},[h.value?{name:"vue",fn:l(()=>[i(a(h))]),key:"0"}:void 0]),1032,["vueCode"])]),_:1}),s[6]||(s[6]=k("",23))])}}});export{_ as __pageData,P as default};

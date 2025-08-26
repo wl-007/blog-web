@@ -1,1 +1,0 @@
-import{d as o,p as s,U as l,c,o as r,j as t,t as n,F as u}from"./framework.pwnCeZqU.js";const f=o({__name:"BaseStatus",setup(m){const e=s(0);console.log(e.value);const a=l({name:"张三"});return console.log(a.name),(p,_)=>(r(),c(u,null,[t("h1",null,n(e.value),1),t("h1",null,n(a.name),1)],64))}});export{f as default};
