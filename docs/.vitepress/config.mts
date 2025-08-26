@@ -15,7 +15,6 @@ const { nav, sidebar } = AutoNavPlugin({
   singleLayerNav:false,
   hiddenFilePrefix: '.'
 })
-console.log("🚀 ~ nav:", nav)
 const vitePressOptions = {
   base: "/blog-web/",
   outDir: "../dist",
