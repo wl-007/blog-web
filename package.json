@@ -5,7 +5,7 @@
   "author": "wangLei",
   "license": "MIT",
   "scripts": {
-    "dev": "vitepress run docs:dev",
+    "dev": "vitepress dev docs",
     "deploy": "npm run docs:build && npm run docs:deploy",
     "docs:deploy": "gh-pages -d dist",
     "build": "vitepress build docs",
