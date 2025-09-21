@@ -28,7 +28,7 @@ const { sidebar } = AutoNavPlugin({
   hiddenFilePrefix: '.'
 })
 const vitePressOptions = {
-  base: "/web-blog/",
+  base: "/blog-web/",
   outDir: "../dist",
   title: "WangLeiBlog",
   description: "web blog",
