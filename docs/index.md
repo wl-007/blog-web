@@ -1,21 +1,18 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "WangLei"
-  text: "好记性不如烂笔头"
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: WangLei
+  tagline: 只要坚持自己的目标，没有什么不可能
 
 features:
-  - title: 旧版笔记（很随意）
+  - title: 笔记
     details: 江畔何人初见月，江月何时初照人
-   
+    link : ./笔记
+
+  - title: learn
+    details: 江畔何人初见月，江月何时初照人
+    link : ./learn
+  
 ---
 

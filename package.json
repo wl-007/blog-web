@@ -1,5 +1,5 @@
 {
-  "name": "blog-web",
+  "name": "web-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "dev": "npm run docs:dev",
     "deploy": "npm run docs:build && npm run docs:deploy",
     "docs:deploy": "gh-pages -d dist",
-    "docs:dev": "vitepress dev docs",
+    "docs:dev": "vitepress dev docs --port 8080",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },

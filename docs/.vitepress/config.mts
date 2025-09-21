@@ -4,8 +4,20 @@ import path from "path";
 import { withSidebar } from "vitepress-sidebar";
 import { withI18n } from 'vitepress-i18n';
 import AutoNavPlugin from 'vitepress-auto-nav-sidebar'
-const { nav, sidebar } = AutoNavPlugin({
-  ignoreFolders: ["node_modules", "assets", "public", ".vitepress", "code", ".obsidian", "utils"], // 需要排除的一些目录
+const { nav } = AutoNavPlugin({
+  ignoreFolders: ["node_modules","learn","assets", "public", ".vitepress", "code", ".obsidian", "utils"], // 需要排除的一些目录
+  ignoreFiles: ['index'], // 需要排除的一些文件
+  dirPrefix: '目录：',
+  filePrefix: '文件：',
+  showNavIcon:false,
+  showSideIcon:true,
+  collapsed: true,
+  singleLayerNav:false,
+  hiddenFilePrefix: '.'
+})
+
+const { sidebar } = AutoNavPlugin({
+  ignoreFolders: ["node_modules","assets", "public", ".vitepress", "code", ".obsidian", "utils"], // 需要排除的一些目录
   ignoreFiles: ['index'], // 需要排除的一些文件
   dirPrefix: '目录：',
   filePrefix: '文件：',
@@ -16,7 +28,7 @@ const { nav, sidebar } = AutoNavPlugin({
   hiddenFilePrefix: '.'
 })
 const vitePressOptions = {
-  base: "/blog-web/",
+  base: "/web-blog/",
   outDir: "../dist",
   title: "WangLeiBlog",
   description: "web blog",
@@ -25,6 +37,7 @@ const vitePressOptions = {
     logo: "/coder.svg",
     // https://vitepress.dev/reference/default-theme-config
     nav: nav,
+    sidebar,
     // sidebar: {
     //   // 当用户位于 `guide` 目录时，会显示此侧边栏
     //   "/web/vue3/": [
@@ -76,27 +89,17 @@ const vitePressOptions = {
   },
 };
 
-const vitePressSidebarOptions = [
-    {
-      documentRootPath: 'docs',
-      scanStartPath: 'web/vue2',
-      resolvePath: '/web/vue2/',
-      useTitleFromFileHeading: true
-    },
-    {
-      documentRootPath: 'docs',
-      scanStartPath: 'web/vue3',
-      resolvePath: '/web/vue3/',
-      useTitleFromFrontmatter: true
-    }
-  ];
+
 const vitePressI18nConfig = {
   // VitePress I18n config
   locales: ['en', 'zhHans'], // first locale 'en' is root locale
   searchProvider: 'local' // enable search with auto translation
 };
+// export default defineConfig(
+//   withSidebar(
+//    vitePressOptions , vitePressSidebarOptions
+//   )
+// );
 export default defineConfig(
-  withSidebar(
-   vitePressOptions , vitePressSidebarOptions
-  )
+ vitePressOptions 
 );
