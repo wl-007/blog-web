@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/chunks/defineAsyncComponentDemoSub.BtelY90r.js","assets/chunks/framework.BnnifY9j.js"])))=>i.map(i=>d[i]);
+import{d as n,b as o,o as t,k as _,U as a,V as s}from"./framework.BnnifY9j.js";const i=n({__name:"defineAsyncComponentDemo",setup(r){const e=a(()=>s(()=>import("./defineAsyncComponentDemoSub.BtelY90r.js"),__vite__mapDeps([0,1])));return(c,m)=>(t(),o(_(e)))}});export{i as default};
