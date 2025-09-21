@@ -33,6 +33,7 @@ const vitePressOptions = {
   title: "WangLeiBlog",
   description: "web blog",
   head: [["link", { rel: "icon", href: "/coder.svg" }]],
+  ignoreDeadLinks:true,
   themeConfig: {
     logo: "/coder.svg",
     // https://vitepress.dev/reference/default-theme-config
